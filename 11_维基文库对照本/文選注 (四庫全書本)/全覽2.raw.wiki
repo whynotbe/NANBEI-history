@@ -1,0 +1,29 @@
+{{SKQS read all header|title=文選注|section=全覽2|prev=全覽1|prev_link=全覽1|next=全覽3|next_link=全覽3|type=集}}<!--
+
+請根據四庫全書掃描版校對本頁，標準見[[Wikisource:四庫全書原文]]。加標點請另外建立頁面。
+
+
+-->{{SKQS readall starter}}﻿{{:文選注 (四庫全書本)/卷22}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:文選注 (四庫全書本)/卷23}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:文選注 (四庫全書本)/卷24}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:文選注 (四庫全書本)/卷25}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:文選注 (四庫全書本)/卷26}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:文選注 (四庫全書本)/卷27}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:文選注 (四庫全書本)/卷28}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:文選注 (四庫全書本)/卷29}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:文選注 (四庫全書本)/卷30}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:文選注 (四庫全書本)/卷31}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:文選注 (四庫全書本)/卷32}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:文選注 (四庫全書本)/卷33}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:文選注 (四庫全書本)/卷34}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:文選注 (四庫全書本)/卷35}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:文選注 (四庫全書本)/卷36}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:文選注 (四庫全書本)/卷37}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:文選注 (四庫全書本)/卷38}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:文選注 (四庫全書本)/卷39}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:文選注 (四庫全書本)/卷40}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:文選注 (四庫全書本)/卷41}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:文選注 (四庫全書本)/卷42}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:文選注 (四庫全書本)/卷43}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:文選注 (四庫全書本)/卷44}}{{SKQS readall ender}}
+{{SKQS read all footer|title=文選注|section=全覽2|prev=全覽1|prev_link=全覽1|next=全覽3|next_link=全覽3|type=集}}{{PD-old}}

@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=弘明集|section=音釋三|prev=卷第三|next=卷第四|type=子|notes=梁 釋僧祐 編 景上海涵芬樓藏明刊本}}
+<pages from="42" to="43" index="Sibu Congkan0473-釋僧祐-弘明集-5-2.djvu" />

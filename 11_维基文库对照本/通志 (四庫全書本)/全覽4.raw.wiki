@@ -1,0 +1,36 @@
+{{SKQS read all header|title=通志|section=全覽4|prev=全覽3|prev_link=全覽3|next=全覽5|next_link=全覽5|type=史}}<!--
+
+請根據四庫全書掃描版校對本頁，標準見[[Wikisource:四庫全書原文]]。加標點請另外建立頁面。
+
+
+-->{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷080上}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷080下}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷081}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷082}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷083上}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷083下}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷084上}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷084下}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷085上}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷085下}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷086}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷087}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷088}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷089}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷090}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷091}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷092}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷093}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷094}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷095}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷096}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷097}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷098上}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷098下}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷099}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷100}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷101}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷102上}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷102下}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:通志 (四庫全書本)/卷103}}{{SKQS readall ender}}
+{{SKQS read all footer|title=通志|section=全覽4|prev=全覽3|prev_link=全覽3|next=全覽5|next_link=全覽5|type=史}}{{PD-old}}

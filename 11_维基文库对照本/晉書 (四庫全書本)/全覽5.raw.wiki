@@ -1,0 +1,19 @@
+{{SKQS read all header|title=晉書|section=全覽5|prev=全覽4|prev_link=全覽4|next=|next_link=|type=史}}<!--
+
+請根據四庫全書掃描版校對本頁，標準見[[Wikisource:四庫全書原文]]。加標點請另外建立頁面。
+
+
+-->{{SKQS readall starter}}﻿{{:晉書 (四庫全書本)/卷122}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:晉書 (四庫全書本)/卷123}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:晉書 (四庫全書本)/卷124}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:晉書 (四庫全書本)/卷125}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:晉書 (四庫全書本)/卷126}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:晉書 (四庫全書本)/卷127}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:晉書 (四庫全書本)/卷128}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:晉書 (四庫全書本)/卷129}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:晉書 (四庫全書本)/卷130}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:晉書 (四庫全書本)/音義序}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:晉書 (四庫全書本)/音義卷之上}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:晉書 (四庫全書本)/音義卷之中}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:晉書 (四庫全書本)/音義卷之下}}{{SKQS readall ender}}
+{{SKQS read all footer|title=晉書|section=全覽5|prev=全覽4|prev_link=全覽4|next=|next_link=|type=史}}{{PD-old}}

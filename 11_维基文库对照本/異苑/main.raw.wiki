@@ -1,0 +1,35 @@
+{{header
+| title=異苑
+| type= 
+| author= 劉敬叔
+| times = 劉宋
+| type= 文言短篇小說
+| type2= 小說集
+| type3=志怪小說
+| previous = 
+| next     = 
+| notes    = {{Textquality|50%}}{{WavyBookMark|異苑}}十卷，{{ProperNoun|南朝}}{{ProperNoun|宋}}{{ProperNoun|劉敬叔}}撰。{{ProperNoun|敬叔}}史書無傳，{{ProperNoun|明}}{{ProperNoun|胡震亨}}-{匯}-其事之散見史書者爲{{WavyBookMark|劉敬叔傳}}，稱{{ProperNoun|劉敬叔}}{{ProperNoun|彭城}}人。起家中兵參軍，司徒掌記，{{ProperNoun|東晉}}{{ProperNoun|安帝}}{{ProperNoun|義熙}}中拜{{ProperNoun|南平國}}郎中令，以事忤{{ProperNoun|劉毅}}，爲所奏免官。{{ProperNoun|宋}}初召爲-{征}-西長史，{{ProperNoun|文帝}}{{ProperNoun|元嘉}}三年入爲給事黃門郎。{{ProperNoun|明帝}}{{ProperNoun|泰始}}中卒於家。又{{ProperNoun|敬叔}}自稱{{ProperNoun|義熙}}十三年爲{{ProperNoun|長沙景王}}驃騎參軍{{*|見{{WavyBookMark|異苑}}卷三「貨牛淹淚」條}}，傳未載。{{WavyBookMark|隋書·經籍志}}著録：「{{WavyBookMark|異苑}}十卷，{{ProperNoun|宋}}給事{{ProperNoun|劉敬叔}}撰。」並著録{{WavyBookMark|續異苑}}十卷，不著撰人姓氏。{{WavyBookMark|舊唐書}}以下各史志無目。{{ProperNoun|明}}{{ProperNoun|萬暦}}中{{ProperNoun|胡震亨}}於{{ProperNoun|臨安}}獲{{ProperNoun|宋}}本，與友人{{ProperNoun|沈汝納}}校定百餘字，刻入{{WavyBookMark|秘冊匯函}}，遂得流傳於世。後{{WavyBookMark|津逮秘書}}、{{WavyBookMark|學津討原}}、{{WavyBookMark|説庫}}、{{WavyBookMark|古今說部叢書}}皆收之，{{WavyBookMark|四庫全書}}收入子部小説家類異聞之屬，俱爲十卷。{{WavyBookMark|唐宋叢書}}、{{WavyBookMark|五朝小說}}、{{WavyBookMark|説郛}}卷一一七皆收一卷，-{係}-節本。{{WavyBookMark|説郛}}卷一一三録{{WavyBookMark|梁清傳}}一篇，實亦出本書卷六「{{ProperNoun|梁清}}家諸異」條。{{WavyBookMark|舊小説}}甲集録七條。{{WavyBookMark|異苑}}收録古今怪異之事三百八十三則。上起{{ProperNoun|晉文公}}、{{ProperNoun|秦始皇}}，下迄{{ProperNoun|劉裕}}、{{ProperNoun|劉毅}}等，凡天文地理、社會人文、自然民俗之神異譎怪之事，「-{幾}-備矣」{{*|{{ProperNoun|毛晉}}語}}。{{WavyBookMark|四庫總目提要}}稱「其書皆言神怪之事」，「其詞旨簡澹，無小説家猥瑣之習」。且全書「大致尚爲完整，與{{WavyBookMark|博物志}}、{{WavyBookMark|述異記}}全出-{後}-人補綴者不同」，「斷非{{ProperNoun|六朝}}以-{後}-所能作」。{{ProperNoun|唐}}{{ProperNoun|劉知-{幾}-}}{{WavyBookMark|史通}}稱{{WavyBookMark|晉書}}載{{ProperNoun|惠帝}}{{ProperNoun|元康}}五年武庫火，{{ProperNoun|漢髙祖}}斬蛇劍穿屋飛去之怪事，卽據本書卷二「武庫火」條載入。| edition= yes
+}}
+{{檢索|異苑}}
+=={{WavyBookMark|異苑}}題辭==
+
+戊子歳，余就試{{ProperNoun|臨安}}，同友人{{ProperNoun|姚叔祥}}、{{ProperNoun|呂錫侯}}，詣{{ProperNoun|徐賈}}檢書。廢冊山積，每抽一編，則飛塵嚏人。最後得{{ProperNoun|劉敬叔}}{{WavyBookMark|異苑}}，是{{ProperNoun|宋}}紙所抄。三人目顧色飛，即罄酒資易歸。各録一通，隨各證定訛漏，互録簡端。未幾，{{ProperNoun|錫侯}}物故，{{ProperNoun|叔祥}}-{遊}-塞；-{余}-亦兀兀諸生間。此書遂置爲蠹叢。又十年爲戊戌，下第南歸，與友人{{ProperNoun|沈汝納}}同舟。出示之，復共證定百許字，遂稱善本。-{余}-間語{{ProperNoun|叔祥}}：「何當令{{ProperNoun|錫侯}}見之，不更快耶？」相與泫然久之。考{{WavyBookMark|南史}}、{{WavyBookMark|宋書}}，通無{{ProperNoun|敬叔}}傳；因匯其事之散在史書者，爲小傳，俾讀者有考焉。己亥六月望，{{ProperNoun|武原}}{{ProperNoun|胡震亨}}識。
+
+=={{ProperNoun|劉敬叔}}傳==
+
+{{ProperNoun|劉敬叔}}，字{{ProperNoun|敬叔}}，{{ProperNoun|彭城}}人。少穎敏，有異才。起家中兵參軍，司徒掌記。{{ProperNoun|義熙}}中，{{ProperNoun|劉毅}}與{{ProperNoun|宋髙祖}}共舉義旗，克復京{{ProperNoun|郢}}，功亞{{ProperNoun|髙祖}}，進封{{ProperNoun|南平郡公}}。{{ProperNoun|敬叔}}以公望推借，拜{{ProperNoun|南平國}}郎中令。旣而有詔拜{{ProperNoun|南平公}}世子，{{ProperNoun|毅}}以帝命崇重，當設饗宴，親請吏佐臨視。至日，國僚不重白，默拜於廄中。使人將反命，{{ProperNoun|毅}}方知之。謂{{ProperNoun|敬叔}}典禮，故爲此慢，大以爲恨。遂奏免{{ProperNoun|敬叔}}官。及{{ProperNoun|毅}}誅，{{ProperNoun|髙祖}}受禪，召爲-{征}-西長史。{{ProperNoun|元嘉}}三年，入爲給事黃門郎。數年，以病免。{{ProperNoun|太始}}中，卒於家。所著有{{WavyBookMark|異苑}}十餘卷行世。
+
+==卷==
+* [[異苑/卷01|卷一]]
+* [[異苑/卷02|卷二]]
+* [[異苑/卷03|卷三]]
+* [[異苑/卷04|卷四]]
+* [[異苑/卷05|卷五]]
+* [[異苑/卷06|卷六]]
+* [[異苑/卷07|卷七]]
+* [[異苑/卷08|卷八]]
+* [[異苑/卷09|卷九]]
+* [[異苑/卷10|卷十]]
+* [[異苑/後記|後記]]
+
+{{PD-old}}

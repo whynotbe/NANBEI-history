@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=弘明集|section=序|prev=|next=目録|type=子|notes=梁 釋僧祐 編 景上海涵芬樓藏明刊本}}
+<pages from="4" to="15" index="Sibu Congkan0472-釋僧祐-弘明集-5-1.djvu" />

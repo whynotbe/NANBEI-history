@@ -1,0 +1,6 @@
+{{SKQS read all header|title=法苑珠林|section=全覽5|prev=全覽4|prev_link=全覽4|next=|next_link=|type=子}}<!--
+
+請根據四庫全書掃描版校對本頁，標準見[[Wikisource:四庫全書原文]]。加標點請另外建立頁面。
+
+
+-->{{SKQS read all footer|title=法苑珠林|section=全覽5|prev=全覽4|prev_link=全覽4|next=|next_link=|type=子}}{{PD-old}}

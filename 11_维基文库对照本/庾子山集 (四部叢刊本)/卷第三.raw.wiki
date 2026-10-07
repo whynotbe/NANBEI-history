@@ -1,0 +1,4 @@
+{{四部叢刊頁眉|title=庾子山集|section=卷第三|prev=卷第二|next=卷第四|type=集|notes=北周 庾信 撰 景上海涵芬樓藏明屠隆刊本}}
+<pages from="126" to="165" index="Sibu Congkan0600-庾信-庾子山集-3-1.djvu" />
+
+{{Ombox|text=此頁面可能存在如下一些問題：<div>缺兩页</div><div style="font-size:smaller">歡迎您改進此頁面，當問題解決後，您可以移除此消息。如果問題並不存在，請直接移除此消息。</div>}}[[Category:有問題的四部叢刊頁面]]

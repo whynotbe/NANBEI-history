@@ -1,0 +1,499 @@
+﻿c_assoc_code,c_assoc_desc,c_assoc_desc_chn
+-1,[Missing Data],[缺乏信息]
+0,[Undefined],未詳
+4,Patron of (= Client was),是Y的恩主
+5,Patron was (= Client of),恩主是Y
+7,Coalition member of,黨羽為Y
+8,Coalition leader of,黨魁為Y
+9,Friend of,友
+10,Friend in the same graduating class,同年友
+11,Impeached,彈劾
+12,Impeached by,被Y彈劾
+13,Recommended,推薦
+14,Recommended by,被Y推薦
+15,Opposed or attacked,反對/攻訐
+16,Opposed by or attacked by,遭到Y的反對/攻訐
+17,Praised or admired by,被Y欣賞/器重
+18,Praised or admired,欣賞/器重
+19,Menren of,為Y之門人
+20,Menren was,門人為Y
+21,Coalition associate of,與Y結黨
+22,Student of,為Y之學生
+23,Student was,學生為Y
+24,"Directly recruited (bi, zoubi, etc)",辟
+25,"Directly recruited (bi, zoubi) by",為Y所辟
+26,Supported by,得到Y的支持
+27,Supported,支持
+29,Purged,排擠
+30,Purged by,遭Y排擠
+31,Passed institute exam with,(暫時保留，待刪除)
+32,Prefaced book by,為Y所著書作序
+33,Preface of book by,書序由Y所作
+34,Member of the school of,為Y學派的成員
+35,Member of his school was,該學派的成員為Y
+36,Disciple (dizi) of,為Y之弟子
+37,Disciple (dizi) was,弟子為Y
+38,Eulogized,為Y作哀辭 [併入167]
+39,Eulogized by,哀辭由Y所作[併入166]
+40,Calling transmitted to,其志業由Y傳承
+41,Calling received from,以Y之志業自任
+42,Philosophic school of lixue,研修理學
+43,Epitaph written by,墓誌銘由Y所作
+44,Epitaph written for,為Y作墓誌銘
+45,Postface of book written by,書跋由Y所作
+46,Postface written for book by,為Y所著書作跋
+47,Healed,醫愈
+48,Healed by,被Y醫愈
+49,followed,從Y遊
+50,followed by,從遊者為Y
+53,Occupation continued by,職業被Y繼承
+54,Occupation inherited from,繼承Y的職業
+55,Recommended for decree exam by,被Y推薦參加制科考試
+56,Recommended for decree exam,推薦Y參加制科考試
+57,Followed literary style of,文風效法Y
+58,Literary style followed by,文風為Y所效法
+59,Planned to assassinate,籌劃謀殺
+60,Assassination planned by,被Y籌劃謀殺
+61,Disagreed with views of,不合
+64,Officer under command of,為Y之部將
+65,Officer under his command was,部將為Y
+66,Staff member of,為Y之幕僚
+67,Staff member was,幕僚為Y
+68,Recognized the virtue of,節行為Y所稱道
+69,Virtue recognized by,稱道Y之節行
+70,Poetry known or praised by,詩作為Y所稱道
+71,Knew or praised poetry of,稱道Y的詩作
+72,Scholarship source writings of,為Y撰寫學術源宗
+73,Writings scholarship source of,學術源宗由Y撰寫
+75,Criticized via poetry by,被Y以詩諷忤
+76,Used poetry to criticize,以詩諷忤Y
+83,Disliked or hated,忌/惡
+84,Disliked or hated by,為Y所忌/惡
+86,Raised in the home of,被Y養育
+87,Raised in his home,養育
+88,Explanation of capping name (zixu or zishuo) composed for,為Y作字說、名述
+89,Explanation of capping name (zixu or zishuo) composed by,字說、名述由Y所作
+94,Lived in the same village as,同鄉
+95,Knew,相識
+104,Dying memorial praised,遺奏推薦
+105,Praised in dying memorial by,被Y在遺表中推薦
+106,Refused office in administration of,拒絕在Y主政的政府中任職
+107,Offer of office refused by,拒絕在Y的主政期出仕
+108,Discussed scholarship with,論學
+113,Member of poetry society with,詩社成員
+114,Poems composed with,相唱和
+117,Tongxue was,同學、同門
+118,Informal advisor of,為Y之謀士
+119,Informally advised by,以Y為謀士
+120,Take imperial examinations with,同場屋/同應舉
+126,Transmitted the scholarship of,傳Y之學
+127,Scholarship transmitted by,其學由Y所傳
+128,Recommended execution of,建議處決Y
+129,Execution recommended by,其處決係由Y建議
+130,Retainer (客) of,為Y之門客
+131,Retainer (客) was,門客為Y
+132,Biography written by,傳記作者為Y
+133,Biographer of,為Y作傳
+136,Attacked or not support policies of,反對/不支持Y的政策
+137,Policies attacked-not supported by,其政策被Y反對/不支持
+138,Attacked by coalition of,遭Y黨羽的攻訐
+139,His coalition attacked,其黨攻訐Y
+140,Scholarship praised by,讚揚Y之學
+141,Praised scholarship of,其學得到Y之讚揚
+142,Refused an audience with,拒絕會面
+143,Audience invitation refused by,會面的邀請被Y拒絕
+145,Sacrificial prayer written for,為Y作祭文
+146,Sacrificial prayer written by,祭文由Y所作
+147,Invocation prayer written for,為Y作祝詞
+148,Invocation prayer written by,祝詞由Y所作
+149,Postscripted calligraphy or painting of,為Y之書、畫作跋
+150,Calligraphy or painting postscripted by,書、畫由Y作跋
+151,Ancestral stele or records written for,為Y作世系碑記
+152,Ancestral stele or records written by,世系碑記由Y所作
+154,Requested epitaph (for a third party) from,求Y為他人（第三方）作墓誌銘
+155,Epitaph written (for a third party) at the request of,受Y的請求為他人（第三方）作墓誌銘
+156,Tried and found guilty by,被Y鞫治
+157,Tried and found guilty,鞫治
+158,Arrested by,被Y逮捕
+159,Arrested,逮捕
+160,Temple stele(miaobei) written for,為Y作廟碑記
+161,Temple stele(miaobei) written by,廟碑記由Y所作
+162,Departure note sent to,為Y作臨別贈言(送別詩、序)
+163,Departure note received from,臨別得到Y所作贈言(送別詩、序)
+166,Lamentation prayer written by,哀辭由Y所作
+167,Lamentation prayer written for,為Y作哀辭
+172,Praised the literary style of,稱道Y之文風
+173,Literary style praised by,文風為Y所稱道
+174,Calligraphy for funerary stele script done by,神道碑的書法由Y所作
+175,Calligraphy for funerary stele script done for,為Y之神道碑作書
+180,Executed at the order of,根據Y的命令被處決
+181,Ordered the execution of,下令處決
+183,Attacked or denounced,攻訐[併入15]
+184,Attacked or denounced by,遭Y攻訐 [併入16]
+185,Determined jinshi rank of,決定Y的科舉次第
+186,Jinshi rank determined by,科舉次第由Y決定
+187,Posthumous name essay written by,諡議由Y所作
+188,Posthumous name essay written for,為Y作諡議
+189,Amnesty opposed for,反對赦免
+190,Amnesty opposed by,對他的赦免遭到Y的反對
+193,Honored,對Y執弟子禮
+194,Honored by,受Y之弟子禮
+195,Contributed to military expenses of,出財贍給Y之軍
+196,Military expenses contributed by,軍隊得到Y之贍給
+197,Served in the same bureau with,同僚
+198,Charitable estate stele written by,義莊記由Y所作
+199,Charitable estate stele written for,為Y作義莊記
+204,Executed,處決
+205,Executed by,被Y處決
+206,Fought against the rebel,抵禦或討平叛軍Y
+207,Fought (as rebel) by loyalist,叛軍遭到Y的抵禦或討平
+208,Ancestral source of learning was,宗Y之學
+209,Descent line of teaching to,其學為Y所宗
+210,Killed by followers of,被Y（或追隨者）殺害
+211,Followers killed,其（或追隨者）殺害Y
+213,Tutor to the family of,主Y家之教席
+214,Tutor of family was,聘Y主家之教席
+217,Received the classics from,受經於Y
+218,Transmitted the classics to,傳經於Y
+219,Buried by,為Y所葬
+220,Buried,葬
+223,Prepared for burial corpse of,喪事由Y經紀
+224,Corpse prepared for burial by,經紀Y之喪
+225,Inkstone motto written for,為Y作硯銘
+226,Inkstone motto written by,硯銘由Y所作
+227,Denounced scholarship of,排Y之學
+228,Scholarship denounced by,其學為Y所排
+231,Studied with,從Y學
+232,Taught to,教授Y
+235,Birth congratulated by,(暫時保留，待刪除)
+236,Congratulated the birth of,(暫時保留，待刪除)
+237,Nianpu composed by,年譜由Y所作
+238,Nianpu composed for,為Y作年譜
+239,Buddhist temple stele written for,為Y作佛寺記
+240,Buddhist temple stele written by,佛寺記由Y所作
+241,Calligraphy for heading of funerary stele script done by,神道碑額篆由Y所作
+242,Calligraphy for heading of  funerary stele script done for,為Y之神道碑作額篆
+243,Purged for association with,因與Y的交往受牽連
+244,Association caused purge of,與他的交往導致Y受牽連
+247,Charitable estate rules preface by,為Y之義莊規矩作序
+248,Charitable estate rules preface for,義莊規矩序由Y所作
+249,Official in the administration of,在Y的主政期出仕 [暫時保留，待刪除]
+250,Official in his administration was,其主政期中Y出仕 [暫時保留，待刪除]
+251,Co-authored book with,合撰(編)著作
+252,Shrine erected for,為Y建立祠廟
+253,Shrine erected by,Y為之建立祠廟
+256,Adopted the learning of,私淑Y之學
+257,Learning adopted by,其學為Y所私淑
+258,Taught the philosophy of,教授Y之學
+259,Philosophy taught to students by,其學由Y傳授學生
+260,Refused to be a secretary of,拒為Y掾屬
+261,Secretary offer refused by,欲辟Y為幕僚但被拒絕
+262,Supported selection as emperor,擁立Y
+263,Selection as emperor supported,得到Y的擁立
+268,"Member of same club (hui, she, etc) as",同會
+269,Critic of,批評
+270,Criticized by,被Y批評
+273,Supported the policies of,支持Y的政策 [併入27]
+274,Supporter of policies was,其政策得到Y的支持[併入26]
+275,Preface to geneology composed by,家譜由Y作序
+276,Prefaced geneology of,為Y之家譜作序
+277,proceeded with (friendship),與Y遊
+278,Vice-envoy in embassy of,副Y出使
+279,Chief envoy of vice-envoy,為使團副使Y的正使
+280,Corresponded with,"(暫時保留,待日後分入 429, 430, 431, 432)"
+282,Accused as criminal associate of,被指為Y之同犯
+283,Received essay on village toast (xiangyin xu) from,舉辦的鄉禮得到Y所作之序
+284,Wrote essay on village toast (xiangyin xu) for,為Y舉辦的鄉禮作序
+292,Associated with the menren of,以文章、學問受知於
+293,Menren associated with,稱道Y之文章、學問
+294,Struggled for power with,與Y爭權
+297,Study motto (zhaiming) by,齋、堂銘由Y所作
+298,Wrote Study motto (zhaiming) for,為Y作齋、堂銘
+299,Fled as officer from the realm of,逃離Y的統治區
+300,Officer who fled from his realm was,Y自其統治區中逃離
+301,Hired to teach in lineage school,聘Y執教族學
+302,Hired to teach in lineage school by,為Y所聘執教族學
+303,Refused to be in coalition of,拒為Y之黨
+304,Coalition membership refused by,邀Y入黨但遭到拒絕
+309,Descendants were menren of,其後代出於Y之門
+310,Menren were descendants of,門人為Y之後代
+315,Travel into exile accompanied,從Y至貶所
+316,Travel into exile accompanied by,由Y陪伴至貶所
+321,Beiyin composed by,碑陰為Y所作
+322,Beiyin composed for,為Y作碑陰
+323,Book relied on by,著述為Y所採
+324,Relied on book by,採Y之著述
+325,Postscripted stele for,[併入334]
+326,Stele for postscripted by,[併入333]
+333,Epitaph postface by,墓誌銘由Y作跋
+334,Epitaph postface for,為Y之墓誌銘作跋
+335,Affinal relationship refused by,聯姻建議被Y拒絕
+336,Refused affinal relation offered by,拒絕Y的聯姻建議
+339,Visited,拜訪
+340,Visited by,受到Y拜訪
+341,Poetry/prose edited by,編輯Y之詩/文
+342,Edited the poetry/prose of,詩/文由Y編輯
+343,Defeated in battle,戰勝
+344,Defeated in battle by,敗於
+349,Assisted,(暫時保留，待刪除)
+350,Assisted by,(暫時保留，待刪除)
+351,Posthumous titular office proposed for,提議封贈Y
+352,Posthumous titular office proposed by,以Y言得到封贈
+354,Eunuch in service of,以宦官事Y
+355,Served by eunuch,為宦官Y所事
+358,Liked by,得到Y的喜爱
+359,Liked,喜爱
+361,Studied writings of,研讀Y的著作
+362,Writings studied by,其著作為Y所研讀
+363,Treated with respect,禮待
+364,Treated with respect by,受Y之禮待
+365,Served as lady-in-waiting,為Y侍女
+366,Served as lady-in-waiting by,以Y為侍女
+367,Agreed with views of,政見趨同
+379,Calligraphy emulated by,書風為Y所模仿
+380,Calligraphy emulated,模仿Y的書風
+381,Surrendered to,降於
+382,Surrender accepted from,接受Y之納降
+388,Deposed,廢除Y的君位
+389,Deposed by,君位被Y廢除
+390,Congratulatory note sent to,向Y致賀
+391,Congratulatory note received from,從Y處收到賀詞 (occasion)
+396,Family history (jiazhuan) composed by,家傳為Y所作
+397,Family history (jiazhuan) composed for,為Y作家傳
+398,Explanation of personal name (mingshuo) composed for,為Y作名說
+399,Postface to genealogy (jiapu) written by,家譜由Y作後序
+400,Wrote Postface to genealogy (jiapu) for,為Y家譜作後序
+403,Explanation of personal name (mingshuo) composed by,名說由Y所作
+404,Fought together,戰友
+405,Funerary stele written by,神道碑由Y所作
+406,Wrote Funerary stele for,為Y作神道碑
+407,Received request for Funerary stele from,受Y請求作神道碑
+408,Requested Funerary stele be written by,向Y求神道碑
+409,Tomb stone (mubiao) written by,墓表由Y所作
+410,Wrote Tomb stone (mubiao) for,為Y作墓表
+411,Received request for Tomb stone (mubiao) from,受Y請求作墓表
+412,Requested Tomb stone (mubiao) be written by,向Y求墓表
+413,Epitaph preface written by,墓誌銘序由Y所作
+414,Wrote Epitaph preface for,為Y墓誌銘作序
+415,Funerary stele preface written by,神道碑序由Y所作
+416,Wrote Funerary stele preface for,為Y神道碑作序
+417,Funerary stele postface written by,神道碑跋由Y所作
+418,Wrote Funerary stele postface for,為Y神道碑作跋
+419,Tomb stone preface written by,墓表序由Y所作
+420,Wrote Tomb stone preface for,為Y墓表作序
+421,Tomb stone postface written by,墓表跋由Y所作
+422,Wrote Tomb stone postface for,為Y墓表作跋
+423,Elegy written by,挽詩、詞由Y所作
+424,Wrote Elegy for,為Y作挽詩、詞
+425,Account of conduct (xingzhuang) written by,行狀由Y所作
+426,Wrote account of conduct (xingzhuang) for,為Y作行狀
+427,Portrait eulogy written by,畫贊(畫像記)由Y所作
+428,Wrote Portrait eulogy for,為Y作畫贊(畫像記)
+429,Sent letter to,致書Y
+430,Was sent  letter by,被致書由Y
+431,Replied to letter from,答Y書
+432,Was sent a reply by,收到Y的答書
+433,Sent official letter to,致Y啓
+434,Received official letter from,收到Y的啓
+435,Replied to offical letter from,答Y啓
+436,Received official reply from,收到Y的答啓
+437,Presented literary composition as gift to,贈詩、文
+438,Received literary composition as gift from,收到Y的贈詩、文
+439,Inscribed calligraphy of,題Y的書帖
+440,Calligraphy inscribed by,其書帖由Y作題
+441,Inscribed painting of,題Y之畫作
+442,Painting inscribed by,題畫詩文的作者為Y
+443,Composed Building inscription for,為Y之建築物題詠、記、命名
+444,Building inscription composed by,建築物得到Y的題詠、記、命名
+445,"Shared ""same way"" with",同道
+446,Lent to,貸給Y
+447,Borrowed from,向Y貸
+448,gave money or goods to,給Y錢物
+449,received money or goods from,接受Y的錢物
+450,Bought from,向Y購買
+451,Sold to,賣給Y
+452,Tenant was,佃戶為Y
+453,Landlord was,地主為Y
+454,Household servant was,家僕為Y
+455,Household master was,家主為Y
+456,Scholarly works edited by,編輯Y的學術作品
+457,Edited scholarly works of,其學術作品由Y編輯
+458,School stele written by,學記（書院記）由Y所作
+459,Wrote School stele for,為Y作學記（書院記）
+460,Took possession of the wife of,奪Y之妻
+461,Wife was taken possession of by,妻被Y奪
+462,Kuangji (Grave Inscription) written by,壙記由Y所作
+463,Wrote kuangji (Grave Inscription) for,為Y作壙記
+464,Criminal associate was accused to be,其同犯被指為Y
+465,wrote colophon for item in collection of,為Y之收藏作跋
+466,colophon for item in collection written by,收藏品由Y作跋
+467,sought direction in learning from,向Y問學
+468,gave direction in learning to,指教Y
+469,wrote colophon to the writings of,為Y之詩文作跋
+470,colophon to writings was composed by,詩文跋由Y所作
+471,did harm to,陷害Y
+472,was harmed by,被Y陷害
+473,painted in style of,畫風師法Y
+474,style of painting imitated by,畫風為Y所師法
+475,calligraphy or painting praised by,書、畫為Y所稱道
+476,"praised calligraphy, painting of",稱道Y的書、畫
+477,with medical arts served,以醫術事Y
+478,was served by the medical arts of,被Y以醫術所事
+479,wrote preface for the literary works of,為Y所作詩文作序
+480,preface to literary works was written by,詩文序由Y所作
+481,superior was,上司為Y
+482,subordinate was,下屬為Y
+483,wrote plaque for,為Y篆匾額、器銘
+484,plaque written by,匾額、器銘由Y所篆
+485,achieved justice for,為Y明冤
+486,justice for achieved by,其冤因Y得明
+487,memorialized the writings of,奏錄Y之文
+488,writings memorialized by,其文為Y所奏錄
+489,wrote in the stead of,代Y作文
+490,writing in his stead done by,由Y代作文
+491,rejected the entreaties of,拒Y游説
+492,entreaties were rejected by,游説Y被拒絕
+493,was aided by (Political Association),為Y所佑(政治關係)
+494,aided (Political Association),護佑Y(政治關係)
+495,friend to Y when Y was heir-apparent,為Y之潛邸舊人
+496,friend from time as heir-apparent was,潛邸舊人為Y
+497,Wrote living person shrine inscription for,為Y之生祠作記
+498,living person shrine inscription written by,其生祠由Y作記
+499,recruited Y to be instructor at school or academy,聘Y執教官學、書院
+500,was recruited to be instructor at school or academy,為Y所聘執教官學、書院
+501,saw off on journey,送別
+502,as seen off on journey by,被送別
+503,presented painting to,贈畫
+504,was presented painting by,得到贈畫
+505,"presented writing, calligraphy to",獻文、書于Y
+506,"was presented writing, calligraphy by",收到Y所獻詩、文、書
+507,seduced,蠱惑Y
+508,was seduced by,被Y蠱惑
+509,"requested a preface, inscription from",請Y作序、記
+510,"preface, inscription requested by",受Y之請作序、記
+511,borrowed books from,向Y借書
+512,books borrowed by,借書給Y
+513,opposed assertion of emperorship by,反對Y稱帝
+514,assertion of emperorship opposed by,稱帝為Y所反對
+515,insulted,得罪Y
+516,was insulted by,被Y得罪
+517,wrote inscription for tomb of,題Y之墓
+518,inscription for tomb written by,墓由Y題
+519,offered strategic plans to,獻策於Y
+520,was offered strategic plans by,採納Y之獻策
+521,formed deep bond with,結義
+522,in offering assistance went together with,與Y共赴難
+523,wrote colophon to the account of conduct of,為Y之行狀作跋
+524,colophon to account of conduct written by,行狀跋由Y所作
+525,wrote colophon to the family biography of,為Y之家傳作跋
+526,colophon to the family biography written by,家傳跋由Y所作
+527,provided assistance as friend,為友人提供幫助
+528,received assistance from friend Y,得到友人Y之幫助
+529,evaluated the writings of,評論Y之著作
+530,writings evaluated by,著作被Y評論
+531,Calligraphy for heading of epitaph script done by,墓誌銘額篆由Y所作
+532,Calligraphy for heading of epitaph script done for,為Y的墓誌銘作額篆
+533,gave presents to,贈Y物
+534,given presents by,受Y之贈物
+535,"chose name, courtesy name for",為Y取名、字
+536,"name, courtesy name chosen by",名、字由Y所取
+537,colophon to sacrificial prayer written by,祭文跋由Y所作
+538,wrote colophon to sacrificial prayer for,為Y祭文作跋
+539,political accomplishments praised by,政績為Y所稱道
+540,praised the political accomplishments of,稱道Y之政績
+541,printed the writings of,刊刻Y之著述
+542,writings printed by,著述由Y刊刻
+543,Requested epitaph (from a third party) for,求他人（第三方）為Y作墓誌銘
+544,Epitaph requested by (from a third party),墓誌銘係由Y向他人（第三方）求得
+545,Requested funerary stele (for a third party) from,求Y為他人（第三方）作神道碑
+546,Funerary stele written (for a third party) at the request of,受Y的請求為他人（第三方）作神道碑
+547,Requested funerary stele (from a third party) for,求他人（第三方）為Y作神道碑
+548,Funerary stele requested by (from a third party),神道碑係由Y向他人（第三方）求得
+549,taken as foster daughter by,為Y之義女
+550,took as foster daughter,義女為Y
+551,Requests government act for,為Y乞某事
+552,Government act requested by,某事由Y所乞
+553,Memorialized concerning,上奏論Y
+554,was memorialized about by,被Y奏論
+555,journeyed with,與Y旅遊
+556,Wrote Inscription for Daoist institution for,為Y作道觀記
+557,Inscription for Daoist institution written by,道觀記由Y所作
+558,Examiner of,為Y之考官
+559,Examined by,考官為Y
+560,Wrote Shrine inscription for,為Y作祠記
+561,Shrine inscription written by,祠記由Y所作
+562,servant of,為Y之家僕
+563,servant was,家僕為Y
+564,family friend was,世交父執為Y
+565,Family friend to,為Y之世交父執
+566,arranged marriage of,為Y主婚
+567,marriage arranged by,Y為之主婚
+568,Took as foster son,錄Y為假子(養子)
+569,Taken as foster son by,為Y之假子(養子)
+570,Claimed to be kin with,與Y攀親戚敘族屬
+571,Was claimed kin with,Y與之攀親戚敘族屬
+572,edited the writings of,校訂Y之著述
+573,writings were edited by,著述由Y校訂
+574,female servant of,為Y之婢
+575,female servant was,婢為Y
+576,presented poetry collection to,獻詩集給Y
+577,was presented poetry collection by,被Y獻詩集
+578,preface to family biography written by,家傳序由Y所作
+579,wrote preface to family biography of,為Y之家傳作序
+580,Wrote inscription for writings of,為Y之書題詞
+581,writings inscribed by,書之題詞由Y所作
+582,gave miitary support to/surrendered to,軍事支持Y
+583,was supported militarily/surrendered to by,受Y之軍事支持
+584,opposed militarily,軍事對抗Y
+585,was opposed militarily by,被Y軍事對抗Y
+586,Toady to Y,諂事Y
+587,Toadied to by Y,被Y諂事
+588,Recommended Y to a thrid person,推薦Y給他人（第三方）
+589,Recommended by Y to a third person,被Y推薦給他人（第三方）
+590,Proposed to worship Y,為Y請祀
+591,Proposed by Y to be worshiped,Y為之請祀
+592,Contributed to the expenses of Y,出財贍給Y
+593,Received contribution of expenses from Y,Y為之出財贍給
+594,Requested a posthumous name for Y ,為Y求謚號
+595,Received a posthumous name because of Y's request,Y為之求謚號
+596,Discoursed on learning with Y,與Y為講學
+597,Epitaph calligraphy was done for Y,為Y的墓誌銘書丹
+598,Epitaph calligraphy was done by Y,墓誌銘由Y書丹
+599,Wrote inscription for Y,為Y作記
+600,Inscription written by Y,記由Y所作
+601,Steles of appreciation for departed officials written for Y,為Y作去思碑/記
+602,Steles of appreciation for departed officials written by Y,去思碑/記由Y所作
+603,Wrote a stele/inscription [commemorating] the lasting care [of a former official] for Y,為Y作遺愛碑/記
+604,Stele/inscription [commemorating] the lasting care [of a former official] written by Y,遺愛碑/記由Y所作
+606,Steles of benevolent administration written for Y,為Y作德政碑/頌
+607,Steles of benevolent administration written by Y,德政碑/頌由Y所作
+614,Plaintiff was Y,原告為Y
+615,Defendant was Y,被告為Y
+630,Preface to texts mourning/congratulating birthday of Y,"為y之挽詩 ,壽詩/文作序"
+631,Preface to texts mourning/congratulating birthday written by Y,"挽詩 ,壽詩/文序被Y所作"
+632,Rebelled against Y,反叛
+633,Rebelled by Y,被Y反叛
+634,Accompanied,陪同
+635,Accompanied by Y,被Y陪同
+636,Discussed policies with,論政
+637,Filled the name of the deceased for,為Y書諱/填諱
+638,Name of the deceased filled in by,書諱/填諱由Y所作
+639,Carved epitaph/funerary stele for Y,為Y的神道碑/墓誌/壙誌刊/刻石
+640,Epitaph/funerary stele carved by Y,神道碑/墓誌/壙誌由Y刊/刻石
+641,Calligraphy on the tomb lid written by,墓誌蓋由Y所書
+642,Calligraphy on the tomb lid written for,為Y書墓誌蓋
+645,X's farmland borders Y's,田疇相鄰
+646,Dharma heir was,法嗣為Y
+647,Dharma heir of,為Y之法嗣
+648,Y built stupa for the relics of X,Y 為 X 建靈塔/舍利塔
+649,The stupa for the relics of X was built by Y,X 之靈塔/舍利塔為 Y 所建
+650,Disciple's disciple was Y,門孫 (門人之門人) 為Y
+651,Disciple's disciple of Y,為 Y 的門孫 (門人之門人)
+652,Requested account of conduct (for a third party) from,求Y為他人（第三方）作行狀
+653,Account of conduct written (for a third party) at the request of,受Y的請求為他人（第三方）作行狀
+654,Baptized Y,為 Y 施洗
+655,Baptized by Y,受洗於 Y
+656,Erecting the stele/stone for Y,為 Y 墓/碑立石
+657,Erecting the stele/stone by Y,墓/碑石由 Y 所立
+658,Drafted appointment document for Y,為Y起草任命文書(告身/制詞)
+659,Appointment document drafted by Y,任命文書(告身/制詞)由Y起草

@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=大唐西域記|section=卷第七|prev=卷第六|next=卷第八|type=史|notes=唐 釋玄奘 奉敕譯 唐 釋辨機 撰 景江安傅氏雙鑑樓藏宋刊藏經本}}
+<pages from="2" to="38" index="Sibu Congkan0303-釋玄奘-大唐西域記-4-3.djvu" />

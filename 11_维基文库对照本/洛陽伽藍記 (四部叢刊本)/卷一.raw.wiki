@@ -1,0 +1,4 @@
+{{四部叢刊頁眉|title=洛陽伽藍記|section=卷一|prev=序|next=卷二|type=史|notes=後魏 楊衒之 撰 張元濟 撰校勘記 明如隱堂本}}
+<pages from="12" to="55" index="Sibu Congkan Sanbian183-楊衒之-洛陽伽藍記-2-1.djvu" />
+
+{{Ombox|text=此頁面可能存在如下一些問題：<div>缺两页</div><div style="font-size:smaller">歡迎您改進此頁面，當問題解決後，您可以移除此消息。如果問題並不存在，請直接移除此消息。</div>}}[[Category:有問題的四部叢刊頁面]]

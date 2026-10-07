@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=齊民要術|section=卷第五|prev=卷第四|next=卷第六|type=子|notes=後魏 賈思勰 撰 景上元鄧氏群碧樓藏明鈔本}}
+<pages from="32" to="77" index="Sibu Congkan0354-賈思勰-齊民要術-4-2.djvu" />

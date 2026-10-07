@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=法苑珠林|section=卷第二十六|prev=卷第二十五|next=卷第二十七|type=子|notes=唐 釋道世 撰 景上海涵芬樓藏明萬曆刊本}}
+<pages from="48" to="105" index="Sibu Congkan0496-釋道世-法苑珠林-36-08.djvu" />

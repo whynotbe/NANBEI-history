@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=華陽國志|section=卷第三|prev=卷第二|next=卷第四|type=史|notes=晉 常璩 撰 景烏程劉氏嘉業堂藏明錢叔寶寫本}}
+<pages from="62" to="100" index="Sibu Congkan0286-常璩-華陽國志-3-1.djvu" />

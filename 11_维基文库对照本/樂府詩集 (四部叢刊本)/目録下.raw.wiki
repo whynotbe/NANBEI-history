@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=樂府詩集|section=目録下|prev=目録上|next=卷第一|type=集|notes=宋 郭茂倩 編 景上海涵芬樓藏汲古閣刊本}}
+<pages from="2" to="119" index="Sibu Congkan1955-郭茂倩-樂府詩集-16-02.djvu" />

@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=廣弘明集|section=卷第三十上|prev=音釋二十九下|next=音釋三十上|type=子|notes=唐 釋道宣 編 景上海涵芬樓藏明刊本}}
+<pages from="106" to="163" index="Sibu Congkan0488-釋道宣-廣弘明集-12-12.djvu" />

@@ -1,0 +1,374 @@
+<!--
+
+請根據四庫全書掃描版校對本頁，標準見[[Wikisource:四庫全書原文]]。加標點請另外建立頁面。
+
+
+-->{{SKQS header|title=法苑珠林|section=卷一|prev=|prev_link=|next=卷二|next_link=卷002|type=子}}<onlyinclude><poem>　　欽定四庫全書
+　　{{SK anchor|法苑珠林卷一}}
+　　唐　釋道世　撰
+　　{{SK anchor|篇目上}}
+　　劫量篇第一之一
+　　{{SK anchor|小三災部}}
+　　述意　　　　　　疫病
+　　刀兵　　　　　　饑饉
+　　相生　　　　　　對除
+　　{{SK anchor|大三災部}}
+　　時量　　　　　　時節
+　　{{SK anchor|壊劫}}
+　　劫量篇第一之餘
+　　{{SK anchor|大三災部之餘}}
+　　成劫
+　　{{SK anchor|三界篇第二之一}}
+　　四洲部
+　　述意　　　　　　會名
+　　地量　　　　　　山量
+　　界量　　　　　　方土
+　　身量　　　　　　夀量
+　　衣量　　　　　　優劣
+　　三界篇第二之二
+　　{{SK anchor|諸天部}}
+　　辨位　　　　　　會名
+　　業因　　　　　　受生
+　　界量　　　　　　身量
+　　衣量　　　　　　夀量
+　　住處　　　　　　廣狹
+　　{{SK anchor|三界篇第二之三}}
+　　諸天部之餘
+　　莊飾　　　　　　奏請
+　　通力　　　　　　身光
+　　市易　　　　　　婚禮
+　　飲食　　　　　　僕乘
+　　眷屬　　　　　　貴賤
+　　貧富　　　　　　送終
+　　{{SK anchor|日月篇第三之一}}
+　　述意部
+　　{{SK anchor|星㝛部}}
+　　日月篇第三之二
+　　{{SK anchor|日宫部}}
+　　月宫部
+　　{{SK anchor|寒暑部}}
+　　照用部
+　　{{SK anchor|虧盈部}}
+　　昇雲部
+　　{{SK anchor|震雷部}}
+　　擊電部
+　　{{SK anchor|降雨部}}
+　　失候部
+　　{{SK anchor|地動部}}
+　　六道篇第四之一
+　　{{SK anchor|諸天部}}
+　　述意　　　　　　會名
+　　{{SK anchor|受苦}}
+　　六道篇第四之二
+　　{{SK anchor|諸天部之餘}}
+　　報謝
+　　{{SK anchor|人道部}}
+　　述意　　　　　　會名
+　　住處　　　　　　業因
+　　貴賤　　　　　　貧富
+　　{{SK anchor|受苦}}
+　　六道篇第四之三
+　　{{SK anchor|阿修羅部}}
+　　述意　　　　　　會名
+　　住處　　　　　　業因
+　　眷屬　　　　　　衣食
+　　{{SK anchor|戰鬬}}
+　　{{SKchar|3932}}神部
+　　述意　　　　　　會名
+　　住處　　　　　　列數
+　　業因　　　　　　身量
+　　夀命　　　　　　好醜
+　　苦樂　　　　　　貴賤
+　　六道篇第四之四
+　　{{SKchar|3932}}神部之餘
+　　{{SK anchor|舎宅}}
+　　畜生部
+　　述意　　　　　　㑹名
+　　住處　　　　　　身量
+　　夀命　　　　　　業因
+　　受報　　　　　　修福
+　　{{SK anchor|苦樂}}
+　　六道篇第四之五
+　　{{SK anchor|畜生部之餘}}
+　　好醜
+　　{{SK anchor|地獄部}}
+　　述意　　　　　　會名
+　　{{SK anchor|受報}}
+　　六道篇第四之六
+　　{{SK anchor|地獄部之餘}}
+　　時量　　　　　　典主
+　　王都　　　　　　業因
+　　誡勗
+　　{{SK anchor|千佛篇第五之一}}
+　　七佛部
+　　述意　　　　　　出時
+　　姓名　　　　　　種族
+　　道{{SKchar|3141}}　　　　　　身光
+　　會數　　　　　　弟子
+　　久近
+　　{{SK anchor|因縁部}}
+　　述意　　　　　　引證
+　　{{SK anchor|業因}}
+　　種姓部
+　　述意　　　　　　王族
+　　種姓　　　　　　求婚
+　　{{SK anchor|千佛篇第五之二}}
+　　降胎部
+　　述意　　　　　　現衰
+　　觀機　　　　　　呈祥
+　　降胎　　　　　　奬導
+　　出胎部
+　　述意　　　　　　迎后
+　　感瑞　　　　　　誕孕
+　　招福　　　　　　降邪
+　　同應　　　　　　校量
+　　{{SK anchor|千佛篇第五之三}}
+　　侍養部
+　　述意　　　　　　養育
+　　善徵
+　　{{SK anchor|占相部}}
+　　述意　　　　　　勅占
+　　呈恭　　　　　　現相
+　　業因　　　　　　同異
+　　校量　　　　　　百福
+　　遊學部
+　　述意　　　　　　召師
+　　千佛篇第五之四
+　　{{SK anchor|遊學部之餘}}
+　　捔力　　　　　　校量
+　　{{SK anchor|納妃部}}
+　　述意　　　　　　灌帶
+　　求婚　　　　　　疑謗
+　　胎難　　　　　　神異
+　　{{SK anchor|千佛篇第五之五}}
+　　厭苦部
+　　述意　　　　　　觀田
+　　出遊　　　　　　厭慾
+　　{{SK anchor|出家部}}
+　　述意　　　　　　離俗
+　　鬀髮　　　　　　具服
+　　使還
+　　{{SK anchor|千佛篇第五之六}}
+　　出家部之餘
+　　諫子　　　　　　差侍
+　　佛髪　　　　　　時節
+　　{{SK anchor|會同}}
+　　成道部
+　　述意　　　　　　乞食
+　　學定　　　　　　苦行
+　　乳糜　　　　　　草座
+　　降魔　　　　　　成道
+　　天讃　　　　　　變化
+　　千佛篇第五之七
+　　{{SK anchor|説法部}}
+　　述意　　　　　　赴機
+　　{{SK anchor|説益}}
+　　涅槃部
+　　述意　　　　　　韜光
+　　赴哀　　　　　　時節
+　　{{SK anchor|弟子}}
+　　結集部
+　　述意　　　　　　結集{{SK notes|大乗結集　五百結集　千人結集}}
+　　{{SK anchor|千佛篇第五之八}}
+　　結集部之餘
+　　{{SK anchor|結集之餘}}{{SK notes|七百結集}}
+　　{{SK anchor|敬佛篇第六之一}}
+　　述意部
+　　{{SK anchor|念佛部}}
+　　敬佛篇第六之二
+　　{{SK anchor|觀佛部}}
+　　敬佛篇第六之三
+　　{{SK anchor|觀佛部之餘}}
+　　敬佛篇第六之四
+　　{{SK anchor|彌陁部}}
+　　述意　　　　　　會名
+　　辨處　　　　　　能見
+　　業因　　　　　　引證
+　　{{SK anchor|彌勒部}}
+　　述意　　　　　　受戒
+　　{{SK anchor|敬佛篇第六之五}}
+　　彌勒部之餘
+　　讃歎　　　　　　業因
+　　發願
+　　{{SK anchor|暜賢部}}
+　　敬佛篇第六之六
+　　{{SK anchor|觀音部}}
+　　敬法篇第七之一
+　　{{SK anchor|述意部}}
+　　聴法部
+　　{{SK anchor|求法部}}
+　　感福部
+　　{{SK anchor|法師部}}
+　　敬法篇第七之餘
+　　{{SK anchor|謗罪部}}
+　　敬僧篇第八
+　　{{SK anchor|述意部}}
+　　引證部
+　　{{SK anchor|敬益部}}
+　　違損部
+　　{{SK anchor|敬拜篇第九}}
+　　述意部
+　　{{SK anchor|功能部}}
+　　暜敬部
+　　{{SK anchor|名號部}}
+　　會通部
+　　{{SK anchor|敷座部}}
+　　儀式部
+　　{{SK anchor|福田篇第十}}
+　　述意部
+　　{{SK anchor|優劣部}}
+　　平等部
+　　{{SK anchor|歸信篇第十一}}
+　　述意部
+　　{{SK anchor|小乘部}}
+　　大乘部
+　　{{SK anchor|士女篇第十二}}
+　　俗男部
+　　述意　　　　　　誡俗
+　　勸導
+　　{{SK anchor|俗女部}}
+　　述意　　　　　　奸偽
+　　{{SK anchor|入道篇第十三之一}}
+　　述意部
+　　{{SK anchor|欣厭部}}
+　　鬀髪部
+　　{{SK anchor|入道篇第十三之餘}}
+　　引證部
+　　{{SK anchor|慚愧篇第十四}}
+　　述意部
+　　{{SK anchor|引證部}}
+　　奬導篇第十五
+　　{{SK anchor|述意部}}
+　　引證部
+　　{{SK anchor|生信部}}
+　　業因部
+　　{{SK anchor|説聽篇第十六之一}}
+　　述意部
+　　{{SK anchor|引證部}}
+　　儀式部
+　　{{SK anchor|違法部}}
+　　簡衆部
+　　{{SK anchor|説聽篇第十六之餘}}
+　　漸頓部
+　　{{SK anchor|法施部}}
+　　報恩部
+　　{{SK anchor|利益部}}
+　　見解篇第十七
+　　{{SK anchor|述意部}}
+　　引證部
+　　{{SK anchor|㝛命篇第十八}}
+　　述意部
+　　{{SK anchor|引證部}}
+　　㝛習部
+　　{{SK anchor|五通部}}
+　　至誠篇第十九之一
+　　{{SK anchor|述意部}}
+　　求寳部
+　　{{SK anchor|求戒部}}
+　　求忍部
+　　{{SK anchor|求進部}}
+　　求定部
+　　{{SK anchor|至誠篇第十九之餘}}
+　　求果部
+　　{{SK anchor|濟難部}}
+　　神異篇第二十之一
+　　{{SK anchor|述意部}}
+　　觔通部
+　　{{SK anchor|降邪部}}
+　　胎孕部
+　　{{SK anchor|神異篇第二十之餘}}
+　　{{SKchar|3439}}異部
+　　{{SK anchor|感通篇第二十一之一}}
+　　述意部
+　　{{SK anchor|聖迹部}}
+　　感通篇第二十一之餘
+　　{{SK anchor|聖迹部之餘}}
+　　住持篇第二十二之一
+　　{{SK anchor|述意部}}
+　　治罰部
+　　{{SK anchor|思慎部}}
+　　住持篇第二十二之餘
+　　{{SK anchor|説聴部}}
+　　菩薩部
+　　{{SK anchor|羅漢部}}
+　　僧尼部
+　　{{SK anchor|長者部}}
+　　天王部
+　　{{SKchar|3932}}神部
+　　{{SK anchor|潛遁篇第二十三}}
+　　述意部
+　　{{SK anchor|引證部}}
+　　妖怪篇第二十四
+　　{{SK anchor|述意部}}
+　　引證部
+　　{{SK anchor|變化篇第二十五}}
+　　述意部
+　　{{SK anchor|通變部}}
+　　厭欲部
+　　{{SK anchor|眠夢篇第二十六之一}}
+　　述意部
+　　{{SK anchor|三性部}}
+　　善性部
+　　{{SK anchor|眠夢篇第二十六之餘}}
+　　不善部
+　　{{SK anchor|無記部}}
+　　興福篇第二十七之一
+　　{{SK anchor|述意部}}
+　　興福部
+　　{{SK anchor|生信部}}
+　　校量部
+　　{{SK anchor|修造部}}
+　　興福篇第二十七之餘
+　　{{SK anchor|䞋施部}}
+　　襍福部
+　　{{SK anchor|洗僧部}}
+　　攝念篇第二十八
+　　{{SK anchor|述意部}}
+　　引證部
+　　{{SK anchor|發願篇第二十九}}
+　　述意部
+　　{{SK anchor|引證部}}
+　　法服篇第三十
+　　{{SK anchor|述意部}}
+　　功能部
+　　{{SK anchor|會名部}}
+　　濟難部
+　　{{SK anchor|感報部}}
+　　違損部
+　　{{SK anchor|然燈篇第三十一}}
+　　述意部
+　　{{SK anchor|引證部}}
+　　懸旛篇第三十二
+　　{{SK anchor|述意部}}
+　　引證部
+　　{{SK anchor|華香篇第三十三}}
+　　述意部
+　　{{SK anchor|引證部}}
+　　唄讚篇第三十四之一
+　　{{SK anchor|述意部}}
+　　引證部
+　　{{SK anchor|讃歎部}}
+　　唄讃篇第三十四之餘
+　　{{SK anchor|音樂部}}
+　　敬塔篇第三十五之一
+　　{{SK anchor|述意部}}
+　　引證部
+　　{{SK anchor|興造部}}
+　　感福部
+　　{{SK anchor|旋遶部}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　法苑珠林卷一
+</poem></onlyinclude>{{SKQS footer|title=法苑珠林|section=卷一|prev=|prev_link=|next=卷二|next_link=卷002|type=子}}{{PD-old}}

@@ -1,0 +1,488 @@
+<!--
+
+請根據四庫全書掃描版校對本頁，標準見[[Wikisource:四庫全書原文]]。加標點請另外建立頁面。
+
+
+-->{{SKQS header|title=華陽國志|section=巻十二|prev=卷十一|prev_link=卷11|next=|next_link=|type=史}}<onlyinclude><poem>　　欽定四庫全書
+　　{{SK anchor|華陽國志巻十二}}
+　　晉　常璩　撰
+　　{{SK anchor|序志}}
+　　巴蜀厥初開國載在書籍或因文緯或見史記乆逺隠没實多疎略及周之世侯伯擅威雖與牧野之師希同盟要之㑹而秦資其富用兼天下漢祖階之奄有四海梁益及晉分益為寜司馬相如嚴君平{{SKchar|3951}}子雲陽成子{{SKchar|2593}}鄭伯邑尹彭城譙常侍任給事等各集傳記以作本紀畧舉其隅其次聖稱賢仁人志士言為世範行為表則者名挂史録而陳君承祚别為耆舊傳始漢及魏煥乎可觀然三州土地不復悉載地理志頗言山水歴代轉乆郡縣分建地名改易於以居然辨物知方猶未詳偹於時漢晉方隆官司星列提封圖簿歲集司空故人君學士䕃髙堂翳帷幙足綜物土不必待本紀矣曩遭阨運函夏滔堙李氏㨿蜀兵連戰結三州傾墜生民殱盡府庭化為狐狸之窟城郭蔚為熊羆之宿宅遊雉鹿田棲虎豹平原鮮麥黍之苖千里蔑鷄狗之響丘城蕪邑莫有名者嗟乎三州近為荒裔桑梓之域曠為長野反側惟之心若焚灼懼益遐棄城陴靡聞迺考諸舊紀先宿所傳并南裔志騐以漢書取其近是及自所聞以著斯篇又畧言公孫述蜀書咸熈以来喪亂之事約取耆舊士女英彦又肇自開闢終乎{{YL|永和三年}}凡十篇號曰華陽國記夫書契有五善逹道義章法戒通古今表功勲而後旌賢能恨璩才短少無逺及不早援翰執素廣訪{{SKchar|3001}}咨流離困瘵方資腐帛於顛墻之下求餘光於灰塵之中劘滅者多故有所闕猶愈於遺忘焉
+　　蜀紀言三皇乘祇車出谷口秦宓曰今之斜谷也及武王伐紂蜀亦從行史記周貞王之十六年秦厲公城南鄭此谷道之通乆矣而説者以為蜀王因石牛始通不然也本紀旣以炳明而世俗間横有為蜀傳者言蜀王蠶叢之間周迴三千歲又云荆人鼈靈死屍化西上後為蜀帝周萇{{SKchar|2592}}之血變成碧珠杜宇之魄化為子䳌又言蜀椎髻左衽未知書文翁始知書學案蜀紀帝居房心决事參伐參伐則蜀分野言蜀在帝議政之方帝不議政則王氣流於西故周失紀綱而蜀先王七國皆王蜀又稱帝此則蠶叢自王杜宇自帝皆周之叔世安得三千歲且太素資始有生必死死終物也自古以來未聞死者能更生當世或遇有之則為恠異子所不言况能為帝王乎碧珠出不一處地之相距動數千里一人之血豈能致此子䳌鳥今云是嶲或曰嶲周{{SK notes|今案説文云蜀王望帝婬其相妻慙亡去為子嶲鳥故蜀人聞子嶲鳴皆起云望帝嶲户圭切所言與蜀志所述相似爾雅亦云嶲周子嶲鳥也出蜀中}}四海有之何必在蜀昔唐帝萬國時雍虞舜光宅八表大禹功濟九州后稷封殖天下井田之制庠序之教由来逺矣孔子曰述而不作信而好古竊比於我老彭則彭祖本生蜀為殷太史夫人為國史作為聖則傳自上世見稱在昔及周之末服事於秦首為郡縣雖濵戎夷亦有冠冕故蜀紀曰大人之鄉方大人之國也至於漢興反當荒服而無書學乎漢書曰郡國之有文學因文翁始若然翁以前齊魯當無文學哉漢末時漢中祝元靈性滑稽用州牧劉焉談調之末與蜀士燕骨聊著翰墨當時以為極歡後人有以為惑恐此之{{SKchar|3892}}必起於元靈之由也惟智者辨其不然幸也綜其理数或以為西土嶮固衿帶易守世亂先違道治後服若吴楚然故逋逃必萃奸雄闚覦盖帝王者統天理物必居土中徳膺命運非可資能恃險以干常亂紀雖饕竊名號終於絶宗殄祀何者天命不可以詐詭而邀神器不可以僥倖而取也是以四岳三塗陽城太室九州之險而不一姓冀之北土馬之所産古無興國夫恃險憑危不階厯数而能傳國垂世所未有也故公孫劉氏以敗於前而諸李踵之覆亡於後天人之際存亡之術可以為永鍳也干運犯厯破家喪國可以為京觀也今齊之國志貫之一揆同見不臣所以防狂狡杜奸萌以崇春秋敗絶之道也而顯賢能著治亂亦以為奬勸也其序曰
+　　先王經畧萬國剖分厥甸巴梁式象縣辰九俊述職賦政以均佐周斃紂相漢亡秦寔繁其民世載其俊
+　　{{SK anchor|述巴志第一}}
+　　維天有漢鑒亦有光實司羣望表我華陽炎劉是應洪祚攸長
+　　{{SK anchor|述漢中志第二}}
+　　井絡啓耀文昌契符茫茫禹績畫為九州功冐普天率土以休光靈遐照慶祚爽流邦家濟濟世徳球球
+　　{{SK anchor|述蜀志第三}}
+　　蠢爾南域在彼要荒漢武徳振蠻貊是攘開州列郡幽裔来王柔逺能邇實須才良甄徳表失以明紀綱
+　　{{SK anchor|述南中志第四}}
+　　赤徳中微巨猾干篡白虜乘興致民塗炭爰迄靈獻皇極不建牧后失圖英雄迭進覆車齊軌䝉此艱難
+　　{{SK anchor|述公孫劉二牧志第五}}
+　　政去王室權流二桀{{SKchar|2201}}分天壌宰割民物舍彼信順任此智計大道既隠詭詐競設並以豪特力爭當世居正慮明名號絶替身兼萬乗籍同列國
+　　{{SK anchor|述劉先主志第六}}
+　　乾坤渾始樹君立王天工人代萬邦是望明不二日地不二皇茍非其器窮髙必亢{{SKchar|3255}}濛後主弗慮弗臧負乘致冦世業以喪
+　　{{SK anchor|述劉後主志第七}}
+　　陽升三九品物始亨帝紘失振任非其良趙倡禍階亂是用長羅州播蕩朱旌莫亢皮張不造戎醜攸行哀哀元黎顧瞻靡望
+　　{{SK anchor|述大同志第八}}
+　　素精南飄天維弛綱薨薨特流肆其豺狼蕩雄纂承殱我益梁牧守顛摧黔首辛嘗三州毁曠攸然以荒絡結王罔民亦流亡
+　　{{SK anchor|述李特雄期夀勢志第九}}
+　　華嶽降精江漢吐靈濟濟多士命世克生徳為世雋幹為時貞畧舉士女表諸賢明世濟其美不隕其名
+　　{{SK anchor|述先賢士女總讚論第十}}
+　　皇皇大晉下土是覆化澹教洽誕茲彥茂峩峩俊乂亹亹英秀如嶽之崇如蘭之臭經徳秉哲綽然有{{SKchar2|334}}
+　　{{SK anchor|述後賢志第十一}}
+　　博考行故揔厥舊聞班序州部區别山川憲章成敗旌照仁賢抑絀虚妄糾正繆言顯善懲惡以杜未然
+　　{{SK anchor|述序志第十二}}
+　　譔曰駟牡騤騤萬馬龍飛陶然斯猶阜㑹京畿麏獲西狩鹿從東麋郇伯勞之旬不接辰嘗茲珍嘉甘心庶幾中為令徳一行可師璝瑋俶儻貴韜光暉據冲體正平揖宣尼導以禮樂教洽化齊木訥剛毅有威有懐鏘鏘宫縣磬筦諧諧金奏石拊降福孔皆揔括道檢揔覽幽微選賢與能仁逺乎哉
+
+
+　　益梁寕三州先漢以来士女目録
+　　晉　常璩　撰
+　　髙尚逸民嚴遵字君平{{SK notes|成都人也}}
+　　{{SK anchor|髙尚逸民林閭字公孺}}{{SK notes|臨卭人揚雄師之見方言}}
+　　徳行治中從事李{{SKchar|2592}}字仲元{{SK notes|成都人也}}
+　　徳行給事黄門侍郎揚雄字子雲{{SK notes|成都人也}}
+　　{{SK anchor|文學神童楊烏}}{{SK notes|雄子也七歳預父{{SKchar|2593}}文九歳卒}}
+　　文學侍中揚州刺史張寛字叔文{{SK notes|成都人始受文翁遣東受七經還以教授者}}
+　　{{SK anchor|文學中郎将司馬相如字長卿}}{{SK notes|成都人也}}
+　　{{SK anchor|文學諫議大夫王褒字子淵}}{{SK notes|資中人也}}
+　　{{SK anchor|尚書郎楊壮}}{{SK notes|成都人也見{{SKchar|3951}}子方言}}
+　　{{SK anchor|美秀中郎将何覇字翁君}}{{SK notes|郫人也}}
+　　執政大中司空汎鄉侯何武字君公{{SK notes|霸弟以忠正為三公王莽簒位憚而殺之}}
+　　{{SK anchor|潁川太守何顯}}{{SK notes|武弟也兄弟五人皆在漢書武子况嗣武侯王莽時廢}}
+　　{{SK anchor|黄門侍郎鄧通}}{{SK notes|蜀人孝文帝時為侍郎甚有寵}}
+　　{{SK anchor|卓王孫}}{{SK notes|臨卭人也見食貨志姑仍舊列於執政目下}}
+　　{{SK anchor|政事左衛䕶軍陳立字少遷}}{{SK notes|臨卭人歴牂柯巴郡天水三郡太守治為天下最}}節士太中大夫章明字公孺{{SK notes|繁人也}}
+　　{{SK anchor|節士尚書郎侯岡字宣孟}}{{SK notes|新繁人也}}
+　　{{SK anchor|節士尚書郎王嘉字公卿}}{{SK notes|江原人也}}
+　　{{SK anchor|節士美陽令王皓字子離}}{{SK notes|江原人也}}
+　　{{SK anchor|右十九人在前漢}}{{SK notes|其侍郎田儀楊徳意無善事在中也}}
+　　{{SK anchor|知士博士羅衍字伯紀}}{{SK notes|成都人也}}
+　　{{SK anchor|徳政益州太守王阜字世公}}{{SK notes|成都人也}}
+　　{{SK anchor|長沙太守任循字伯度}}{{SK notes|成都人少失父後為長沙父流離逺届長沙為郡五官父之母識知是事在精通也}}
+　　公亮大司農司{{SKchar|1452}}校尉任昉字文始{{SK notes|循子也}}
+　　{{SK anchor|徐州刺史任愷字文悌}}{{SK notes|昉弟也}}
+　　文學侍中五更張霸字伯饒諡曰文父{{SK notes|成都人也}}
+　　{{SK anchor|校書郎楊終字子山}}{{SK notes|成都人也}}
+　　{{SK anchor|聘士張楷字公超}}{{SK notes|文父子也}}　聘士張光超{{SK notes|公超弟也}}
+　　{{SK anchor|尚書張陵字處沖}}{{SK notes|公超子自陵之後世有大官}}
+　　{{SK anchor|義士趙定}}{{SK notes|成都人以延仁赴義濟窮恤乏為業}}
+　　保貴太尉司徒司空特進厨亭文侯趙戒字志伯{{SK notes|定子}}文學國師太常趙典字仲經{{SK notes|戒第二子也}}
+　　忠亮太尉司徒郫惠侯趙謙字彦信{{SK notes|戒孫也其子孫襲厨亭侯不顯}}道徳司徒司空趙温字子柔{{SK notes|謙弟自是後世有二千石}}
+　　義烈侍中長水校尉常洽字茂尼{{SK notes|江原人見趙温傳}}
+　　{{SK anchor|道徳侍御史常詡字孟元}}{{SK notes|江原人在趙太尉公耆舊{{SKchar|2652}}}}
+　　{{SK anchor|述作謁者僕射何英字叔俊}}{{SK notes|郫人也作漢德春秋}}
+　　{{SK anchor|經治犍為屬國何汶字景由}}{{SK notes|英孫也}}
+　　{{SK anchor|髙士楊由字哀侯}}{{SK notes|成都人也見後漢方術{{SKchar|2652}}}}
+　　{{SK anchor|篤愛髙士侯祈字升伯}}{{SK notes|繁人文父楊序弟子}}
+　　{{SK anchor|篤愛博士楊珏字仲桓}}{{SK notes|成都人何萇弟子}}
+　　{{SK anchor|公府辟士羅衡字仲伯}}{{SK notes|郫人亦萇弟子也}}
+　　{{SK anchor|至孝孝廉禽堅字孟由}}{{SK notes|成都人}}
+　　{{SK anchor|推賢美陽令栁宗字伯騫}}{{SK notes|成都人也}}
+　　求次方　王仲曽張叔遼殷知孫{{SK notes|並蜀人伯騫所㧞皆致郡守失其官名}}匡正治中從事張充字伯春{{SK notes|江原人}}
+　　{{SK anchor|匡正司空辟士李幾字孟元}}{{SK notes|江原人也}}
+　　{{SK anchor|猛畧部從事楊竦字子㳟}}{{SK notes|成都人也子統為二千石失其官}}
+　　{{SK anchor|守憲陳湛字小伯}}{{SK notes|成都人}}
+　　{{SK anchor|節士仲圼}}{{SK notes|成都人也}}
+　　{{SK anchor|髙士王廣}}{{SK notes|晧子也父為公孫述所聘自刎廣逃匿述破後郡及州命察舉皆不徃曰吾不能復辯敢當世榮利也}}
+　　{{SK anchor|仁義志士任末字叔本}}{{SK notes|繁人也}}
+　　{{SK anchor|烈士嚴道主簿李磬字文寺}}{{SK notes|嚴道人也}}
+　　{{SK anchor|義烈郡功曹史朱普字伯禽}}{{SK notes|廣都人也}}
+　　{{SK anchor|巴郡太守朱辰字元燕}}{{SK notes|廣都人}}
+　　{{SK anchor|述作漢中太守鄭厪字伯邑}}{{SK notes|臨卭人也作耆舊傳}}
+　　{{SK anchor|右四十人馳名後漢}}{{SK notes|尚書郎張俊失其行事不載學士張寜見朱倉傳朱倉字雲卿見下目什邡人傳未詳}}
+　　{{SK anchor|大鴻臚何宗字彦英}}{{SK notes|郫人也}}
+　　{{SK anchor|䨇柏長何䨇字漢偶}}{{SK notes|宗子　䨇柏乃建寧郡屬縣也}}
+　　穎逸廣漢犍為太守何祇字君肅{{SK notes|郫人}}
+　　{{SK anchor|忠懃輔漢将軍張裔字君嗣}}{{SK notes|成都人}}
+　　{{SKchar|2593}}寂太常杜瓊字伯瑜{{SK notes|成都人也}}
+　　{{SK anchor|侍中常竺字代文}}{{SK notes|在耆舊傳}}
+　　{{SK anchor|安南将軍張表字伯逺}}{{SK notes|成都人也伯父肅廣漢太守兄松字子喬州牧劉璋别駕從事}}永昌太守王伉{{SK notes|成都人見蜀書}}
+　　{{SK anchor|右八人在劉氏世}}
+　　五更張霸夫人司馬敬司{{SK notes|成都人也}}
+　　{{SK anchor|公乗㑹婦張氏}}{{SK notes|廣都人也}}
+　　{{SK anchor|犍為楊鳳珪妻陳助}}{{SK notes|臨卭人也}}
+　　{{SK anchor|廣漢便敬賔婦常元常}}{{SK notes|江原人廣都令常良女也}}
+　　{{SK anchor|殷氏婦常靡常}}{{SK notes|江原人常仲山女也}}
+　　{{SK anchor|趙侯夫人常紀常}}{{SK notes|江原人常常侍女}}
+　　{{SK anchor|景竒妻羅貢}}{{SK notes|郫人羅倩女也}}
+　　{{SK anchor|趙憲妻何玹}}{{SK notes|郫人也}}
+　　{{SK anchor|朱叔賢妻張昭儀}}{{SK notes|繁人也}}
+　　{{SK anchor|廣柔長姚超二女姚妣饒}}{{SK notes|郫人也}}
+　　{{SK anchor|廣漢王遵妻張叔紀}}{{SK notes|霸女孫也}}
+　　{{SK anchor|右十一人列女}}
+　　右蜀郡士女七十八人{{SK notes|六十七人士十一人女}}
+　　{{SK anchor|明略渡沔俟范目}}{{SK notes|閬中人}}
+　　{{SK anchor|文學聘士洛下宏字長公}}{{SK notes|閬中人也}}
+　　{{SKchar|2593}}始侍御史任文孫{{SK notes|閬中人也}}
+　　{{SK anchor|文學司空掾任文公}}{{SK notes|文孫弟也}}
+　　{{SK anchor|先生胥君安}}{{SK notes|見春秋傳首}}
+　　{{SK anchor|京兆尹徐誦字子産}}{{SK notes|閬中人也}}
+　　{{SK anchor|忠正侍中譙隆字伯司}}{{SK notes|閬中人也}}
+　　髙清太中大夫譙{{SKchar|2593}}字君黄{{SK notes|閬中人也}}
+　　{{SK anchor|潔白尚書郎譙瑛}}{{SK notes|{{SKchar|2593}}子也以易授孝明帝}}
+　　{{SK anchor|公車令趙珜字孫明}}{{SK notes|閬中人也}}
+　　{{SK anchor|公府掾趙毅字仲都}}{{SK notes|珜子也}}
+　　{{SK anchor|公車令臧太伯}}{{SK notes|宕渠人也見珜傳}}
+　　{{SK anchor|雋才凉州刺史趙宏字温柔}}{{SK notes|閬中人也}}
+　　{{SK anchor|右十三人前漢}}
+　　政事揚州刺史嚴遵字王思{{SK notes|閬中人也}}
+　　{{SK anchor|徐州牧嚴羽字子翼}}{{SK notes|王思子也}}
+　　{{SK anchor|長安令王偉卿}}{{SK notes|王思友見王思傳}}
+　　政事大司農{{SKchar|2593}}賀字文和{{SK notes|宕渠人也}}
+　　{{SK anchor|将畧大鴻臚龎雄字宣孟}}{{SK notes|宕渠人也}}
+　　{{SK anchor|政事幽州刺史馮煥}}{{SK notes|宕渠人也}}
+　　明略使持節車騎将軍馮緄字鴻卿{{SK notes|煥子宕渠人也}}
+　　{{SK anchor|降虜都尉馮元字公信}}{{SK notes|緄弟}}
+　　{{SK anchor|尚書郎馮遵字文衡}}{{SK notes|元子}}
+　　政事司{{SKchar|1452}}校尉陳禪字紀山{{SK notes|安漢人}}
+　　{{SK anchor|漢中太守陳澄}}{{SK notes|禪子}}
+　　{{SK anchor|别駕從事陳實字盛先}}{{SK notes|澄孫也與王文表為友}}
+　　{{SK anchor|思防治中從事楊仁字文義}}{{SK notes|閬中人也}}
+　　{{SK anchor|志士荆州刺史龔調字叔侯}}{{SK notes|安漢人也}}
+　　{{SK anchor|忠貞魏郡太守趙晏字平仲}}{{SK notes|安漢人也}}
+　　{{SK anchor|籌畫益州太守李顒字徳卬}}{{SK notes|墊江人也見漢書及巴耆舊傳}}
+　　{{SK anchor|汝南太守謁煥字}}{{SK notes|闕江州人也見汝南紀}}
+　　{{SK anchor|度遼将軍桂陽太守然温字}}{{SK notes|闕江州人見巴耆舊{{SKchar|2652}}}}
+　　{{SK anchor|美化越嶲太守張翕字叔陽}}{{SK notes|安漢人也}}
+　　{{SK anchor|越嶲太守張璊}}{{SK notes|翕子也太守王堂察舉孝亷}}
+　　{{SK anchor|至孝上蔡令趙邵字泰伯}}{{SK notes|閬中人也}}
+　　孝子嚴永　名儒陳髦　隠士黄錯{{SK notes|右三人巴郡太守王堂所進失其官位見堂{{SKchar|2652}}}}
+　　{{SK anchor|巴郡太守龔楊字}}{{SK notes|闕墊江人}}
+　　{{SK anchor|茂才孟彪}}{{SK notes|江州人右並王文表所薦}}
+　　{{SK anchor|日南太守黎景字}}{{SK notes|闕墊江人}}
+　　{{SK anchor|茂才王澹}}{{SK notes|閬中人見文表傳}}
+　　{{SK anchor|文學掾龔策}}{{SK notes|墊江人}}
+　　{{SK anchor|桂陽太守李温}}{{SK notes|宕渠人}}
+　　{{SK anchor|戸曹掾趙芬}}{{SK notes|宕渠人}}
+　　上庸太守陳{{SKchar|2592}}{{SK notes|安漢人見巴紀}}
+　　{{SK anchor|忠義宕渠主簿曲庾}}{{SK notes|宕渠人也}}
+　　{{SK anchor|忠義宕渠主簿馮湛}}{{SK notes|宕渠人也}}
+　　{{SK anchor|烈士郝伯都}}{{SK notes|閬中人}}
+　　{{SK anchor|右三十五人後漢}}{{SK notes|司{{SKchar|1452}}校尉程烏等失其事不録}}
+　　{{SK anchor|義烈江陽太守程畿字季黙}}{{SK notes|閬中人也}}
+　　程祁字公{{SKchar|2592}}{{SK notes|畿子也}}
+　　{{SK anchor|楊汰字季儒}}{{SK notes|巴郡人}}
+　　{{SK anchor|韓儼}}{{SK notes|巴西人}}
+　　{{SK anchor|黎韜}}{{SK notes|巴西人三人見楊文然{{SKchar|2652}}}}
+　　{{SK anchor|壯烈將軍嚴顔}}{{SK notes|臨江人也見張飛{{SKchar|2652}}}}
+　　{{SKchar|2593}}真徴士周舒字叔布{{SK notes|閬中人也}}
+　　{{SK anchor|文學儒林校尉周羣字仲直}}{{SK notes|舒子也}}
+　　{{SK anchor|博士周巨}}{{SK notes|羣子也}}
+　　雅重車騎將軍育陽景侯黄權字公衡{{SK notes|閬中人在魏儀同三司}}尚書郎黄崇{{SK notes|權子也}}
+　　勇壯折衝將軍西陵太守甘寜字興霸{{SK notes|臨江人仕吳}}
+　　政事鎮南大將彭鄉亭侯馬忠字徳信{{SK notes|閬中人}}
+　　將略鎮北大將軍安漢侯王平字子均{{SK notes|宕渠人}}
+　　果壯左將軍宕渠侯句扶字孝興{{SK notes|漢昌人見王平{{SKchar|2652}}}}
+　　將略盪冦將軍關内侯張㠜字伯岐{{SK notes|南充國人也}}
+　　{{SK anchor|尚書僕射姚伷字子緒}}{{SK notes|閬中人見楊義{{SKchar|2652}}諸葛故事也}}
+　　{{SK anchor|别駕從事馬勲字盛衡}}{{SK notes|閬中人見季漢輔臣{{SKchar|2652}}}}
+　　{{SK anchor|尚書馬參字承伯}}{{SK notes|閬中人見蜀書}}
+　　{{SK anchor|越嶲太守龔禄字徳緒}}{{SK notes|安漢人父諶犍為太守見巴紀}}
+　　{{SK anchor|鎮軍將軍龔皦字徳光}}{{SK notes|禄弟也}}
+　　{{SK anchor|徴士譙□字榮始}}{{SK notes|西充國人也周父}}
+　　淵通散騎常侍城陽亭侯譙周字允南{{SK notes|□子在劉氏光禄大夫}}
+　　{{SK anchor|右二十三人在劉氏三國之世}}
+　　馬妙祈妻義{{SK notes|貞烈}}　　　　趙雲君妻華{{SK notes|貞烈}}
+　　{{SK anchor|王元憒妻姬}}{{SK notes|貞烈已上皆閬中人}}趙璝妻姬{{SK notes|節烈宕渠人}}
+　　{{SK anchor|童女趙英}}{{SK notes|璝女也}}　　　趙萬妻娥{{SK notes|宕渠人}}
+　　{{SK anchor|耿秉妾行}}{{SK notes|安漢人}}　　　鮮尼母姜{{SK notes|安漢人}}
+　　{{SK anchor|右八人列女}}
+　　右巴郡凡士女七十九人{{SK notes|士七十一人八人女}}
+　　{{SK anchor|道徳三老楊統字仲通}}{{SK notes|新都人也曽祖仲續祁令父春卿為公孫述将}}
+　　{{SK anchor|光禄大夫楊博字仲逹}}{{SK notes|統長子}}
+　　文學侍中楊序字仲桓諡曰文父{{SK notes|博弟}}
+　　{{SK anchor|髙士冦懽字文儀}}{{SK notes|綿竹人序弟子也}}
+　　{{SK anchor|髙士昭約字節宰}}{{SK notes|雒人也序弟子二人見序傳}}
+　　術藝使持節交州牧楊宣字君緯{{SK notes|什邡人}}
+　　{{SK anchor|學士嚴象}}{{SK notes|廣漢人宣弟子也}}
+　　{{SK anchor|大儒趙翹}}{{SK notes|廣漢人宣弟子也}}
+　　{{SK anchor|烏丸校尉郭堅}}{{SK notes|雒人也}}
+　　光禄大夫侍中衛尉鐔顯字子誦{{SK notes|郪人}}
+　　{{SK anchor|廬江太守蔡弓字子騫}}{{SK notes|雒人}}
+　　善績司{{SKchar|1452}}校尉郭賀字喬卿{{SK notes|堅孫}}
+　　{{SK anchor|永昌太守鄭純字長伯}}{{SK notes|郪人也}}
+　　{{SK anchor|文學髙士王祐字平仲}}{{SK notes|郪人也弟灌有文才而不悉行事也}}
+　　{{SK anchor|文才樂安相李尤字伯仁}}{{SK notes|雒人也}}
+　　{{SK anchor|尚書郎李充}}{{SK notes|尤孫也}}
+　　{{SK anchor|文才東觀郎李勝字茂通}}{{SK notes|雒人也見尤傳}}
+　　{{SK anchor|公亮將作大匠翟酺字超}}{{SK notes|雒人}}
+　　{{SK anchor|聘士王稚字叔起諡曰憲文}}{{SK notes|堂少子也}}
+　　{{SK anchor|堂長子博}}{{SK notes|失官位}}
+　　{{SK anchor|博子遵}}{{SK notes|亦失官位}}
+　　{{SK anchor|善績蜀郡太守王商字文表}}{{SK notes|遵子也}}
+　　{{SK anchor|隠士夫子段翳字元章}}{{SK notes|新都人也}}
+　　{{SK anchor|隠士馮信字季誠}}{{SK notes|郪人}}
+　　明亷侍御史洛陽令王渙字稚子{{SK notes|郪人}}
+　　司{{SKchar|1452}}校尉王堂字敬伯{{SK notes|郪人}}
+　　{{SK anchor|亢烈辟士段恭字節英}}{{SK notes|新都人也}}
+　　{{SK anchor|越嶲太守馬顥字叔宰}}{{SK notes|郪人}}
+　　{{SK anchor|武威太守南陽折侯張江}}{{SK notes|雒人}}
+　　{{SK anchor|鬱林太守折國}}{{SK notes|江四世孫因封國改姓折}}
+　　{{SK anchor|髙士折象字伯式}}{{SK notes|國之子也}}
+　　{{SK anchor|治中祭酒朱倉字雲卿}}{{SK notes|什邡人}}
+　　{{SK anchor|政事䍧柯太守劉寵字世信}}{{SK notes|綿竹人}}
+　　{{SK anchor|孝子江陽符長姜詩字士遊}}{{SK notes|雒人}}
+　　{{SK anchor|隂徳郿令王忳字少林}}{{SK notes|新都人也}}
+　　{{SK anchor|交州牧羊甚}}{{SK notes|郪人也}}
+　　{{SK anchor|推讓野王令羊朞字仲魚}}{{SK notes|甚子}}
+　　{{SK anchor|文學侍中董扶字茂安}}{{SK notes|綿竹人楊厚弟子也}}
+　　{{SK anchor|文學聘士任安字定祖}}{{SK notes|綿竹人亦厚弟子}}
+　　{{SK anchor|髙讓義士杜真字孟宗}}{{SK notes|綿竹人}}
+　　{{SK anchor|精誠五官諒輔字漢儒}}{{SK notes|新都人}}
+　　{{SK anchor|義士楊寛字叔仲}}{{SK notes|新都人父斌兄混皆有證明君事失其官位}}
+　　{{SK anchor|義士張鉗字子安}}{{SK notes|廣漢人也}}
+　　{{SK anchor|烈士賈栩字元集}}{{SK notes|什邡人也}}
+　　{{SK anchor|節士甯叔字茂泰}}{{SK notes|廣漢人也}}
+　　{{SK anchor|忠義綿竹主簿韓揆字伯彦}}
+　　壯童左喬雲{{SK notes|綿竹人}}　　　孝亷汝敦{{SK notes|新都人}}
+　　{{SK anchor|周幹}}{{SK notes|廣漢人}}　彭勰{{SK notes|廣漢人}}　　古朴{{SK notes|廣漢人　右三人儒學文才見蜀志及王商傳}}
+　　{{SK anchor|方術太醫丞郭玉字通直}}
+　　右五十二人馳名漢世
+　　{{SK anchor|别駕從事李朝字永南}}{{SK notes|郪人也}}
+　　{{SK anchor|丞相西曹掾李邵字偉南}}{{SK notes|朝弟也}}
+　　{{SK anchor|文才大司農秦宓字子勑}}{{SK notes|綿竹人}}
+　　{{SK anchor|益州太守王士字義彊}}{{SK notes|郪人王祐從弟也}}
+　　{{SK anchor|别駕從事王甫字國山}}{{SK notes|文表弟也}}
+　　優遊特進太常關内侯鐔承字公文{{SK notes|郪人}}
+　　{{SK anchor|才雋江陽太守彭羕字永年}}{{SK notes|廣漢人}}
+　　{{SK anchor|忠謀從事鄭度}}{{SK notes|綿竹人也見劉璋{{SKchar|2652}}}}
+　　{{SK anchor|忠烈從事王累}}{{SK notes|新都人也見劉璋{{SKchar|2652}}}}
+　　{{SK anchor|右九人在劉氏世及二牧時}}
+　　聘士任安母姚{{SK notes|綿竹人也}}
+　　{{SK anchor|姜詩妻龎行}}{{SK notes|雒人也}}
+　　{{SK anchor|姜嬪字義舊}}{{SK notes|綿竹人狄道長姜穆女司馬雅妻}}
+　　{{SK anchor|廖伯妻殷紀配}}{{SK notes|廣漢人也}}
+　　{{SK anchor|便敬妻王和}}{{SK notes|新都人也}}
+　　{{SK anchor|李珥字進娥}}{{SK notes|郪人李氏女馮季宰妻也}}
+　　{{SK anchor|王輔妻彭非}}{{SK notes|廣漢人也}}
+　　{{SK anchor|李平字正流}}{{SK notes|廣漢李元女楊文妻}}
+　　{{SK anchor|袁稚妻相烏}}{{SK notes|徳陽人也}}
+　　{{SK anchor|王上妻袁福}}{{SK notes|徳陽人也}}
+　　{{SK anchor|汝敦妻}}{{SK notes|失姓不知何郡縣人也}}
+　　{{SK anchor|右十一人列女}}
+　　右廣漢郡凡士女七十二人{{SK notes|六十一人士十一人女}}
+　　知術光禄大夫關内侯王延世字長叔{{SK notes|資中人}}
+　　{{SKchar|3951}}州刺史楊莽字翁君{{SK notes|武陽人見何霸傳}}
+　　{{SK anchor|忠壮復漢將軍朱遵字孝仲}}{{SK notes|武陽人也}}
+　　{{SK anchor|隠知徴士任永字君業}}{{SK notes|僰道人也}}
+　　{{SK anchor|隠遯合浦太守費貽字奉君}}{{SK notes|南安人}}
+　　{{SK anchor|精宻上黨太守趙松字君橋}}{{SK notes|武陽人}}
+　　{{SK anchor|文學城門校尉董鈞字文伯}}{{SK notes|資中人}}
+　　秀頴司{{SKchar|1452}}校尉楊渙字孟文{{SK notes|武陽人見犍為耆舊傳}}
+　　{{SK anchor|漢中太守楊文方}}{{SK notes|渙字文方子頴伯冀州刺史仲頴二千石失其行亊也}}
+　　政事司{{SKchar|1452}}校尉楊凖字伯邳{{SK notes|文方兄子太守太尉李固舉之}}
+　　{{SK anchor|清秀大司空張皓字升明}}{{SK notes|武陽人也}}
+　　正直光禄大夫廣陵太守張綱字文紀{{SK notes|皓子也}}
+　　{{SK anchor|郎中張植}}{{SK notes|綱子也}}　尚書張續{{SK notes|植弟也}}
+　　{{SK anchor|豫州牧張方字公始}}{{SK notes|續弟也}}
+　　正直司{{SKchar|1452}}校尉趙旂字子鸞{{SK notes|資中人也}}
+　　{{SK anchor|别駕從事王元}}{{SK notes|武陽人也刺史張喬時見楊統傳}}
+　　{{SK anchor|義士公車令杜撫字叔和}}{{SK notes|資中人也}}
+　　{{SK anchor|義士新都令趙敦字建侯}}{{SK notes|武陽人也}}
+　　{{SK anchor|孝士尚書郎隗相字叔通}}{{SK notes|僰道人也}}
+　　{{SK anchor|呂孟}}{{SK notes|南安人不詳其事}}　　呉順字叔和{{SK notes|僰道人}}
+　　{{SK anchor|學士韓子方}}{{SK notes|僰道人張貞之師}}
+　　{{SK anchor|學士謝褒}}{{SK notes|南安人見張鉗傳}}
+　　{{SK anchor|右二十四人在漢世}}
+　　政事蜀郡太守關内侯楊洪字季休{{SK notes|武陽人}}
+　　{{SK anchor|固率諫議大夫費詩字公舉}}{{SK notes|南安人}}
+　　忠正車騎將軍都亭侯張翼字伯恭{{SK notes|武陽人綱後也}}
+　　{{SK anchor|文學五官中郎將伍梁字徳山}}{{SK notes|南安人}}
+　　{{SK anchor|文才射聲校尉楊義字文然}}{{SK notes|武陽人}}
+　　{{SK anchor|右五人在劉氏世}}{{SK notes|從亊賈龍不悉其事不録}}
+　　{{SK anchor|漢中太守楊文方妻陽姬}}{{SK notes|武陽人}}
+　　{{SK anchor|相登妻周度}}{{SK notes|僰道人也}}
+　　{{SK anchor|曹禁字敬姬}}{{SK notes|南安人周紀妻也}}
+　　{{SK anchor|程貞㺳字瑗玉}}{{SK notes|牛鞞人資中張惟妻也}}
+　　{{SK anchor|尹仲讓妻韓姜}}{{SK notes|僰道人也}}
+　　{{SK anchor|儀成妻謝姬}}{{SK notes|南安人也}}
+　　{{SK anchor|趙媛姜}}{{SK notes|資中人趙盛道妻也}}
+　　{{SK anchor|張貞妻黄帛}}{{SK notes|僰道人也}}
+　　{{SK anchor|楊進}}{{SK notes|武陽人廣漢王博妻}}
+　　{{SK anchor|右九人列女}}
+　　右犍為郡士女凡三十八人{{SK notes|二十九人士九人女}}
+　　{{SK anchor|忠正城陽中尉鄧公}}{{SK notes|成固人也景帝時}}　楊王孫
+　　{{SK anchor|致逺衛尉博望侯張騫}}{{SK notes|成固人武帝時}}
+　　{{SK anchor|爽朗給事中張猛}}{{SK notes|騫孫元帝時}}
+　　{{SK anchor|髙尚逸民鄭子真}}{{SK notes|褒中人成帝時}}
+　　{{SK anchor|大儒李頡}}{{SK notes|南鄭人}}
+　　{{SK anchor|文學司徒李郃字孟節}}{{SK notes|頡子}}
+　　{{SK anchor|執正太尉李固字子堅}}{{SK notes|郃子}}
+　　{{SK anchor|雅望京兆尹李燮字徳公}}{{SK notes|固少子}}
+　　{{SK anchor|奉車都尉李歴字季子}}{{SK notes|固從弟也}}
+　　善績司{{SKchar|1452}}校尉李法字伯度{{SK notes|南鄭人也}}
+　　{{SK anchor|犍為太守趙宣字子雅}}{{SK notes|南鄭人也}}
+　　{{SK anchor|徳望廣漢太守趙瑶字元珪}}{{SK notes|宣子}}
+　　{{SK anchor|温雅尚書趙琰字稚珪}}{{SK notes|瑶弟}}
+　　義壮{{SKchar|2592}}農太守陳綱字仲卿{{SK notes|成固人也}}
+　　{{SK anchor|義烈從事陳調字元化}}{{SK notes|綱孫}}
+　　{{SK anchor|知思巴郡太守陳雅字伯䑓}}{{SK notes|成固人}}
+　　{{SK anchor|南郡太守程基字稚業}}{{SK notes|南郡人也}}
+　　{{SK anchor|大鴻臚劉巨公}}{{SK notes|南鄭人也見烈女傳}}
+　　{{SK anchor|廣漢屬國張泰字伯彊}}{{SK notes|南鄭人也}}
+　　{{SK anchor|政事度遼將軍張亮則字元脩}}{{SK notes|泰從弟}}
+　　{{SK anchor|愷悌綿竹令閻憲字孟度}}{{SK notes|成固人也}}
+　　{{SK anchor|隠士樊志張}}{{SK notes|南鄭人也見征西將軍段熲傳}}
+　　{{SK anchor|尚志聘士衛衡字伯梁}}{{SK notes|南鄭人樊志張弟子也}}
+　　{{SK anchor|籌畫計曹史程苞字元道}}{{SK notes|南鄭人也}}
+　　文才葭萌長祝{{SKchar|1841}}字元靈{{SK notes|南鄭人也}}
+　　{{SK anchor|義烈郡主簿段崇字禮髙}}{{SK notes|南鄭人也}}
+　　{{SK anchor|義烈功曹程信字伯義}}{{SK notes|南鄭人也}}
+　　嚴孳　李容　陳已　王宗　姜濟　曹亷　勾矩劉旌　原展{{SK notes|九人太守鄭廣吏見段崇程信傳}}
+　　{{SK anchor|義烈從事燕邠字元侯}}{{SK notes|南鄭人}}
+　　{{SK anchor|義烈主簿趙嵩字伯髙}}{{SK notes|南鄭人}}
+　　{{SK anchor|右三十九人後漢}}
+　　陳術字申伯{{SK notes|歴二郡太守見蜀書撰益部耆舊傳者}}
+　　{{SK anchor|右一人劉氏之世}}
+　　李穆姜{{SK notes|安衆令程祗妻李法姑也子基}}
+　　{{SK anchor|劉泰瑛}}{{SK notes|巨公女楊拒妻}}
+　　{{SK anchor|杜泰姬}}{{SK notes|南鄭人犍為太守趙宣妻}}
+　　{{SK anchor|楊禮珪}}{{SK notes|成固楊元珍女陳省妻}}
+　　{{SK anchor|李文姬}}{{SK notes|太尉固女趙瑛妻}}
+　　{{SK anchor|陳順謙}}{{SK notes|鄧令曹寧妻陳伯䑓從女也兄子陳規著書稱之}}
+　　{{SK anchor|陳惠謙}}{{SK notes|順謙妹度遼將軍張亮則夫人}}
+　　{{SK anchor|張禮脩}}{{SK notes|南鄭人趙嵩妻}}
+　　{{SK anchor|韓樹南}}{{SK notes|南鄭人趙子賤妻也}}
+　　{{SK anchor|右九人列女}}
+　　右漢中郡士女凡四十九人{{SK notes|四十人士九人女}}
+　　忠義鎮逺将軍義侯文齊字子竒{{SK notes|梓潼人也平帝用為益州大守遂不服王莽公孫述光武嘉之}}
+　　{{SK anchor|北海太守文忳}}{{SK notes|齊子}}
+　　{{SK anchor|節士李業字巨遊}}{{SK notes|梓潼人也}}
+　　{{SK anchor|遂乆令李翬}}{{SK notes|業子}}
+　　{{SK anchor|益州太守景毅字文堅}}{{SK notes|梓潼人也}}
+　　{{SK anchor|政事有道景鸞字漢伯}}{{SK notes|梓潼人也}}
+　　{{SK anchor|文學孝亷楊充字盛國}}{{SK notes|梓潼人也}}
+　　{{SK anchor|壯烈濟隂相寇祺字宰朝}}{{SK notes|梓潼人也}}
+　　{{SK anchor|壯烈童人李餘}}{{SK notes|涪人也}}
+　　{{SK anchor|義士功曹張夀字伯僖}}{{SK notes|涪人也}}
+　　{{SK anchor|義士王晏字叔博}}{{SK notes|涪人也}}
+　　{{SK anchor|方士李助字翁君}}{{SK notes|涪人也}}
+　　{{SK anchor|右十二人漢世}}
+　　尚{{SKchar|2593}}諫議大夫杜微字國輔{{SK notes|涪人也}}
+　　{{SK anchor|文學李仁字徳賢}}{{SK notes|涪人也}}
+　　{{SK anchor|太子僕李巽字欽仲}}{{SK notes|仁子}}
+　　{{SK anchor|太子家令尹黙字思潛}}{{SK notes|涪人也}}
+　　{{SK anchor|承相㕘軍文恭字仲賢}}{{SK notes|梓潼人也}}
+　　果銳前監軍將軍司馬李福字孫徳{{SK notes|涪人見諸葛故事蜀書}}
+　　{{SK anchor|右六人劉氏世}}
+　　文極字季姜{{SK notes|梓潼人将作大匠王堂夫人也}}
+　　{{SK anchor|巴郡虞顯妻杜慈}}{{SK notes|涪杜季女也}}
+　　{{SK anchor|郭孟妻楊敬}}{{SK notes|涪楊女也}}
+　　{{SK anchor|右列女三人}}
+　　右梓潼郡士女二十一人{{SK notes|十八人士三人女}}
+　　修慎少府太常關内侯王謀字元泰{{SK notes|漢嘉人也}}
+　　{{SK anchor|雲南太守張休}}
+　　右二人漢嘉人士在劉氏世
+　　{{SK anchor|文學制州刺史尹珍字道真}}{{SK notes|母斂人也}}
+　　{{SK anchor|巴郡太守傅寳字紀圖}}{{SK notes|下夷人也}}
+　　忠義冠軍将軍寧州刺史謝恕字茂理{{SK notes|母斂人也}}
+　　{{SK anchor|右三人牂柯人士}}
+　　忠義大將軍朝侯祭酒錫光字長沖
+　　{{SK anchor|右一人西域人士}}
+　　忠義雲南太守陽遷亭侯吕凱字季平{{SK notes|不韋人也}}
+　　{{SK anchor|右一人永昌人士}}
+　　義正安漢將軍建寧太守李恢字徳昂
+　　領軍爨習　御史中丞孟獲
+　　右三人建寧人士
+　　{{SK anchor|輔漢將軍孟琰字休明}}
+　　右一人朱提人士
+　　{{SK anchor|先泥和女絡}}{{SK notes|符人也}}
+　　{{SK anchor|右一人列女江陽人}}
+　　大凡三州十三郡自漢興至三國之終士女載傳記者三百四十人{{SK notes|二百九十三人士四十七人女}}
+　　公七人　大將二十二人　侯二十人　卿佐十四人侍中七人　尚書五人　司{{SKchar|1452}}校尉六人　州刺史
+　　十三人　郡守四十八人　國師三人　光禄大夫四人　尚書郎十二人　中書郎將御史六人　公車令諫議大中十一人　公府辟士八人　髙士一人　聘士七人　徴士四人　節士四人　烈女四十七人益梁寧三州三國兩晉以来人士目録{{SK notes|添立目録}}
+　　明畧大司農西域公何攀字恵興{{SK notes|郫人}}
+　　{{SK anchor|清秀大長秋夀良字文淑}}{{SK notes|成都人也}}
+　　{{SK anchor|果烈西河太守栁隠字休然}}{{SK notes|成都太也}}
+　　{{SK anchor|梁益二州都督杜禎}}{{SK notes|成都人也}}
+　　都督度支巴東太守栁伸字雅厚{{SK notes|成都人也}}
+　　{{SK anchor|徳行江陽太守何隨字季業}}{{SK notes|郫人}}
+　　{{SK anchor|令徳犍為太守杜軫字超宗}}{{SK notes|成都人也}}
+　　{{SK anchor|犍為太守杜烈字仲武}}{{SK notes|軫弟}}
+　　{{SK anchor|建寧太守杜良字幼倫}}
+　　益州刺史杜毘字長基
+　　{{SK anchor|徳行給事中任熈字伯逺}}{{SK notes|成都人也}}
+　　{{SK anchor|涪陵太守任蕃字憲祖}}{{SK notes|熈子}}
+　　{{SK anchor|義正郫令常朂字修業}}{{SK notes|江原人也}}
+　　{{SK anchor|州都常忌字茂通}}{{SK notes|朂從弟也}}
+　　{{SK anchor|令才太史令髙玩字伯珍}}{{SK notes|江原人也}}
+　　{{SK anchor|温才湘東太守常騫字季慎}}{{SK notes|江原人也}}
+　　{{SK anchor|述作武平太守常寛字泰恭}}{{SK notes|騫從弟也}}
+　　{{SK anchor|使持節西夷校尉張岐字紹茂}}{{SK notes|成都人也}}
+　　征西將軍西夷校尉益州刺史王異字彦明{{SK notes|成都人也}}勇畧雍州刺史南中郎將重安開國侯李陽字文叔{{SK notes|郫人}}征虜将軍廣漢梓潼太守楊謙字令志{{SK notes|成都人也}}
+　　{{SK anchor|右二十一人蜀郡人在晉世}}
+　　彊濟少府成都威侯李毅字允剛{{SK notes|郪人}}
+　　{{SK anchor|西夷校尉李釗字世康}}{{SK notes|毅子}}
+　　仁讓漢嘉太守司馬勝之字興先{{SK notes|綿竹人}}
+　　{{SK anchor|徳義梓潼太守王化字伯逺}}{{SK notes|郪人文表孫}}
+　　{{SK anchor|巴東太守王振字仲逺}}{{SK notes|化弟也}}
+　　{{SK anchor|作唐令王岱字季逺}}{{SK notes|振弟也}}
+　　{{SK anchor|述作蜀郡太守王崇字幼逺}}{{SK notes|岱弟也}}
+　　{{SK anchor|素隠中書郎王長文字徳雋}}{{SK notes|郪人也}}
+　　{{SK anchor|建寧太守耿容字宗仲}}{{SK notes|廣漢人也}}
+　　{{SK anchor|右九人廣漢人在晉世}}
+　　漢中太守李宓字令伯{{SK notes|武陽人也}}
+　　{{SK anchor|汶山太守李賜字宗碩}}{{SK notes|宓子也}}
+　　{{SK anchor|太傅參軍李典字雋碩}}{{SK notes|賜弟也}}
+　　{{SK anchor|廣漢太守張徴字建興}}{{SK notes|翼子也}}
+　　{{SK anchor|譙國内史費緝字文平}}{{SK notes|南安人二子見夀良{{SKchar|2652}}}}
+　　{{SK anchor|執義衡陽太守楊邠字岐之}}{{SK notes|武陽人}}
+　　{{SK anchor|清正尚書費立字建熈}}{{SK notes|南安人}}
+　　{{SK anchor|右七人犍為人士在晉世}}
+　　衛尉文立字廣休{{SK notes|臨江人也}}
+　　{{SK anchor|武陽太守楊守}}{{SK notes|臨江人也}}
+　　{{SK anchor|牂柯太守毛楚}}{{SK notes|枳人}}
+　　{{SK anchor|右三人巴郡人在晉世}}
+　　述作太子中庻子陳夀字承祚{{SK notes|安漢人}}
+　　{{SK anchor|驃騎府掾陳莅字叔度}}{{SK notes|夀兄子}}
+　　{{SK anchor|上亷令陳符字長住}}{{SK notes|夀凡子}}
+　　{{SK anchor|建寧太守陳階字逹芝}}{{SK notes|莅弟}}
+　　{{SK anchor|正直漢中太守閻纉字續伯}}{{SK notes|安漢人}}
+　　卓畧長水校尉荆州刺史張奕字希祖{{SK notes|南充國人}}
+　　義烈揚烈将軍梓潼内史譙登字順明{{SK notes|周孫}}
+　　{{SK anchor|令徳錫令譙周字彦紹}}{{SK notes|周子見周傳}}
+　　{{SK anchor|右八人巴西人士在晉世}}
+　　清重長水校尉吕淑字偉徳
+　　{{SK anchor|右一人漢中人}}
+　　廣漢太守李{{SKchar|3857}}字叔龍{{SK notes|福子}}
+　　{{SK anchor|右一人梓潼人}}
+　　忠義江陽太守侯馥字世明
+　　{{SK anchor|右一人江陽人}}
+　　三州後賢五十一人并前賢三百九十一人
+　　譔曰凡此人士或見漢書或載耆舊或見郡紀或在三國書并取其秀異表之斯篇其洪伐張顯者並生附載者齊之其但見名目而不詳其行故或有以傳無珍善闕之以副直文為實錄矣
+
+
+
+
+
+
+　　{{SK anchor|華陽國志卷十二}}
+　　附江原常氏士女志
+　　明　張佳允　輯
+　　侍中長水校尉常洽{{SK notes|字茂尼}}
+　　{{SK anchor|侍御史常翊}}
+　　南廣太守常竺{{SK notes|字代文}}
+　　{{SK anchor|閬中令常偉}}{{SK notes|字公然竺子}}
+　　{{SK anchor|廣都令常良}}
+　　郫令常朂{{SK notes|字修業}}
+　　{{SK anchor|河内令常忌}}{{SK notes|朂弟}}
+　　{{SK anchor|常仲山}}
+　　湘東太守常騫{{SK notes|字季慎偉子}}
+　　{{SK anchor|戸曹掾常敞}}
+　　中郎常美
+　　{{SK anchor|都䕶常俊}}
+　　都䕶常深
+　　{{SK anchor|武平太守常寛}}{{SK notes|字泰恭騫從弟}}
+　　{{SK anchor|治中從事長生}}{{SK notes|字彭祖寛子}}
+　　{{SK anchor|散騎常侍常璩}}{{SK notes|字道將寛族孫}}
+　　{{SK anchor|右士十六人}}
+　　便敬賔婦常元常{{SK notes|良女}}
+　　{{SK anchor|殷氏婦常靡常}}{{SK notes|仲山女}}
+　　{{SK anchor|趙侯夫人常紀常}}
+　　右女三人
+　　佳允曰江原常氏代有明徳故大姓也道將立志僅書其半豈以私親自嫌哉夫岷瀆委靈哲又作則儻資國器寸璧是尊今考出士女共十九人自立録目又見道將承源家學修辭有經斯龍門世業良史稱材間有行實詳畧不侔然英名遺烈垂在竹素庶幾尚友遐心蓍{{SKchar|1841}}孔邇者矣
+
+
+
+</poem></onlyinclude>{{SKQS footer|title=華陽國志|section=巻十二|prev=卷十一|prev_link=卷11|next=|next_link=|type=史}}{{PD-old}}

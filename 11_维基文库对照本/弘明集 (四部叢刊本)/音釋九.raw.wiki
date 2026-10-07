@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=弘明集|section=音釋九|prev=卷第九|next=卷第十|type=子|notes=梁 釋僧祐 編 景上海涵芬樓藏明刊本}}
+<pages from="46" to="47" index="Sibu Congkan0475-釋僧祐-弘明集-5-4.djvu" />

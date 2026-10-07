@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=庾子山集|section=卷第十三|prev=卷第十二|next=卷第十四|type=集|notes=北周 庾信 撰 景上海涵芬樓藏明屠隆刊本}}
+<pages from="2" to="55" index="Sibu Congkan0602-庾信-庾子山集-3-3.djvu" />

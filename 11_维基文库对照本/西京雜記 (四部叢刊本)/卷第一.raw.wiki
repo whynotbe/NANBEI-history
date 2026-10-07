@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=西京雜記|section=卷第一|prev=序|next=卷第二|type=子|notes=漢 劉歆 撰 晉 葛洪 錄 景江安傅氏雙鑑樓藏嘉靖壬子刊本}}
+<pages from="8" to="21" index="Sibu Congkan0461-劉歆-西京雜記-1-1.djvu" />

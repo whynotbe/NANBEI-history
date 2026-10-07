@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=廣弘明集|section=卷第五|prev=音釋四|next=音釋五|type=子|notes=唐 釋道宣 編 景上海涵芬樓藏明刊本}}
+<pages from="48" to="85" index="Sibu Congkan0478-釋道宣-廣弘明集-12-02.djvu" />

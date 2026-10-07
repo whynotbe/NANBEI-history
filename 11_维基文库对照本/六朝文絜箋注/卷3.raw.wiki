@@ -1,0 +1,29 @@
+{{header
+| title    = 六朝文絜箋注
+| section  = -{卷}-三
+| noauthor = [[作者:許褳|許褳]] 評選　[[作者:黎經浩|黎經浩]] 箋注
+}}
+
+=令=
+
+==與湘東王論王規令==
+
+{{*|《梁書》曰：{{ProperNoun|世祖}}{{ProperNoun|元皇帝}}，諱{{ProperNoun|繹}}，{{ProperNoun|高祖}}第七子。初封{{ProperNoun|湘東王}}。}}
+
+　　{{ProperNoun|梁簡文帝}}{{*|《梁書》曰：{{ProperNoun|太宗}}{{ProperNoun|簡文皇帝}}，諱{{ProperNoun|綱}}，字{{ProperNoun|世贊}}，{{ProperNoun|高祖}}第三子，{{ProperNoun|昭明}}太子母弟也。{{ProperNoun|天監}}二年十月丁未，生於{{ProperNoun|顯陽殿}}。五年，封{{ProperNoun|晉安王}}。{{ProperNoun|中大通}}三年，立爲皇太子。四年，移還東宮。{{ProperNoun|太清}}三年五月丙辰，高祖崩，辛巳，即皇帝位。}}
+
+　　{{ProperNoun|威明}}昨宵，奄復殂化，甚可痛傷。{{*|奄，忽也。《說文》曰：殂，往死也。《尚書》曰：帝乃殂落。}}其風韻遒上，{{*|一作正。}}神采標映。{{*|遒，勁也。標，表也。}}千里絕跡，百尺無枝。{{*|{{ProperNoun|曹植}}《與楊修書》曰：飛軒絕迹，一舉千里。{{ProperNoun|枚乘}}《七發》曰：{{ProperNoun|龍門}}之桐，百尺無枝。}}文辨縱橫，才學優贍。{{*|《史記》{{ProperNoun|秦王}}曰：知一縱一橫，其說何小？《爾雅》曰：贍，足也。}}跌宕之情彌遠，濠梁之氣特多。斯實俊民也！{{*|{{ProperNoun|揚雄}}《自敘》曰：雄爲人跌宕。《公羊注》曰：跌，過度。《莊子》曰：{{ProperNoun|莊子}}與{{ProperNoun|惠子}}遊於濠梁之上。《尚書》曰：俊民用章。又曰：明我俊民。}} 一爾過隟，永歸長夜。{{*|隟古文隙字也。《禮記》曰：君子三年之喪，若駟之過隙。{{ProperNoun|陸雲}}《歲春墓賦》曰：揮促節於短日兮, 振修策於長夜。}}金刀掩芒，長{{ProperNoun|淮}}絕涸。{{*|《西京雜記》曰：{{ProperNoun|東海}}人{{ProperNoun|黃公}}，少時能幻，制龍御虎，常佩赤金刀。《說文》曰：{{ProperNoun|淮水}}出{{ProperNoun|南陽}}{{ProperNoun|平氏}}{{ProperNoun|桐柏}}{{ProperNoun|大復山}}，東南入海。《爾雅》曰：涸，竭也。《禮記》曰：仲秋之月水始始涸。}}去歲冬中，已傷{{ProperNoun|劉子}}；今茲寒孟，復悼{{ProperNoun|王生}}。{{*|《玉篇》曰：孟，始也，四時之首月曰孟月。悼，傷也。《毛詩》曰：{{ProperNoun|王生}}，卿{{ProperNoun|王規}}也。}}俱往之傷，信非虛說。
+
+==答羣下勸進初令==
+{{*|《梁書》曰：{{ProperNoun|大寶}}二年，{{ProperNoun|太宗}}崩，羣下奉表勸進。{{ProperNoun|元帝}}奉諱，大臨三日，百官縞素。乃答之。}}
+
+{{ProperNoun|梁元帝}}
+
+　　孤以不德，天降之災。{{*|《尚書》曰：古有{{ProperNoun|夏}}先后，方懋厥德，罔有天災。}}枕戈飲膽，扣心泣血。{{*|{{ProperNoun|劉琨}}《與親故書》曰：吾枕戈待且，志梟逆虜；常恐{{ProperNoun|祖生}}先吾著鞭耳！《史記》曰：{{ProperNoun|句踐}}反國，乃苦身焦思，置膽於坐，坐臥即仰膽，飲食亦嘗膽也。{{ProperNoun|李陵}}《答蘇武書》曰：此{{ProperNoun|陵}}所以仰天椎心而泣血也。}}風樹之酷，萬始莫追；{{*|《韓詩外傳》曰：皋魚被褐擁鎌，哭於道旁。{{ProperNoun|孔子}}曰：子何哭之？對曰：樹餘靜而風不定，子欲養而親不待也。吾請從此辭矣。}}霜露之哀，百憂總萃。{{*|《禮記》霜露既降，君子履之，必有凄愴之心。《毛詩》曰：我生之後，逢此曰百憂。{{ProperNoun|郭璞}}《穆天子傳注》曰：萃，集也。}}甫聞{{ProperNoun|伯升}}之禍，彌切{{ProperNoun|仲謀}}之悲。{{*|《後漢書》曰：{{ProperNoun|光武帝}}長兄{{ProperNoun|伯升}}，素結輕客，必舉大事。時{{ProperNoun|王莽}}敗亡已兆，天下方亂，{{ProperNoun|光武帝}}遂與定謀。{{ProperNoun|更始}}元年正月，{{ProperNoun|伯升}}破{{ProperNoun|王莽}}納言將軍嚴尤、秩宗將軍{{ProperNoun|陳茂}}於{{ProperNoun|淯陽}}進圍{{ProperNoun|宛城。}}二月辛巳，立{{ProperNoun|劉聖公}}爲天子，{{ProperNoun|伯升}}爲大司徒。五月，{{ProperNoun|伯升}}拔{{ProperNoun|宛}}。未幾爲{{ProperNoun|更始}}所害。{{ProperNoun|光武}}追諡曰{{ProperNoun|齊物王}}。《吳志》曰：{{ProperNoun|孫權}}，字{{ProperNoun|仲謀}}。兄{{ProperNoun|策}}，既定諸郡，時{{ProperNoun|權}}年十五，以爲{{ProperNoun|陽羨長}}。郡察孝廉，州舉茂才，行奉義校尉。{{ProperNoun|漢}}以{{ProperNoun|策}}遠脩職貢, 遣使者{{ProperNoun|劉琬}}加錫命。{{ProperNoun|琬}}語人曰：吾觀{{ProperNoun|孫氏}}兄弟，雖各才秀明達，然皆祿祚不終, 惟中弟年最壽爾。{{ProperNoun|建安}}五年，{{ProperNoun|策}}甍，以事授權，{{ProperNoun|權}}哭未及息。}}若封豕既殲，長蛇即戮，{{*|《左氏傳》曰：昔有{{ProperNoun|仍氏}}有女，后{{ProperNoun|夔}}娶之，生{{ProperNoun|伯封}}，貪婪無厭，謂之封豕。又：{{ProperNoun|申包胥}}曰：{{ProperNoun|吳}}爲封豕長蛇，以薦食上國。虐始於{{ProperNoun|楚}}。{{ProperNoun|杜預}}《注》曰：{{ProperNoun|吳}}貪害如蛇豕。}}方欲追{{ProperNoun|延陵}}之逸軌，繼{{ProperNoun|子臧}}之高讓。{{*|《左氏傳》曰：{{ProperNoun|吳氏}}子諸樊既除喪，將立{{ProperNoun|季札}}。{{ProperNoun|季札}}辭曰：{{ProperNoun|曹宣公}}之卒也，諸侯與{{ProperNoun|曹人}}不義{{ProperNoun|曹君}}，將立{{ProperNoun|子臧}}。{{ProperNoun|子臧}}去之，遂弗爲也。以成{{ProperNoun|曹君}}。君子曰：能守節。君義嗣也，誰敢奸君？有國非吾節也。{{ProperNoun|札}}雖不才，願附{{ProperNoun|子臧}}，以無失節。{{ProperNoun|曹植}}詩曰：{{ProperNoun|子臧}}讓千乘，{{ProperNoun|季札}}慕其賢。}}
+豈資{{ProperNoun|秋亭}}之壇？安事{{ProperNoun|繁陽}}之石？{{*|《東觀漢記》曰：諸將請上尊號皇帝, 於是乃命有司設植場于{{ProperNoun|鄗}}之腸{{ProperNoun|千秋亭}}{{ProperNoun|五成陌}}。皇帝卽位。《漢書・地理志》{{ProperNoun|魏郡}}縣{{ProperNoun|繁陽}}。{{ProperNoun|應劭}}曰：在{{ProperNoun|繁水}}之陽。{{ProperNoun|張晏}}曰：其界爲{{ProperNoun|繁淵}}。《魏志》曰：{{ProperNoun|漢帝}}以衆望在{{ProperNoun|魏}}，乃召羣公卿士告祠{{ProperNoun|高廟}}，使兼御史大夫{{ProperNoun|張音}}持節奉璽綬禪位。乃爲壇於繁陽，庚午，王升壇即阼，百官陪位。事訖降壇，視燎成禮而反。}}
+
+=敎=
+
+==建平王聘隱逸敎==
+
+==永嘉郡敎==

@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=廣弘明集|section=卷第二十|prev=音釋十九|next=音釋二十|type=子|notes=唐 釋道宣 編 景上海涵芬樓藏明刊本}}
+<pages from="66" to="115" index="Sibu Congkan0483-釋道宣-廣弘明集-12-07.djvu" />

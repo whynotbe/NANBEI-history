@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=古文苑|section=卷第六|prev=卷第五|next=卷第七|type=集|notes=闕名 編 宋 章樵注 景常熟瞿氏鐵琴銅劍樓藏宋刊本}}
+<pages from="35" to="64" index="ZJLib-64ae61bb33df1257b09c8158-2 古文苑二十一卷 第2冊.pdf" />

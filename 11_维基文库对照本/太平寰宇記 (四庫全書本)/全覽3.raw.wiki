@@ -1,0 +1,36 @@
+{{SKQS read all header|title=太平寰宇記|section=全覽3|prev=全覽2|prev_link=全覽2|next=全覽4|next_link=全覽4|type=史}}<!--
+
+請根據四庫全書掃描版校對本頁，標準見[[Wikisource:四庫全書原文]]。加標點請另外建立頁面。
+
+
+-->{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷061}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷062}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷063}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷064}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷065}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷066}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷067}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷068}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷069}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷070}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷071}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷072}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷073}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷074}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷075}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷076}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷077}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷078}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷079}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷080}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷081}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷082}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷083}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷084}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷085}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷086}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷087}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷088}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷089}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:太平寰宇記 (四庫全書本)/卷090}}{{SKQS readall ender}}
+{{SKQS read all footer|title=太平寰宇記|section=全覽3|prev=全覽2|prev_link=全覽2|next=全覽4|next_link=全覽4|type=史}}{{PD-old}}

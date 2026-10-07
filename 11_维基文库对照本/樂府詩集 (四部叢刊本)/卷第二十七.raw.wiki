@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=樂府詩集|section=卷第二十七|prev=卷第二十六|next=卷第二十八|type=集|notes=宋 郭茂倩 編 景上海涵芬樓藏汲古閣刊本}}
+<pages from="160" to="183" index="Sibu Congkan1959-郭茂倩-樂府詩集-16-06.djvu" />

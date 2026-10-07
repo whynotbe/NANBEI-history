@@ -1,0 +1,240 @@
+<!--
+
+請根據四庫全書掃描版校對本頁，標準見[[Wikisource:四庫全書原文]]。加標點請另外建立頁面。
+
+
+-->{{SKQS header|title=通志|section=卷六十三|prev=卷六十二|prev_link=卷062|next=卷六十四|next_link=卷064|type=史}}<onlyinclude><poem>　　欽定四庫全書
+　　{{SK anchor|通志卷六十三}}
+　　宋　右　廸　功　郎　鄭　樵　漁　仲　撰
+　　{{SK anchor|藝文略第一}}
+　　經類第一{{SK notes|易　書　詩　春秋　國語　孝經論語　爾雅　經觧}}易{{SK notes|古易　右經　章句　{{SKchar|2652}}　注　集注　義疏論説　類例　譜　考正　數　圖　音䜟緯　擬易}}
+　　{{SK anchor|連山十卷}}{{SK notes|夏后氏易至唐始出今亡}}歸蔵十卷{{SK notes|商易晉薛貞注}}三皇太古書三卷{{SK notes|柴霖{{SKchar|2652}}}}
+　　連山亡矣歸蔵唐有司馬膺注十三卷今亦亡隋有薛貞注十三卷今所存者初經齊母本蓍三篇而已言占筮事其辭質其義古後學以其不文則疑而棄之往往連山所以亡者復過於此矣獨不知後之人能為此文乎子曰周監於二代郁郁乎文哉以周易較商易則周商之文質可知也以商易較夏易則啇夏之文質又可知也三易皆始乎八而成乎六十四有八卦即有六十四卦六十四卦非至周而備也但法之所立數之所起皆不相為用連山用三十六策歸蔵用四十五策周易用四十九策誠以人事代謝星紀推移一代二代漸繁漸文又何必近耳目而信諸逺耳目而疑諸三皇太古書亦謂之三墳一曰山墳二曰氣墳三曰形墳天皇伏犧氏本山墳而作易曰連山人皇神農氏本氣墳而作易曰歸蔵地皇黄帝氏本形墳而作易曰坤乾雖不畫卦而其名皆曰卦爻大象連山之大象有八曰君臣民物隂陽兵象而統以山歸蔵之大象有八曰歸蔵生動長育止殺而統以氣坤乾之大象有八曰天地日月山川雲氣而統以形皆八而八之為六十四其書漢魏不{{SKchar|2652}}至元豐中始出于唐州比陽之民家世疑偽書然其文古其辭質而野其錯綜有經緯恐非後人之能為也如緯書猶見取於前世况此乎且歸蔵至晉始出連山至唐始出然則三墳始出於近代亦不為異事也
+　　{{SK anchor|右古易}}{{SK notes|三部十六卷}}
+　　石經周易十卷　今字石經易篆三卷　一字石經周易一卷
+　　按石經之學始於蔡邕始也秦火之後經籍初出諸家所蔵{{SKchar|2652}}寫或異箋{{SKchar|2652}}之儒皆馮所見更不論文字之訛謬邕校書東觀奏求正定六經文字靈帝許之乃自為書而刻石于太學門外後儒晩學咸所取正奈當漢之末祚所{{SKchar|2652}}未廣而兵火無存後之人所得者亦希矣今之所謂石經者但刻諸石耳多非蔡氏之經
+　　{{SK anchor|右石經}}{{SK notes|三部十四卷}}
+　　{{SK anchor|周易十卷}}{{SK notes|漢魏郡太守京房章句}}周易十巻{{SK notes|漢曲臺長孟喜章句隋八卷唐十卷}}周易四卷{{SK notes|漢費直章句費氏之學出於民間不列學官至唐其書始出}}周易十卷{{SK notes|漢南郡太守馬融章句}}周易五卷{{SK notes|漢荆州牧劉表章句}}周易十卷{{SK notes|漢司空荀爽章句}}
+　　{{SK anchor|右章句}}{{SK notes|六部四十九卷}}
+　　{{SK anchor|周易傳二卷}}{{SK notes|卜子夏}}易傳三卷{{SK notes|漢京房{{SKchar|2652}}吴陸績注}}周易傳一卷{{SK notes|後魏關朗撰唐趙㽔注}}周易傳三卷{{SK notes|唐陸希聲去彖象而自為辭亦自注}}周易外傳二十二卷{{SK notes|髙定撰}}周易言象外傳十卷{{SK notes|宋朝王洙撰}}
+　　{{SK anchor|右傳}}{{SK notes|注附六部四十一卷}}
+　　{{SK anchor|周易十卷}}{{SK notes|後漢大司農鄭元注隋九卷唐十卷}}周易十卷{{SK notes|漢宋忠}}周易十卷{{SK notes|魏將軍王肅}}周易十卷{{SK notes|魏大司農董遇}}周易七卷{{SK notes|魏尚書郎王弼}}周易十卷{{SK notes|吴太常姚信}}周易九卷{{SK notes|吴侍御史虞翻}}周易十三卷{{SK notes|吴陸績}}周易十卷{{SK notes|魏散騎常侍荀煇}}周易十卷{{SK notes|晉散騎常侍于寳}}周易十卷{{SK notes|蜀才}}周易十卷{{SK notes|晉儒林從事黄頴注梁十卷隋四卷唐復十卷}}周易十卷{{SK notes|後魏司徒崔浩}}周易七卷{{SK notes|姚規}}周易十三卷{{SK notes|崔覲}}周易十卷{{SK notes|梁處士可{{SKchar|2596}}}}周易十卷{{SK notes|盧氏}}周易十四卷{{SK notes|傅氏}}周易十卷{{SK notes|王文元}}周易十卷{{SK notes|王凱冲}}周易十卷{{SK notes|任希古}}符祥注十卷{{SK notes|宋朝龍昌期}}周易六卷{{SK notes|劉牧}}周易十卷{{SK notes|張葆光}}補注三卷{{SK notes|皇甫佖}}繫辭二卷{{SK notes|晉桓元注}}繫辭二卷{{SK notes|晉西中郎將謝万}}繋辭二卷{{SK notes|晉太常韓康伯}}繫辭二卷{{SK notes|梁大中大夫宋褰}}繫辭二卷{{SK notes|荀柔之}}繫辭二卷{{SK notes|荀諺}}
+　　{{SK anchor|右注}}{{SK notes|三十一部二百五十四卷}}
+　　{{SK anchor|集觧周易十卷}}{{SK notes|馬鄭二王四家}}集注周易十卷{{SK notes|荀爽九家}}集二王注十卷{{SK notes|楊氏}}集觧周易十卷{{SK notes|張璠}}集注周易十七卷{{SK notes|唐李鼎祚}}集注周易一百卷{{SK notes|唐元載}}集注繫辭二卷{{SK notes|隋志}}周易㑹釋記二十卷{{SK notes|偽吴僧陸希覺}}
+　　{{SK anchor|右集注}}{{SK notes|八部一百七十九卷}}
+　　{{SK anchor|周易義疏二十卷}}{{SK notes|宋明帝集羣臣講}}周易講疏二十卷{{SK notes|張該等羣臣講}}周易講疏三十五卷{{SK notes|梁武帝}}周易講疏十六卷{{SK notes|梁五經博士褚仲都}}周易義疏十四卷{{SK notes|梁都官尚書蕭子政}}周易講疏三十卷{{SK notes|陳諮議參軍張譏}}周易義疏十六卷{{SK notes|陳尚書左僕射周{{SKchar|2592}}正}}周易文句義疏二十卷{{SK notes|梁蕃}}周易講疏十三卷{{SK notes|國子祭酒何妥}}周易文句義疏二十四卷{{SK notes|陸徳明}}周易新{{SKchar|2652}}疏十卷{{SK notes|隂{{SKchar|2592}}道}}周易王道小疏十卷周易廣疏三十六卷{{SK notes|勾徽}}乾坤義疏一卷{{SK notes|劉瓛}}周易大義二十一卷{{SK notes|梁武帝}}周易證義疏二十卷{{SK notes|宋朝范諤昌}}周易正義十四卷{{SK notes|唐孔穎逹}}㑹通正義三十二卷{{SK notes|縱康乂}}周易新注本義十四卷{{SK notes|唐薛仁貴}}正義補闕七卷{{SK notes|四庫書目}}周易甘棠正義三十卷{{SK notes|五代任貞一}}繋辭義疏二卷{{SK notes|劉瓛}}周易口義二十卷{{SK notes|宋朝胡瑗}}繋辭義疏一卷{{SK notes|梁武帝}}繫辭義疏二卷{{SK notes|梁蕭子政}}
+　　{{SK anchor|右義疏}}{{SK notes|二十五部四百二十八卷}}
+　　{{SK anchor|周易論十卷}}{{SK notes|齊中書郎周顒}}周易論四卷{{SK notes|范氏}}略論一卷{{SK notes|張璠}}周易論三卷{{SK notes|唐僧一行}}周易論一卷{{SK notes|應吉甫}}周易論三十三卷{{SK notes|宋朝王昭素}}周易論十卷{{SK notes|陳臯}}周易窮微論一卷{{SK notes|王弼}}周易盡神論一卷{{SK notes|晉司空鍾㑹}}通易象論三卷{{SK notes|晉尚書郎欒肇}}大衍論三卷{{SK notes|唐明皇}}通易象論一卷{{SK notes|宣聘}}通易論一卷{{SK notes|晉荆州刺史宋岱}}周易卦序論一卷{{SK notes|晉司徒右長史楊乂}}統略論三卷{{SK notes|晉少府卿鄒湛}}二阮難答論二卷{{SK notes|阮長成阮仲容}}卦徳統論一卷{{SK notes|劉牧}}制器尚象論一卷{{SK notes|陳希亮}}易卦正名論一卷{{SK notes|劉不疑}}廣論一卷　又大義疑問二十卷　周易大義一卷　又周易發義一卷　周易開題義十卷{{SK notes|梁蕃}}周易大義二卷{{SK notes|陸徳明}}周易幾義一卷{{SK notes|梁南平王蕭偉}}周易異議論十卷{{SK notes|劉遵}}周易外義三卷　周易義六卷{{SK notes|魏徵撰唐志無}}易義五卷{{SK notes|盧行超}}易説精義三卷{{SK notes|四庫書目}}周易括囊大義十卷{{SK notes|四庫書目}}易義八卷{{SK notes|皇甫佖}}易義十卷{{SK notes|聱隅先生黄晞}}易義一卷{{SK notes|黄通}}易義二卷{{SK notes|李賁}}易義一卷{{SK notes|周孟陽}}周易義略九卷{{SK notes|張簡}}周易問二十卷　周易問難二卷{{SK notes|王氏撰}}周易難王輔嗣義一卷{{SK notes|晉顧夷等}}義決一卷{{SK notes|唐藝文志}}爻義一卷{{SK notes|于寳}}大衍義一卷{{SK notes|李覺}}繫辭義二卷{{SK notes|蕭子政}}周易新義上下二卷{{SK notes|沈季長}}易義二卷{{SK notes|葉子長}}周易釋序義三卷{{SK notes|梁蕃}}周　元品二卷　周易發揮五卷{{SK notes|唐王勃}}周易物象釋疑一卷{{SK notes|唐東鄉助}}易忘象三卷{{SK notes|崔良佐}}周易元統一卷{{SK notes|白雲子述}}周易聖斷七卷{{SK notes|鮮于侁}}周易流演五卷　周易發題一卷{{SK notes|張元}}周易明疑録一卷　周易啟元一卷{{SK notes|張元}}周易啟源十卷{{SK notes|蔡黄成}}辨劉牧易一卷{{SK notes|陳希亮}}王劉易辯二卷{{SK notes|宋咸}}易旨歸議一卷　周易元談六卷　周易要削三卷　周易釋疑一卷　周易元悟三卷　周易文言一卷　周易髓十卷{{SK notes|郭璞}}周易意學十卷{{SK notes|陸秉}}周易意藴一卷{{SK notes|徐庸}}周易卦斷一卷{{SK notes|邱鑄}}周易口訣六卷{{SK notes|唐魏鄭公}}周易口訣六卷{{SK notes|王錡}}周易口訣六卷{{SK notes|史之證}}周易口訣七卷{{SK notes|陸太易}}周易微旨三卷{{SK notes|陸希聲}}周易隠訣一卷　周易精微三卷{{SK notes|皇甫佖}}周易析微通説三十卷{{SK notes|楚泰}}易筌一卷{{SK notes|阮逸}}周易質疑卜{{SKchar|2652}}三十卷{{SK notes|楚泰}}易訓三卷{{SK notes|宋咸}}周易明文十卷{{SK notes|郭思永}}周易析藴一卷{{SK notes|孫坦}}易箝精義二卷　周易通神二卷　周易精微三卷{{SK notes|周鎮}}窮理盡性經一卷　周易義證總要二卷　周易絶筆書四卷{{SK notes|龍昌期}}周易發隠二十卷{{SK notes|陳良獻}}易書一百五十卷{{SK notes|唐裴通}}
+　　{{SK anchor|右論説}}{{SK notes|九十二部五百八十八卷}}
+　　{{SK anchor|周易統例十卷}}{{SK notes|崔覲}}周易略例一卷{{SK notes|王弼}}周易略例義一卷{{SK notes|黄黎獻}}略例疏一卷{{SK notes|莊道名}}略例一卷{{SK notes|桂詢}}周易編例十卷周易義類三卷{{SK notes|顧棠}}經類一卷　卦類一卷　類纂一卷
+　　{{SK anchor|右類例}}{{SK notes|十部三十卷}}
+　　{{SK anchor|周易譜一卷}}{{SK notes|隋志}}略譜一卷{{SK notes|袁宏}}周易譜一卷{{SK notes|沈熊}}
+　　{{SK anchor|右譜}}{{SK notes|三部三卷}}
+　　{{SK anchor|周易舉正三卷}}{{SK notes|唐郭京}}周易證墜簡二卷{{SK notes|范諤昌}}先儒遺事二卷{{SK notes|劉收一作陳純臣}}
+　　{{SK anchor|右考正}}{{SK notes|三部六卷}}
+　　{{SK anchor|周易卦象數旨一卷}}{{SK notes|東晉李顒}}揲蓍法一卷{{SK notes|不為子}}易數一卷{{SK notes|陳高}}
+　　{{SK anchor|右數}}{{SK notes|三部三卷}}
+　　{{SK anchor|大衍元圖一卷}}{{SK notes|唐僧一行}}鈎隠圖三卷{{SK notes|劉牧}}續鈎隠圖一卷{{SK notes|黄黎獻}}周易稽頤圖三卷{{SK notes|荆州田家書目}}龍圖一卷　河圖洛書觧一卷{{SK notes|沈濟}}伏羲俯仰畫卦圖一卷{{SK notes|彭汝礪}}周易乾生歸一圖十卷{{SK notes|彭汝礪}}荆定易圖一卷　八卦小成圖一卷
+　　{{SK anchor|右圖}}{{SK notes|十部二十三卷}}
+　　{{SK anchor|周易音一卷}}{{SK notes|東晉尚書郎李軌}}周易音一卷{{SK notes|范氏}}周易并注音七卷{{SK notes|唐陸徳明}}雜音三卷{{SK notes|唐志}}周易釋音一卷{{SK notes|陸徳明}}
+　　{{SK anchor|右音}}{{SK notes|五部十三卷}}
+　　{{SK anchor|乾坤鑿度二卷}}{{SK notes|伏羲文黄帝演倉頡修注}}乾鑿度二卷{{SK notes|鄭元注}}易緯稽覽圖七卷{{SK notes|鄭元注}}京房易鈔一卷
+　　{{SK anchor|右䜟緯}}{{SK notes|四部十二卷}}
+　　{{SK anchor|太元經九卷}}{{SK notes|揚雄撰宋衷注}}太元經十卷{{SK notes|陸績宋衷注}}太元經十卷{{SK notes|蔡文邵注}}太元經十二卷{{SK notes|陸績注}}太元經十四卷{{SK notes|虞翻注}}太元經十二卷{{SK notes|范望注}}太元經講疏四十一卷{{SK notes|章察}}太元經發隠三卷{{SK notes|章察}}説元一卷{{SK notes|王涯}}元頤一卷　太元經六卷{{SK notes|王涯注}}太元經十卷{{SK notes|宋維翰注}}太元經十卷{{SK notes|林瑀注}}太元經傳三卷{{SK notes|杜元頴撰}}太元經疏十八卷{{SK notes|郭元亨}}演元十卷{{SK notes|陳漸}}補正太元經十卷{{SK notes|范諤昌}}太元經釋文一卷{{SK notes|林瑀}}太元經手音一卷{{SK notes|程賁}}太元音訓一卷{{SK notes|馮元}}太元圖一卷{{SK notes|林共}}元圖發微三卷　太元正義一卷{{SK notes|孫胄}}太元叩鍵一卷　通元十卷{{SK notes|晉王長文}}洞極真經一卷元包十卷{{SK notes|唐衛元嵩撰蘇源明{{SKchar|2652}}李江注}}太易十五卷{{SK notes|唐張志和撰}}潛虛
+　　{{SK anchor|一卷}}{{SK notes|司馬温公作擬太元}}
+　　{{SK anchor|右擬易}}{{SK notes|二十九部二百三十一卷}}
+　　凡易十六種二百四十一部一千八百九十卷書{{SK notes|古文經　石經　章句　{{SKchar|2652}}　注　集注　義疏　問難　義訓　小學　逸篇　圖　音續書　䜟緯　逸書}}
+　　{{SK anchor|古文尚書十三卷}}{{SK notes|漢臨淮太守孔安國{{SKchar|2652}}}}古文尚書九卷{{SK notes|鄭元注}}按易詩書春秋皆有古文自漢以来盡易以今文惟孔安國得屋壁之書依古文而{{SKchar|1452}}之安國授都尉朝朝授膠東庸生謂之尚書古文之學鄭元為之注亦不廢古文使天下後學於此一書而得古意不幸遭明皇更以今文其不合開元文字者謂之野書然易以今文雖失古意但參之古書於理無礙亦足矣明皇之時去{{SKchar|1452}}書既逺不通變古之義所用今文違於古義尤多臣於是考今書之文無妨於義者從今有妨於義者從古庶古今文義兩不相違曰書考迨武成而未及終編又有書辨訛七卷皆可見矣
+　　{{SK anchor|古文尚書舜典一卷}}{{SK notes|晉豫章太守范{{SKchar|1195}}注}}
+　　按百篇之書莫大於二典而舜典自永嘉後失孔氏所{{SKchar|2652}}故范甯為之觧至齊{{YL|建武四年}}姚方興於大航頭得而獻之議者以為安國之所注也或言王肅注耳{{SK notes|隋志作姚興方於大桁市得其書奏上}}
+　　{{SK anchor|古文大義二十卷}}{{SK notes|任孝恭}}三字石經尚書古篆三卷
+　　{{SK anchor|右古文經}}{{SK notes|五部四十六卷}}
+　　今字石經鄭元尚書八卷　今字石經尚書本五卷一字石經尚書六卷{{SK notes|見隋志}}三字石經尚書九卷
+　　{{SK anchor|右石經}}{{SK notes|四部二十八卷}}
+　　歐陽章句三十一卷　大小夏侯章句各二十九卷
+　　{{SK anchor|右章句}}{{SK notes|三部八十九卷}}
+　　{{SK anchor|伏生大傳三卷}}{{SK notes|鄭元注}}今字尚書十三卷{{SK notes|孔安國{{SKchar|2652}}按隋志十四卷}}洪範五行傳論十一卷{{SK notes|漢光祿大夫劉向}}五行傳記一篇{{SK notes|漢許商}}洪範外傳十卷{{SK notes|唐穆元休}}洪範傳一卷{{SK notes|曽致}}
+　　{{SK anchor|右傳}}{{SK notes|六部三十九卷}}
+　　{{SK anchor|尚書十一卷}}{{SK notes|馬融}}尚書十一卷{{SK notes|王肅}}尚書十五卷{{SK notes|晉祠部郎謝沈}}尚書十卷{{SK notes|范甯}}尚書十卷{{SK notes|王元度}}
+　　{{SK anchor|右注}}{{SK notes|五部五十七卷}}
+　　{{SK anchor|集觧尚書十一卷}}{{SK notes|李顒}}集釋尚書十一卷{{SK notes|宋給事中姜道盛}}尚書㑹觧十三卷{{SK notes|四庫書目}}
+　　{{SK anchor|右集注}}{{SK notes|三部三十五卷}}
+　　{{SK anchor|尚書大義二十卷}}{{SK notes|梁武帝}}尚書述義二十卷{{SK notes|隋國子助教劉{{SKchar|3271}}}}尚書正義二十卷{{SK notes|唐國子祭酒孔穎逹等}}尚書義疏十卷{{SK notes|梁國子助教費甝}}尚書義疏三十卷{{SK notes|梁司徒蔡太寳}}尚書義疏七卷{{SK notes|隋志}}尚書疏二十卷{{SK notes|顧彪}}尚書義疏三十卷{{SK notes|隋劉焯}}義疏十卷{{SK notes|梁國子助教巢猗}}
+　　{{SK anchor|右義疏}}{{SK notes|九部一百六十七卷}}
+　　{{SK anchor|尚書駁議五卷}}{{SK notes|王肅}}尚書釋問四卷{{SK notes|魏侍中王粲}}尚書百問一卷{{SK notes|齊太學博士顧歡}}尚書百釋三卷{{SK notes|梁國子助教巢猗}}尚書釋問一卷{{SK notes|虞氏}}尚書釋問四卷{{SK notes|鄭元注}}尚書紏繆十卷{{SK notes|王元感}}
+　　{{SK anchor|右問難}}{{SK notes|七部二十八卷}}
+　　{{SK anchor|尚書義三卷}}{{SK notes|梁國子助教巢猗}}尚書義三卷{{SK notes|隋劉先生}}尚書釋義四卷{{SK notes|伊説}}尚書新釋二卷{{SK notes|李顒}}尚書義注三卷{{SK notes|吕文優}}尚書文外義一卷{{SK notes|顧彪}}尚書閏義一卷　尚書大義二卷{{SK notes|吴孜}}暢訓一卷{{SK notes|漢伏勝}}百篇義一卷{{SK notes|劉{{SKchar|3271}}}}略義三卷{{SK notes|劉{{SKchar|3271}}}}尚書孔目一卷{{SK notes|劉{{SKchar|3271}}}}尚書義宗三卷　尚書關言三卷{{SK notes|黄君俞}}略義一卷{{SK notes|樂敦逸}}書義十述一卷{{SK notes|孫覺}}洪範口義一卷{{SK notes|胡瑗}}尚書斷章十三卷{{SK notes|成伯璵}}
+　　{{SK anchor|右義訓}}{{SK notes|十八部四十七卷}}
+　　古文尚書一卷　尚書要記名數一卷
+　　{{SK anchor|右小學}}{{SK notes|二部二卷}}
+　　{{SK anchor|尚書亡篇序一卷}}{{SK notes|梁五經博士劉叔嗣注}}尚書逸篇二卷　尚書逸篇三卷{{SK notes|徐邈注}}
+　　{{SK anchor|右逸篇}}{{SK notes|三部六卷}}
+　　河圖{{SKchar|2652}}一卷{{SK notes|李平西}}尚書治要圖一卷
+　　{{SK anchor|右圖}}{{SK notes|二部二卷}}
+　　{{SK anchor|古文尚書音一卷}}{{SK notes|徐邈}}今文尚書音一卷{{SK notes|顧彪}}音義四卷{{SK notes|王儉}}古文尚書釋文十三卷
+　　{{SK anchor|右音}}{{SK notes|四部十九卷}}
+　　{{SK anchor|續尚書}}{{SK notes|唐陳正卿纂漢至唐十二代詔策章疏歌頌符檄議論成書開元末上之卷亡}}續尚書三卷{{SK notes|本朝韓氏}}尚書演範{{SK notes|唐崔良佐撰卷亡}}
+　　{{SK anchor|右續書}}{{SK notes|三部三卷餘卷亡}}
+　　{{SK anchor|尚書緯三卷}}{{SK notes|鄭元注}}尚書中{{SKchar|1974}}五卷{{SK notes|鄭元注}}
+　　{{SK anchor|右䜟緯}}{{SK notes|二部八卷}}
+　　{{SK anchor|周書七十一篇}}{{SK notes|顔師古曰劉向云周時誓誥號令也盖孔子所論百篇之餘也今存四十五篇}}汲冡周書十卷　汲冡周書八卷{{SK notes|孔晁注}}古文璅語四卷{{SK notes|汲冡書}}
+　　{{SK anchor|右逸書}}{{SK notes|四部二十二卷七十一篇}}
+　　凡書十六種八十部五百九十八卷{{SK notes|七十一篇}}
+　　{{SK anchor|詩}}{{SK notes|石經　故訓　{{SKchar|2652}}　注　義疏　問辨　統説譜　名物　圖　音　緯學}}
+　　{{SK anchor|一字石經魯詩六卷}}{{SK notes|隋志}}今字石經毛詩三卷
+　　{{SK anchor|右石經}}{{SK notes|二部九卷}}
+　　{{SK anchor|魯故訓二十五卷}}{{SK notes|漢魯申公}}齊后氏故訓二十卷{{SK notes|漢齊后蒼}}齊孫氏故訓二十七卷　韓故訓三十六卷{{SK notes|漢常山太傅韓嬰}}毛詩故訓二十卷{{SK notes|漢河間太守毛萇撰鄭元箋}}
+　　按詩舊惟魯齊韓三家魯申公齊轅固燕韓嬰也終于後漢惟此三家並立學官漢初又有趙人毛萇者自言其詩{{SKchar|2652}}自子夏盖本論語起予者商之言也河間獻王雖好之而漢世不以立學官毛公嘗為北海相其詩{{SKchar|2652}}於北海鄭元北海人故為之箋毛詩自鄭氏既箋之後而學者篤信鄭元故此詩専行三家遂廢齊詩亡於魏魯詩亡於西晉隋唐之世猶有韓詩可據迨五代之後韓詩亦亡致今學者只憑毛氏且以序為子夏所作更不敢擬議盖事無兩造之辭則獄有偏聼之惑臣為作詩辨妄六卷可以見其得失
+　　{{SK anchor|右故訓}}{{SK notes|五部一百二十八卷}}
+　　{{SK anchor|韓嬰傳二十二卷}}{{SK notes|薛氏章氏}}毛萇傳十卷　韓詩内傳四卷韓詩外傳十卷　齊后氏傳三十九卷　齊孫氏傳二十八卷
+　　按后孫之{{SKchar|2652}}其亡巳乆必不可得今存其名使學者知{{SKchar|2652}}注之門戸也今之學者専溺毛氏由其不知有他之故
+　　{{SK anchor|右傳}}{{SK notes|六部一百一十三卷}}
+　　{{SK anchor|毛詩二十卷}}{{SK notes|王肅注}}毛詩二十卷{{SK notes|葉遵注}}毛詩二十卷{{SK notes|王元度注}}石經毛詩二十卷{{SK notes|蜀本}}毛詩集注二十四卷{{SK notes|梁桂州刺史崔靈思}}周詩集觧二十卷{{SK notes|宋朝邱鑄注只取序中第一句以為子夏作後句則削之}}
+　　{{SK anchor|右注}}{{SK notes|集注附六部一百二十四卷}}
+　　{{SK anchor|毛詩大義十一卷}}{{SK notes|梁武帝}}毛詩大義三卷{{SK notes|蘇子才}}毛詩正義四十卷{{SK notes|唐孔穎逹等}}毛詩義疏二十卷{{SK notes|舒援}}毛詩義疏二十八卷{{SK notes|梁常侍沈重}}毛詩述義四十卷{{SK notes|隋劉{{SKchar|3271}}}}毛詩章句義疏四十卷{{SK notes|魯世逹}}毛詩小疏二十卷{{SK notes|崇文館目}}毛詩釋義十卷{{SK notes|晉祠部郎謝沈}}毛詩纂義十卷{{SK notes|許叔牙}}張氏義疏五卷　毛詩義方二十卷{{SK notes|林洪範}}毛詩折衷義二十卷{{SK notes|劉宇}}
+　　{{SK anchor|右義疏}}{{SK notes|十三部二百六十七卷}}
+　　{{SK anchor|毛詩義問十卷}}{{SK notes|魏太子文學劉公幹}}毛詩義駁八卷{{SK notes|王肅}}毛詩駁五卷{{SK notes|魏司空王基隋志一卷}}毛詩異同評十卷{{SK notes|晉孫毓}}難孫氏毛詩評四卷{{SK notes|晉陳統}}毛詩辨異三卷{{SK notes|晉楊乂}}毛詩異義二卷{{SK notes|楊乂}}問難二卷{{SK notes|唐藝文志}}毛詩雜答問五卷{{SK notes|韋昭朱育等}}雜義難十卷{{SK notes|唐藝文志}}箋{{SKchar|2652}}辨誤八卷{{SK notes|周式}}毛詩餘辨四卷　毛詩釋疑一卷毛詩正論十卷{{SK notes|劉孝孫}}
+　　{{SK anchor|右問辨}}{{SK notes|十四部八十二卷}}
+　　{{SK anchor|韓詩翼要十卷}}{{SK notes|漢侯苞}}毛詩奏事一卷{{SK notes|王肅}}毛詩拾遺一卷{{SK notes|郭璞}}毛詩觧序義一卷{{SK notes|顧歡等}}毛詩序義二卷{{SK notes|宋通直郎雷次宗}}毛詩集小序一卷{{SK notes|劉{{SKchar|3271}}}}毛詩發題序義一卷{{SK notes|梁武帝}}毛詩序義疏一卷{{SK notes|劉瓛等}}毛詩誼府三卷{{SK notes|後魏元延明}}表隠二卷{{SK notes|晉陳統}}毛詩指説一卷{{SK notes|唐成伯璵}}毛詩斷章二卷　毛詩章疏二卷毛詩題綱一卷　毛詩元談一卷　毛詩别錄一卷{{SK notes|張郃}}毛鄭詩學十卷　毛詩外義二卷{{SK notes|宋咸}}毛詩重文説七卷判篇二卷{{SK notes|劉泉}}别集正義一卷　毛詩正記一卷　詩
+　　統觧序一卷　關言二十三卷{{SK notes|黄君俞}}毛詩十五國觧一卷{{SK notes|吴申}}
+　　{{SK anchor|右統説}}{{SK notes|二十五部七十九卷}}
+　　{{SK anchor|毛詩譜三卷}}{{SK notes|鄭元撰}}毛詩譜三卷{{SK notes|吴太常卿徐整撰}}毛詩譜二卷{{SK notes|太叔求及劉{{SKchar|3271}}注}}謝氏毛詩譜鈔一卷　詩譜補闕三卷{{SK notes|歐陽修}}
+　　{{SK anchor|右譜}}{{SK notes|五部十二卷}}
+　　{{SK anchor|草木鳥獸魚蟲疏二卷}}{{SK notes|吴陸機}}毛詩名物觧十卷　毛詩物性八卷
+　　{{SK anchor|右名物}}{{SK notes|三部二十卷}}
+　　毛詩圖三卷　毛詩孔子圖經十二卷　毛詩古賢聖圖二卷{{SK notes|三書並蕭梁人作已亡}}毛詩草木魚蟲圖二十卷{{SK notes|唐藝文志}}小戎圖二卷
+　　{{SK anchor|右圖}}{{SK notes|五部三十九卷}}
+　　{{SK anchor|毛詩箋音證十卷}}{{SK notes|後魏太常劉芳}}毛詩音十六卷{{SK notes|梁徐邈等撰}}毛詩音二卷{{SK notes|徐邈撰}}
+　　按徐氏音今雖亡然陸音所引多本於此
+　　{{SK anchor|毛詩并注音八卷}}{{SK notes|隋祕書學士魯世逹撰按唐志有魯世逹音義二卷}}鄭元等諸家音十五卷
+　　{{SK anchor|右音}}{{SK notes|五部五十一卷}}
+　　{{SK anchor|詩緯十八卷}}{{SK notes|魏博士宋均注}}
+　　{{SK anchor|右緯學}}{{SK notes|一部十八卷}}
+　　凡詩十二種九十部九百四十二卷
+　　{{SK anchor|春秋}}{{SK notes|經　五家{{SKchar|2652}}注　三{{SKchar|2652}}義疏　{{SKchar|2652}}論　序條例　圖　文辭　地理　世譜　卦繇音　䜟緯}}
+　　{{SK anchor|春秋經十一卷}}{{SK notes|吴衛將軍士燮注}}春秋經十二卷　春秋左氏長經二十卷{{SK notes|漢侍中賈逵章句}}三{{SKchar|2652}}經觧十一卷{{SK notes|胡訥集撰}}春秋加減一卷　三{{SKchar|2652}}經字異同一卷{{SK notes|丁副}}一字石經春秋一卷三字石經春秋三卷
+　　按春秋之經則魯史記也初無同異之文亦無彼此之説良由三家所{{SKchar|2652}}之書有異同故是非從此起臣作春秋考所以是正經文以凡有異同者皆是訛誤古者簡編艱繁學者希見親書惟以口相授左氏世為楚史親見官書其訛差少然有所訛從文起公穀漢之經生惟是口{{SKchar|2652}}其訛差多然有所訛從音起以此辨之了無滯礙又有春秋傳十二卷以明經之旨備見周之憲章
+　　{{SK anchor|右經}}{{SK notes|八部六十卷}}
+　　三字石經左傳古篆書十二卷　今字石經左傳經十卷　春秋左氏觧詁三十卷{{SK notes|賈逵}}春秋左氏傳觧誼三十一卷{{SK notes|服䖍}}春秋左氏傳三十卷{{SK notes|王肅}}春秋左氏經傳章句三十卷{{SK notes|董遇}}春秋左氏傳義注十八卷{{SK notes|孫毓}}春秋左氏傳十二卷{{SK notes|魏司徒王朗}}春秋左氏經傳集解三十卷{{SK notes|杜預}}
+　　杜預觧左氏顔師古觧漢書所以得忠臣之名者以其盡之矣左氏未經杜氏之前凡幾家一經杜氏之後後人不能措一辭漢書未經顔氏之前凡幾家一經顔氏之後後人不能易其説縱有措辭易説之者如朝月曉星不能有其明也如此之人方可以觧經茍為文言多而經旨不見文言簡而經旨有遺自我説之後後人復有説者皆非箋釋之手也{{SKchar|2652}}注之學起惟此二人其殆庶幾乎其故何哉古人之言所以難明者非為書之理意難明也實為書之事物難明也非為古人之文言難明也實為古人之文言有不通於今者之難明也能明乎爾雅之所作則可以知箋註之所當然不明乎爾雅之所作則不識箋注之旨歸也善乎二子之通爾雅也顔氏所通者訓詁杜氏所通者星歴地理當其顔氏之理訓詁也如與古人對談當其杜氏之理星歴地理也如羲和之步天如禹之行水然亦有所短杜氏則不識蟲魚鳥獸草木之名顔氏則不識天文地理孔子曰知之為知之不知為不知是知也杜氏於星歴地理之言無不極其致至於蟲魚鳥獸草木之名則引爾雅以釋之顔氏於訓詁之言甚暢至於天文地理則濶略焉此為不知為不知也其他紛紛是何為者釋是何經明是何學
+　　{{SK anchor|春秋左氏注十卷}}{{SK notes|杜服二氏}}王元度注左傳{{SK notes|卷亡}}一字石經公羊傳九卷　春秋公羊傳十二卷{{SK notes|嚴彭祖}}春秋公羊觧詁十一卷{{SK notes|何休}}春秋公羊經傳十三卷{{SK notes|王愆期}}春秋公羊傳十二卷{{SK notes|髙襲}}春秋公羊集觧十四卷{{SK notes|孔衍}}春秋公羊傳五卷春秋穀梁傳十五卷{{SK notes|漢諫議大夫尹更始}}春秋穀梁傳十二卷{{SK notes|吴唐固}}春秋穀梁傳十二卷{{SK notes|魏平樂太守糜信}}榖梁傳十卷{{SK notes|晉堂邑太守張靖}}春秋穀梁傳十六卷{{SK notes|程闡}}春秋穀梁傳十四卷{{SK notes|孔衍}}春秋榖梁傳十二卷{{SK notes|徐邈}}春秋穀梁傳十四卷{{SK notes|叚肅注疑漢人}}春秋穀梁傳五卷{{SK notes|孔君指訓}}春秋穀梁傳十二卷{{SK notes|范甯集觧}}春秋穀梁傳四卷{{SK notes|殘缺張程孫劉四家集觧}}春秋穀梁傳十二卷{{SK notes|晉給事郎徐乾}}春秋鄒氏傳十一卷　春秋夾氏傳十一卷
+　　鄒夾傳雖亡今取而備之以見五家之所始
+　　{{SK anchor|右五家傳注}}{{SK notes|二十三部四百五十一卷}}
+　　{{SK anchor|春秋左氏經傳義略二十五卷}}{{SK notes|陳國子博士沈文阿唐志二十七卷}}王元規續沈文阿春秋左氏傳義略十卷　春秋義略三十卷{{SK notes|陳右軍將軍張冲}}春秋左氏義略八卷　春秋左氏傳立義十卷{{SK notes|崔靈恩}}春秋左氏傳述義四十卷{{SK notes|東京太學博士劉{{SKchar|3271}}}}左氏鈔十卷　春秋義函傳十六卷{{SK notes|于寳隋志作春秋左氏函{{SKchar|2652}}十五卷}}春秋正義三十六卷{{SK notes|孔穎逹}}左氏義疏六十卷{{SK notes|徐文逺}}春秋精義三十卷　春秋公羊疏十二卷{{SK notes|見隋志}}春秋公羊疏三十卷春秋穀梁傳義十卷{{SK notes|徐邈}}春秋穀梁疏十三卷{{SK notes|唐楊士勛}}
+　　{{SK anchor|右三傳義疏}}{{SK notes|十五部三百三十九卷}}
+　　{{SK anchor|春秋釋訓一卷}}{{SK notes|賈逵}}春秋決事十卷{{SK notes|董仲舒}}春秋繁露十七卷{{SK notes|董仲舒}}春秋左氏經傳朱墨列一卷{{SK notes|賈逵}}春秋決疑論一卷　左氏膏肓十卷{{SK notes|何休}}穀梁廢疾三卷{{SK notes|何休}}公羊墨守十四卷{{SK notes|何休}}春秋漢義十三卷{{SK notes|何休}}駁何氏漢議二卷{{SK notes|鄭{{SKchar|2593}}}}駁何氏漢議叙一卷　春秋左氏膏肓釋痾一卷{{SK notes|服䖍}}駁何氏漢議十一卷{{SK notes|服䖍}}理何氏漢議二卷{{SK notes|魏糜信}}春秋議十卷{{SK notes|何休}}春秋成長説九卷{{SK notes|服䖍}}春秋左氏逹義一卷{{SK notes|漢司徒椽王蚡}}春秋塞難三卷{{SK notes|服䖍}}春秋説要十卷{{SK notes|糜信}}春秋左傳評二卷{{SK notes|杜預}}左氏傳賈服異同略五卷{{SK notes|孫毓}}春秋叢林十二卷{{SK notes|李謐}}春秋左氏區别三十卷{{SK notes|宋尚書郎何始真}}春秋義林一卷　春秋五辨一卷{{SK notes|梁博士沈宏}}春秋辨證六卷　春秋㫖通十卷{{SK notes|王{{SKchar|3737}}之}}春秋申先儒傳論十卷{{SK notes|崔靈恩}}春秋左氏經傳觧四卷{{SK notes|王述之}}徐邈答春秋穀梁義三卷　春秋經傳觧六卷{{SK notes|崔靈恩}}薄叔元問穀梁義二卷　春秋公羊穀梁集傳十二卷{{SK notes|晉博士劉兆}}春秋公羊穀梁二傳評三卷　春秋三家經本訓詁十二卷{{SK notes|賈逵}}春秋三傳論十卷{{SK notes|魏大長秋韓益}}春秋經合三傳通論十卷{{SK notes|潘叔度}}春秋成奪十卷{{SK notes|潘叔度}}春秋三傳評十卷{{SK notes|胡訥以上見隋志}}左氏釋滯十卷{{SK notes|殷興}}經傳觧六卷{{SK notes|沈宏}}傳經觧六卷{{SK notes|崔靈恩}}攻昧十二卷{{SK notes|劉{{SKchar|3271}}}}規過三卷{{SK notes|劉{{SKchar|3271}}}}難答論一卷{{SK notes|王愆期}}荀爽徐欽答問五卷　公羊違義三卷{{SK notes|劉寔}}蕭邕問傳義三卷　三家集觧十一卷{{SK notes|劉兆}}公穀二傳評三卷{{SK notes|江熙}}春秋二傳異同十二卷{{SK notes|李{{SKchar|3787}}}}雜義難五卷　左氏杜預評二卷春秋纂要四十卷{{SK notes|高重}}三傳㫖要十五卷{{SK notes|劉軻}}春秋振滯
+　　{{SK anchor|二十卷}}{{SK notes|王元感}}春秋通一卷{{SK notes|韓滉}}春秋指掌十五卷{{SK notes|李瑾}}春秋指元十卷{{SK notes|張傑}}左氏釋疑七卷{{SK notes|裴安時}}春秋折衷論三十卷{{SK notes|陳岳}}春秋義鑑三十卷{{SK notes|郭翔撰以上見唐志}}集傳春秋微㫖三卷{{SK notes|唐陸淳}}集傳春秋辨疑七卷{{SK notes|陸淳}}左傳引帖斷義七卷{{SK notes|偽蜀蹇遵品}}春秋{{SKchar|1841}}鑑一卷　春秋纂要十卷{{SK notes|偽唐姜䖍嗣}}春秋集傳十五卷{{SK notes|宋朝王㳂}}春秋纂類義統十卷　春秋原要二卷{{SK notes|王曉}}春秋三傳雜評十卷　春秋闡微纂類義統十二卷{{SK notes|陸淳}}春秋先儒異同三卷{{SK notes|李{{SKchar|3787}}}}春秋義囊七卷　春秋要論五卷{{SK notes|馬言擇}}春秋會元十二卷{{SK notes|鄭昭慶}}三傳集義三十卷{{SK notes|李堯俞}}左氏鼓吹一卷{{SK notes|吴元緒}}春秋異義觧十二卷{{SK notes|王哲}}春秋通義十二卷{{SK notes|王哲}}皇綱論五卷{{SK notes|王哲}}春秋左氏傳鑑三卷　春秋摘微一卷{{SK notes|盧仝}}春秋經社十二卷　春秋關言十二卷{{SK notes|黄君俞}}春秋義二十卷{{SK notes|王棐}}春秋本㫖四卷{{SK notes|何渉}}春秋碎玉一卷{{SK notes|唐李瑾}}春秋索隠五卷{{SK notes|陳洙}}春秋經社要義六卷{{SK notes|孫覺}}春秋尊王發微十二卷{{SK notes|孫復}}春秋總論三卷{{SK notes|孫復}}左氏指元十卷{{SK notes|楊希範}}春秋會義三十卷{{SK notes|杜諤}}春秋新義十卷{{SK notes|宋堂}}春秋義略十四卷{{SK notes|董敦逸}}春秋要義三十卷{{SK notes|胡瑗}}春秋口義二十卷{{SK notes|胡瑗}}春秋正論三卷{{SK notes|龍昌期}}春秋復道論十五卷{{SK notes|龍昌期}}春秋意十五卷{{SK notes|皮元}}春秋褒貶志五卷{{SK notes|劉䕫}}春秋折衷義十一卷{{SK notes|吴孜}}三傳元談一卷
+　　{{SK anchor|右傳論}}{{SK notes|一百四部九百三十六卷}}
+　　劉寔等集觧春秋序一卷　春秋序論二卷{{SK notes|于寳撰}}春秋序一卷{{SK notes|賀道養注}}春秋序一卷{{SK notes|崔靈恩撰}}春秋序一卷{{SK notes|田元休注}}春秋左傳杜預序集觧一卷{{SK notes|劉{{SKchar|3271}}注}}春秋序義疏二卷　春秋公羊觧序一卷{{SK notes|鮮于公撰}}
+　　{{SK anchor|右序}}{{SK notes|八部十卷}}
+　　{{SK anchor|春秋釋例十卷}}{{SK notes|漢公車聘士穎容}}左傳條例九卷{{SK notes|漢大司農鄭衆}}春秋釋例十五卷{{SK notes|杜預}}春秋條例十一卷{{SK notes|晉太尉劉寔}}春秋經例十一卷{{SK notes|晉方範}}左氏傳條例二十五卷　春秋義例十卷春秋左傳例苑十九卷{{SK notes|梁簡文帝}}春秋五十凡義疏二卷春秋公羊諡例一卷{{SK notes|何休}}公羊傳條例一卷{{SK notes|何休}}穀梁傳例一卷{{SK notes|范甯}}牒例章句九卷{{SK notes|鄭衆}}春秋經傳説例疑隠一卷{{SK notes|梁吴略}}申先儒傳例一卷　三傳總例二十卷{{SK notes|韋表微}}李氏三傳異同例十三卷　集傳春秋纂例十卷{{SK notes|陸質}}春秋通例三卷{{SK notes|陸希聲}}公穀總例十卷{{SK notes|成元}}春秋總例十二卷{{SK notes|周希聖}}春秋統例二十卷{{SK notes|朱臨}}春秋演聖統例二十卷{{SK notes|丁副}}春秋雜體例一卷
+　　{{SK anchor|右條例}}{{SK notes|二十四部二百三十五卷}}
+　　{{SK anchor|春秋左氏圖十卷}}{{SK notes|梁簡文帝}}春秋圖七卷{{SK notes|漢嚴彭祖}}春秋圖五卷{{SK notes|唐張傑}}春秋手鑑圖一卷　春秋圖鑑五卷　春秋明例隠括圖一卷{{SK notes|王哲}}
+　　{{SK anchor|右圖}}{{SK notes|六部二十九卷}}
+　　春秋大夫辭三卷　春秋嘉語六卷{{SK notes|以上見隋志}}春秋文苑六卷{{SK notes|梁沈宏}}春秋辭苑五卷
+　　{{SK anchor|右文辭}}{{SK notes|四部二十卷}}
+　　{{SK anchor|春秋盟會地圖一卷}}{{SK notes|漢嚴彭祖}}春秋土地名三卷{{SK notes|晉裴秀客京相璠等撰}}春秋諸國録　春秋釋例地名譜一卷{{SK notes|杜預}}春秋列國圖一卷
+　　{{SK anchor|右地理}}{{SK notes|五部六卷}}
+　　春秋左氏諸大夫世族譜十三卷{{SK notes|顧啟期}}春秋世譜七卷帝王歴紀譜二卷　演左傳諡族圖五卷　春秋名
+　　{{SK anchor|號歸一圖二卷}}{{SK notes|馮繼先}}小公子譜六卷{{SK notes|杜預}}春秋公子譜一卷{{SK notes|吴楊藴}}春秋世次圖四卷{{SK notes|鄭夀}}春秋名字異同録五卷{{SK notes|馮繼先}}春秋諸臣傳三十卷{{SK notes|鄭昻}}春秋列國諸臣賛傳五十一卷{{SK notes|王當}}春秋括甲子　春秋十二國年歴一卷　春秋機要一卷　春秋宗族名諡譜五卷　春秋國君名例一卷　春秋諡族譜一卷
+　　{{SK anchor|右世譜}}{{SK notes|十七部一百三十五卷}}
+　　師春二卷　魯史春秋卦名一卷
+　　{{SK anchor|右卦繇}}{{SK notes|二部三卷}}
+　　{{SK anchor|春秋左傳音三卷}}{{SK notes|魏中散大夫嵇康}}左傳音三卷{{SK notes|李軌}}左傳音三卷{{SK notes|杜預}}左傳音三卷{{SK notes|徐邈}}左傳音隠一卷　左傳音三卷{{SK notes|王元規}}左傳音十二卷{{SK notes|見唐志}}左傳音三卷{{SK notes|徐文逺}}春秋音義六卷{{SK notes|陸徳明}}公羊音二卷{{SK notes|王儉}}又一卷{{SK notes|陸徳明}}穀梁音一卷{{SK notes|孫邈}}又一卷{{SK notes|陸徳明}}
+　　{{SK anchor|右音}}{{SK notes|十三部四十二卷}}
+　　{{SK anchor|春秋災異十五卷}}{{SK notes|郄萌撰}}春秋災異應録五卷　春秋緯三十卷{{SK notes|宋均注}}春秋内事四卷　春秋包命二卷　春秋祕事十一卷
+　　{{SK anchor|右䜟緯}}{{SK notes|六部六十七卷}}
+　　凡春秋十三種二百四十六部二千三百三十三卷
+　　{{SK anchor|春秋外傳國語}}{{SK notes|注觧　章句　非駁　音}}
+　　{{SK anchor|春秋外傳國語二十卷}}{{SK notes|賈逵}}春秋外傳國語二十一卷{{SK notes|虞翻}}春秋外傳國語二十二卷{{SK notes|韋昭}}春秋外傳國語二十卷{{SK notes|晉五經博士孔晁}}春秋外傳國語二十一卷{{SK notes|唐固}}
+　　{{SK anchor|右注觧}}{{SK notes|五部一百四卷}}
+　　{{SK anchor|春秋外傳章句二十二卷}}{{SK notes|王肅}}
+　　{{SK anchor|右章句}}{{SK notes|一部二十二卷}}
+　　{{SK anchor|非國語二卷}}{{SK notes|栁宗元}}
+　　{{SK anchor|右非駁}}{{SK notes|一部二卷}}
+　　{{SK anchor|國語補音三卷}}{{SK notes|宋庠}}國語音略一卷
+　　{{SK anchor|右音}}{{SK notes|二部四卷}}
+　　凡國語四種九部一百三十二卷
+　　{{SK anchor|孝經}}{{SK notes|古文　注觧　義疏　音　廣義　䜟緯}}
+　　{{SK anchor|古文孝經一卷}}{{SK notes|孔安國{{SKchar|2652}}梁末亡逸今疑非古本}}古文孝經㫖觧一卷{{SK notes|司馬温公}}
+　　泰人焚書孝經為河間人顔芝所蔵漢初芝子貞出之凡十八章而長孫氏博士江翁少府后蒼諫議大夫翼奉安昌侯張禹皆名其學又有古文孝經與古文尚書同出而長孫有閨門一章其餘經文大較相似篇簡缺觧又有衍出三章并前合為二十二章孔安國為之{{SKchar|2652}}至劉向典校經籍以顔本比古文除其繁惑以十八章為定鄭衆馬融並為之注又有鄭氏注或云鄭元非也其義與鄭元所注餘書不同梁代安國及鄭氏二家並立國學而安國之本亡於梁亂陳及周齊惟{{SKchar|2652}}鄭氏至隋秘書監王劭於京師訪得孔{{SKchar|2652}}送至河間劉{{SKchar|3271}}{{SKchar|3271}}因序其得喪述其義疏講于人間漸聞之朝廷後遂著令與鄭氏並立儒生諠諠皆云{{SKchar|3271}}自作之非孔氏舊本也
+　　{{SK anchor|右古文}}{{SK notes|二部二卷}}
+　　{{SK anchor|孝經一卷}}{{SK notes|鄭氏注}}孝經一卷{{SK notes|王肅}}孝經一卷{{SK notes|劉邵}}孝經一卷{{SK notes|韋昭}}孝經一卷{{SK notes|孫熙}}孝經一卷{{SK notes|蘇林}}孝經一卷{{SK notes|謝万}}孝經一卷{{SK notes|虞盤佐}}孝經一卷{{SK notes|孔光}}孝經一卷{{SK notes|殷仲文}}孝經一卷{{SK notes|殷叔道}}孝經一卷{{SK notes|釋慧琳}}孝經一卷{{SK notes|唐明皇}}孝經一卷{{SK notes|袁克已}}孝經一卷{{SK notes|尹知章}}孝經一卷{{SK notes|王元感}}孝經嘿注一卷{{SK notes|徐整}}集議孝經一卷{{SK notes|荀朂}}集議孝經一卷{{SK notes|晉東陽太守袁敬仲}}孝經集觧一卷
+　　{{SK anchor|右注觧}}{{SK notes|二十部二十卷}}
+　　{{SK anchor|孝經義疏十八卷}}{{SK notes|梁武帝}}孝經義疏一卷{{SK notes|趙景韶}}孝經義疏三卷{{SK notes|皇侃}}孝經講疏六卷{{SK notes|徐孝克}}孝經義一卷　古文孝經述義五卷{{SK notes|劉{{SKchar|3271}}}}孝經義一卷{{SK notes|梁揚州文學從事太史叔明}}孝經敬愛義一卷{{SK notes|蕭子顯}}孝經私記四卷　孝經私記二卷{{SK notes|周{{SKchar|2592}}正}}宋大明中皇太子講義疏二卷{{SK notes|何約之}}孝經發題四卷{{SK notes|太史叔明}}孝經新義十卷{{SK notes|任希古}}御注孝經二卷{{SK notes|元行冲}}孝經疏五卷{{SK notes|賈公彦}}孝經指要一卷{{SK notes|李嗣真}}孝經義疏{{SK notes|孔穎逹卷亡}}孝經正義三卷{{SK notes|宋朝邢昺}}孝經簡疏一卷{{SK notes|張崇文}}孝經疏一卷{{SK notes|蘇彬}}孝經講疏一卷{{SK notes|任希古}}
+　　{{SK anchor|右義疏}}{{SK notes|二十一部七十二卷}}
+　　{{SK anchor|孝經釋文一卷}}{{SK notes|陸徳明}}
+　　{{SK anchor|右音}}{{SK notes|一部一卷}}
+　　{{SK anchor|演孝經十二卷}}{{SK notes|張士儒}}廣孝經十卷{{SK notes|徐浩}}國語孝經一卷{{SK notes|魏氏遷洛未逹華語孝文命侯伏侯可悉陵以夷言譯孝經之㫖教國人}}
+　　{{SK anchor|右廣義}}{{SK notes|三部二十三卷}}
+　　{{SK anchor|孝經勾命決六卷}}{{SK notes|宋均注}}孝經援神契七卷{{SK notes|宋均注}}孝經内事一卷　孝經緯五卷{{SK notes|宋均注}}孝經雜緯十卷{{SK notes|宋均注}}孝經元命包一卷　孝經古秘援神二卷　孝經左右握二卷　孝經左右契圖二卷　孝經雌雄圖三卷　孝經分野圖一卷　孝經内事星宿講堂七十二弟子圖一卷　口授圖一卷　應瑞圖一卷
+　　䜟緯之學起於前漢及王莽好符命光武以圖䜟興遂盛行於世漢時又詔東平王蒼正五經章句皆命從䜟俗儒趨時益為其學唯孔安國毛公王璜賈逵獨非之至宋大明中始禁圖䜟梁天監以後又重其制隋煬帝發使四方捜天下書籍與䜟緯相渉者皆焚之為吏所紏者至死自是無復有其學至唐惟餘書易禮樂春秋論語孝經七緯詩二緯共九緯書而已
+　　{{SK anchor|右䜟緯}}{{SK notes|十四部四十三卷}}
+　　凡孝經六種六十一部一百六十一卷
+　　{{SK anchor|論語}}{{SK notes|古論語　正經　注觧　章句　義疏　論難　辨正　名氏　音釋　䜟緯　續語}}
+　　{{SK anchor|古文論語十卷}}{{SK notes|鄭元注}}古論語義注譜一卷{{SK notes|徐氏}}
+　　{{SK anchor|右古論語}}{{SK notes|二部十一卷}}
+　　{{SK anchor|蔡邕今文石經論語二卷}}
+　　右正經{{SK notes|一部二卷}}
+　　{{SK anchor|論語十卷}}{{SK notes|鄭元}}論語十卷{{SK notes|王肅}}論語七卷{{SK notes|盧氏}}論語十卷{{SK notes|晋著作郎李充}}論語十卷{{SK notes|梁顗}}論語九卷{{SK notes|孟釐}}論語十卷{{SK notes|袁喬}}論語十卷{{SK notes|尹毅}}論語十卷{{SK notes|張氏}}論語十卷{{SK notes|韓愈}}集觧論語十卷{{SK notes|何晏}}集注論語六卷{{SK notes|衛瓘}}論語集義八卷{{SK notes|晉尚書左中兵郎崔豹}}集觧論語十卷{{SK notes|晉兖州别駕江熙}}盈氏集義十卷　集觧論語十卷{{SK notes|晉孫綽}}續注論語十卷{{SK notes|史辟原}}賛鄭元注十卷{{SK notes|虞喜}}補衛瓘注十卷{{SK notes|宋明帝}}
+　　{{SK anchor|右注觧}}{{SK notes|十九部百八十卷}}
+　　{{SK anchor|論語章句二十卷}}{{SK notes|劉{{SKchar|3271}}}}論語講疏文句義五卷{{SK notes|徐孝克}}
+　　{{SK anchor|右章句}}{{SK notes|二部二十五卷}}
+　　{{SK anchor|論語别義十卷}}{{SK notes|范廙}}論語義疏十卷{{SK notes|禇仲都}}論語義疏十卷{{SK notes|梁皇侃}}論語大義觧十卷{{SK notes|崔豹}}論語述義十卷{{SK notes|劉{{SKchar|3271}}}}論語義疏八卷　論語義疏二卷{{SK notes|張冲}}論語述義二十卷{{SK notes|戴詵}}雜義十三卷　别義十卷　論語正義十卷{{SK notes|宋朝邢昺}}論語展掌疏十卷
+　　{{SK anchor|右義疏}}{{SK notes|十二部一百二十三卷}}
+　　論語難鄭一卷　論語標指一卷{{SK notes|司馬氏}}論語雜問一卷論語體略二卷{{SK notes|晉郭象}}論語㫖序三卷{{SK notes|晉繆播}}論語釋疑
+　　{{SK anchor|三卷}}{{SK notes|王弼}}論語釋一卷{{SK notes|張憑}}論語釋疑十卷{{SK notes|晉欒肇}}論語駁三卷{{SK notes|欒肇}}論語義注隠三卷　論語陳説一卷{{SK notes|僧賛寜}}論語筆觧二卷{{SK notes|韓愈}}論語樞要十卷　論語元義二卷
+　　{{SK anchor|右論難}}{{SK notes|十四部四十三卷}}
+　　{{SK anchor|論語刋誤二卷}}{{SK notes|李涪}}論語辨十卷{{SK notes|周式}}
+　　{{SK anchor|右辨正}}{{SK notes|二部十二卷}}
+　　{{SK anchor|論語孔子弟子目録一卷}}{{SK notes|鄭元}}論語撰人名一卷　論語世譜一卷
+　　{{SK anchor|右名氏譜}}{{SK notes|三部三卷}}
+　　{{SK anchor|論語音二卷}}{{SK notes|徐邈}}論語釋文十一卷
+　　{{SK anchor|右音釋}}{{SK notes|二部十三卷}}
+　　{{SK anchor|論語䜟八卷}}
+　　右䜟緯{{SK notes|一部八卷}}
+　　{{SK anchor|孔叢子七卷}}{{SK notes|陳勝博士孔鮒撰}}孔志十卷{{SK notes|梁劉被撰}}孔叢子釋文一卷{{SK notes|宋咸}}孔子家語二十一卷{{SK notes|王肅注}}當家語二卷{{SK notes|魏博士張融撰}}孔子正言二十卷{{SK notes|梁武帝}}次論語十卷{{SK notes|王勃撰}}
+　　{{SK anchor|右續語}}{{SK notes|七部七十一卷}}
+　　凡論語十一種六十五部四百八十二卷
+　　{{SK anchor|爾雅}}{{SK notes|注觧　圖　義　音　廣雅　雜爾雅　釋言　釋名　方言}}
+　　{{SK anchor|爾雅三卷}}{{SK notes|漢中散大夫樊光}}爾雅七卷{{SK notes|孫炎}}爾雅三卷{{SK notes|劉歆}}爾雅三卷{{SK notes|漢犍為文學中黄門李廵}}爾雅五卷{{SK notes|郭璞}}集注爾雅十卷{{SK notes|梁黄門沈璇}}
+　　{{SK anchor|右注觧}}{{SK notes|六部三十一卷}}
+　　{{SK anchor|爾雅圖十卷}}{{SK notes|郭璞}}爾雅圖賛二卷{{SK notes|江瓘}}
+　　{{SK anchor|右圖}}{{SK notes|二部十二卷}}
+　　{{SK anchor|爾雅正義十卷}}{{SK notes|邢昺}}爾雅兼義十卷　爾雅發題一卷
+　　{{SK anchor|右義}}{{SK notes|三部二十一卷}}
+　　{{SK anchor|爾雅音八卷}}{{SK notes|江瓘}}爾雅音一卷{{SK notes|孫炎}}爾雅音義一卷　爾雅音略三卷{{SK notes|郭璞}}音訓二卷
+　　{{SK anchor|右音}}{{SK notes|五部十五卷}}
+　　{{SK anchor|廣雅四卷}}{{SK notes|魏博士張楫}}廣雅音四卷{{SK notes|隋秘書學士曹憲}}博雅十卷{{SK notes|曹憲撰避煬帝諱改曰博}}
+　　{{SK anchor|右廣雅}}{{SK notes|三部十八卷}}
+　　{{SK anchor|小爾雅一卷}}{{SK notes|楚孔鮒撰李軌注}}續爾雅一卷{{SK notes|劉伯荘}}蜀爾雅三卷{{SK notes|李商隠}}羌爾雅一卷
+　　{{SK anchor|右雜爾雅}}{{SK notes|四部六卷}}
+　　{{SK anchor|釋俗語八卷}}{{SK notes|劉霽}}稱謂五卷{{SK notes|後周盧辨}}俗説三卷{{SK notes|沈約}}古今訓十一卷{{SK notes|張顯}}
+　　{{SK anchor|右釋言}}{{SK notes|四部二十七卷}}
+　　{{SK anchor|釋名八卷}}{{SK notes|劉熙}}辨釋名一卷{{SK notes|韋昭}}
+　　{{SK anchor|右釋名}}{{SK notes|二部九卷}}
+　　{{SK anchor|方言十三卷}}{{SK notes|揚雄撰郭璞注}}方言十四卷{{SK notes|王浩撰}}方言釋音一卷{{SK notes|吴良輔撰}}河洛語音一卷{{SK notes|王長孫}}列郡雅言一卷　國語十五卷　國語真歌十卷　國語十八傳一卷　國語御歌十一卷　國語雜文十五卷　國語物名四卷{{SK notes|後魏侯伏侯可悉陵}}國語雜物名三卷{{SK notes|侯伏侯可悉陵}}國語號令四卷
+　　後魏初定中原軍容號令皆以夷語後染華俗多不能通故録其本言相傳教習謂之國語
+　　鮮卑語五卷　鮮卑語十卷　鮮卑號令一卷{{SK notes|周武帝}}林邑國語一卷　雜號令一卷　辨鴂録一卷　西蕃譯語一卷　釋梵語一卷　譯夷語録一卷{{SK notes|僧惟古}}蕃爾雅一卷
+　　{{SK anchor|右方言}}{{SK notes|三十三部一百一十六卷}}
+　　凡爾雅九種五十二部二百五十五卷
+　　{{SK anchor|經觧}}{{SK notes|諡法}}
+　　{{SK anchor|五經通義九卷}}{{SK notes|劉向}}白虎通六卷{{SK notes|班固等}}五經異義十卷{{SK notes|許慎}}五經然否論五卷{{SK notes|晉散騎常侍譙周}}五經鈎沉十卷{{SK notes|晉揚方}}五經大義三卷{{SK notes|戴逵}}五經咨疑八卷{{SK notes|周楊思}}五經異同評一卷{{SK notes|賀瑒}}五經大義十卷{{SK notes|後周樊文深}}經典大義十二卷{{SK notes|沈文阿}}五經大義五卷{{SK notes|何妥}}五經通義八卷{{SK notes|劉炫}}五經要義五卷{{SK notes|雷氏}}五經正名十二卷{{SK notes|劉{{SKchar|3271}}}}五經析義二十八卷{{SK notes|邯鄲綽}}五經宗略二十三卷{{SK notes|元延明}}五經雜義六卷{{SK notes|孫暢之}}長春義記一百卷{{SK notes|梁簡文帝}}逰元桂林二十卷{{SK notes|張機}}六經通數十卷{{SK notes|梁舍人鮑泉}}七經義綱略三十卷{{SK notes|樊文深}}七經論三卷{{SK notes|樊文深}}質疑五卷{{SK notes|樊文深}}經典元儒大義序録十卷{{SK notes|沈文阿}}六藝論一卷{{SK notes|鄭元}}聖證論十二卷{{SK notes|王肅}}鄭志十一卷{{SK notes|魏侍中鄭小同}}鄭記六卷{{SK notes|鄭元弟子}}五經對訣四卷{{SK notes|趙英}}五經要略{{SK notes|顔真卿}}六説五卷{{SK notes|劉迅}}六經外傳三十七卷{{SK notes|劉貺}}五經微㫖十四卷{{SK notes|張鎰}}九經師授譜一卷{{SK notes|韋表微}}微言集注四卷{{SK notes|袁僑卿}}經傳要略十卷{{SK notes|髙重}}經史釋題二卷{{SK notes|唐李肇}}授經圖三卷　九經餘義一百卷{{SK notes|宋朝處士黄敏}}演聖通論三十六卷{{SK notes|胡旦}}辨經正義七卷{{SK notes|張沂}}兼明書五卷{{SK notes|邱光庭}}五經要㫖五十卷{{SK notes|齊唐}}九經類義二卷　九經抄二卷　九經要抄一卷　叙元要抄一卷　九經釋難五卷　九經演義十卷　九經㫖九卷　經典質疑六卷{{SK notes|胡順之}}詩樂説三卷　群經索隠三十卷　七經小傳五卷{{SK notes|劉敞}}經傳發隠七卷{{SK notes|李景陽}}刋謬正俗八卷{{SK notes|顔師古}}經典釋文序録一卷{{SK notes|陸徳明}}
+　　{{SK anchor|右經觧}}{{SK notes|五十八部七百四十四卷}}
+　　周公諡法一卷　春秋諡法一卷　諡法三卷{{SK notes|劉熙}}諡例十卷{{SK notes|特進中軍將軍沈約}}魏晉諡議十三卷{{SK notes|何晏}}諡法五卷{{SK notes|梁太府鄉賀瑒}}續今古諡法十四卷{{SK notes|唐王彦威}}君臣諡議一卷{{SK notes|虞世南}}諡議五卷{{SK notes|蘇洵}}汝南君諡議二卷{{SK notes|見隋志}}諱行録一卷{{SK notes|見唐志}}
+　　{{SK anchor|右諡法}}{{SK notes|十一部五十六卷}}
+　　{{SK anchor|凡經觧二種六十九部八百卷}}
+
+
+
+
+
+
+
+
+
+
+
+
+　　通志卷六十三
+</poem></onlyinclude>{{SKQS footer|title=通志|section=卷六十三|prev=卷六十二|prev_link=卷062|next=卷六十四|next_link=卷064|type=史}}{{PD-old}}

@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=廣弘明集|section=音釋十六|prev=卷第十六|next=卷第十七|type=子|notes=唐 釋道宣 編 景上海涵芬樓藏明刊本}}
+<pages from="34" to="35" index="Sibu Congkan0482-釋道宣-廣弘明集-12-06.djvu" />

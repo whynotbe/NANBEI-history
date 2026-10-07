@@ -1,0 +1,117 @@
+﻿c_appt_code,c_appt_desc_chn,c_appt_desc
+0,未詳,Unknown
+1,正授,Regular Appointment
+2,權,Provisional Appointment
+3,行,Lower Acting Appointment
+4,守,Higher Acting Appointment
+5,試,Exceptional Acting Appointment
+6,權發遣,Temporary Appointment
+7,借,Temporary Higher Office Appointment
+8,假,Temporary
+9,添差,Extraordinary Appointment
+10,添差不釐務,Nominal Extraordinary Appointment
+11,添差仍釐務,Extraordinary Appointment Serving
+12,視,Provisional Appointment
+13,攝,Irregular Appointment
+21,封,Enfoeffed As
+22,贈,Granted The Nominal Title Of
+23,累贈,Granted The Further Nominal Title Of
+24,卒贈,Granted The Nominal Title At Death
+25,檢校,Honorary Title
+26,入内,Eunuch
+27,追封,Posthumously Enfoeffed
+28,追贈,Posthumously Granted The Nominal Title Of
+29,卒封,Enfoeffed At Death As
+30,累封,Further Enfoeffed As
+31,襲封,Inherited Enfoeffement As
+32,署,Acting (or deputy)
+33,判,Used When The Official'S Rank Is Higher  Than The Position Expects
+34,簽書,Used When The Official'S Rank Is Lower Than The Position Expects
+35,權管勾,Used When The Official'S Rank Is Lower Than The Position Expects
+36,致仕,Retired
+37,兼,Concurrent Appointment
+38,恩例,
+39,進階,
+40,表,
+41,蔭襲,
+42,任,
+43,誥贈,
+44,誥封,
+45,授,
+46,充,
+47,遙授,
+48,賜,
+49,改,
+50,特進,
+51,進階,
+52,陞,
+53,追,
+54,援例,
+55,敕封,
+56,贈署,
+57,進,
+59,加,
+60,勅贈,
+61,例授,
+62,選,
+63,調,
+64,降,
+65,補,
+66,差,
+67,歷,
+68,歷陞,
+69,復補,
+70,復除,
+71,謫,
+72,轉,
+73,復稱,
+74,復改,
+75,復,
+76,改補,
+77,起,
+78,調繁,
+79,擬授,
+80,左遷,
+81,超陞,
+82,降陞,
+84,蔭,
+85,復原,
+86,復調,
+87,補陞,
+88,除,
+89,遷,
+90,調補,
+92,降除,
+93,暫擬,
+94,暫,
+95,降補,
+96,考選,
+97,擬,
+98,歷任,
+99,復起,
+100,候選,Candidate For A Post
+102,冊封,Grant Of Nobility
+103,加贈,Additional Posthumous Office
+104,銜,Brevet Or Nominal Office
+105,捐,Office By Contribution
+106,晉贈,Posthumous Promotion
+107,暫署,
+108,欽封,Enfoeffment By The Emperor
+109,特贈,Posthumous Office
+110,襲,Office By Inheritance
+111,護,
+112,復除,Restored To Previous Office
+113,捐復,Restored To Position By Contribution
+114,降襲,
+115,追復,Restored To Position Posthumously
+116,行走,Concurrently Serving
+117,學習行走,Attached On Probation
+118,額外,Supernumerary
+119,值年,On Annual Duty
+120,上,Promoted
+121,上行走,Superior Concurrently Serving
+122,行在,Auxiliary (Prefix)
+123,試用,Probationer (Prefix)
+124,員外置同正員,Additional Appointment That Is Equivalent To Regular Officer
+125,借補,Expedient appointment
+126,帶行,Honorably Acting Appointment

@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=廣弘明集|section=序|prev=|next=目録|type=子|notes=唐 釋道宣 編 景上海涵芬樓藏明刊本}}
+<pages from="4" to="9" index="Sibu Congkan0477-釋道宣-廣弘明集-12-01.djvu" />

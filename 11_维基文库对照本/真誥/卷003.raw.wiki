@@ -1,0 +1,7 @@
+{{header2
+|title=[[../|真誥]]
+|section=卷三
+|author=陶弘景
+|previous=[[../卷002|卷二]]
+|next=[[../卷004|卷四]]
+}}<pages index="CADAL06050869 真誥·卷一~卷四.djvu" from=91 to=128 fromsection="" tosection=""/>

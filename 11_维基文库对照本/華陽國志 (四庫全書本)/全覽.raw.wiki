@@ -1,0 +1,21 @@
+{{SKQS read all header|title=華陽國志|section=全覽|prev=|prev_link=|next=|next_link=|type=史}}<!--
+
+請根據四庫全書掃描版校對本頁，標準見[[Wikisource:四庫全書原文]]。加標點請另外建立頁面。
+
+
+-->{{SKQS readall starter}}﻿{{:華陽國志 (四庫全書本)}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:華陽國志 (四庫全書本)/卷01}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:華陽國志 (四庫全書本)/卷02}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:華陽國志 (四庫全書本)/卷03}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:華陽國志 (四庫全書本)/卷04}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:華陽國志 (四庫全書本)/卷05}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:華陽國志 (四庫全書本)/卷06}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:華陽國志 (四庫全書本)/卷07}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:華陽國志 (四庫全書本)/卷08}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:華陽國志 (四庫全書本)/卷09}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:華陽國志 (四庫全書本)/卷10上}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:華陽國志 (四庫全書本)/卷10中}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:華陽國志 (四庫全書本)/卷10下}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:華陽國志 (四庫全書本)/卷11}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:華陽國志 (四庫全書本)/卷12}}{{SKQS readall ender}}
+{{SKQS read all footer|title=華陽國志|section=全覽|prev=|prev_link=|next=|next_link=|type=史}}{{PD-old}}

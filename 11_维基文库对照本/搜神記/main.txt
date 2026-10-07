@@ -1,0 +1,34 @@
+{{header
+| title    = 搜神記
+| section  = 
+|times=晉
+| author   = 干寶
+| previous = 
+| next     = 
+| notes    = 《搜神記》，東晉-{zh:干;zh-hans:干;zh-hant:干}-寶著，對後世中國小說的影響深遠。原有三十-{zh:卷;zh-hans:卷;zh-hant:卷}-，今存二十-{zh:卷;zh-hans:卷;zh-hant:卷}-。
+
+本文檔採明萬曆年間胡震亨編刻《秘册滙函》版本。大致而言，第一-{zh:卷;zh-hans:卷;zh-hant:卷}-至第三-{zh:卷;zh-hans:卷;zh-hant:卷}-記神仙方士及其法術施化，第四-{zh:卷;zh-hans:卷;zh-hant:卷}-至第五-{zh:卷;zh-hans:卷;zh-hant:卷}-記靈異感應，第六-{zh:卷;zh-hans:卷;zh-hant:卷}-至第十-{zh:卷;zh-hans:卷;zh-hant:卷}-記妖祥夢卜，第十一-{zh:卷;zh-hans:卷;zh-hant:卷}-記歷史人物傳說，第十二-{zh:卷;zh-hans:卷;zh-hant:卷}-至第十四-{zh:卷;zh-hans:卷;zh-hant:卷}-記怪物異聞，第十五-{zh:卷;zh-hans:卷;zh-hant:卷}-至第十六-{zh:卷;zh-hans:卷;zh-hant:卷}-記鬼魂復生，第十七-{zh:卷;zh-hans:卷;zh-hant:卷}-至第十九-{zh:卷;zh-hans:卷;zh-hant:卷}-記精怪作祟，第二十-{zh:卷;zh-hans:卷;zh-hant:卷}-記因果報應。
+}}
+序
+第一-{zh:卷;zh-hans:卷;zh-hant:卷}-
+第二-{zh:卷;zh-hans:卷;zh-hant:卷}-
+第三-{zh:卷;zh-hans:卷;zh-hant:卷}-
+第四-{zh:卷;zh-hans:卷;zh-hant:卷}-
+第五-{zh:卷;zh-hans:卷;zh-hant:卷}-
+第六-{zh:卷;zh-hans:卷;zh-hant:卷}-
+第七-{zh:卷;zh-hans:卷;zh-hant:卷}-
+第八-{zh:卷;zh-hans:卷;zh-hant:卷}-
+第九-{zh:卷;zh-hans:卷;zh-hant:卷}-
+第十-{zh:卷;zh-hans:卷;zh-hant:卷}-
+第十一-{zh:卷;zh-hans:卷;zh-hant:卷}-
+第十二-{zh:卷;zh-hans:卷;zh-hant:卷}-
+第十三-{zh:卷;zh-hans:卷;zh-hant:卷}-
+第十四-{zh:卷;zh-hans:卷;zh-hant:卷}-
+第十五-{zh:卷;zh-hans:卷;zh-hant:卷}-
+第十六-{zh:卷;zh-hans:卷;zh-hant:卷}-
+第十七-{zh:卷;zh-hans:卷;zh-hant:卷}-
+第十八-{zh:卷;zh-hans:卷;zh-hant:卷}-
+第十九-{zh:卷;zh-hans:卷;zh-hant:卷}-
+第二十-{zh:卷;zh-hans:卷;zh-hant:卷}-
+
+Category:異聞

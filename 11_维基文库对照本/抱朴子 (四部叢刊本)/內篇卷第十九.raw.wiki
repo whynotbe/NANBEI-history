@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=抱朴子|section=內篇卷第十九|prev=內篇卷第十八|next=內篇卷第二十|type=子|notes=晉 葛洪 撰 景江南圖書館藏明嘉靖乙丑魯藩刊本}}
+<pages from="122" to="141" index="Sibu Congkan0541-葛洪-抱朴子-6-3.djvu" />

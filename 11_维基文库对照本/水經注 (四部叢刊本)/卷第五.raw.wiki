@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=水經注|section=卷第五|prev=卷第四|next=卷第六|type=史|notes=後魏 酈道元 注 景上海涵芬樓藏武英殿聚珍版本}}
+<pages from="110" to="191" index="Sibu Congkan0290-酈道元-水經注-12-02.djvu" />

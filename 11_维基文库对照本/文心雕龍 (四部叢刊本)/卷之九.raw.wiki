@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=文心雕龍|section=卷之九|prev=卷之八|next=卷之十|type=集|notes=梁 劉勰 撰 景上海涵芬樓藏明刊本}}
+<pages from="180" to="201" index="Sibu Congkan2058-劉勰-文心雕龍-1-1.djvu" />

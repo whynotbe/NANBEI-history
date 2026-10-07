@@ -1,0 +1,73 @@
+{{:世說新語/序}}
+<div id="德行第一" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''德行第一'''</div>
+{{:世說新語/德行}}
+<div id="言語第二" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''言語第二'''</div>
+{{:世說新語/言語}}
+<div id="政事第三" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''政事第三'''</div>
+{{:世說新語/政事}}
+<div id="文學第四" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''文學第四'''</div>
+{{:世說新語/文學}}
+<div id="方正第五" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''方正第五'''</div>
+{{:世說新語/方正}}
+<div id="雅量第六" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''雅量第六'''</div>
+{{:世說新語/雅量}}
+<div id="識鑒第七" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''識鑒第七'''</div>
+{{:世說新語/識鑒}}
+<div id="賞譽第八" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''賞譽第八'''</div>
+{{:世說新語/賞譽}}
+<div id="品藻第九" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''品藻第九'''</div>
+{{:世說新語/品藻}}
+<div id="規箴第十" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''規箴第十'''</div>
+{{:世說新語/規箴}}
+<div id="捷悟第十一" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''捷悟第十一'''</div>
+{{:世說新語/捷悟}}
+<div id="夙惠第十二" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''夙惠第十二'''</div>
+{{:世說新語/夙惠}}
+<div id="豪爽第十三" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''豪爽第十三'''</div>
+{{:世說新語/豪爽}}
+<div id="容止第十四" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''容止第十四'''</div>
+{{:世說新語/容止}}
+<div id="自新第十五" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''自新第十五'''</div>
+{{:世說新語/自新}}
+<div id="企羡第十六" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''企羡第十六'''</div>
+{{:世說新語/企羡}}
+<div id="傷逝第十七" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''傷逝第十七'''</div>
+{{:世說新語/傷逝}}
+<div id="棲逸第十八" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''棲逸第十八'''</div>
+{{:世說新語/棲逸}}
+<div id="賢媛第十九" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''賢媛第十九'''</div>
+{{:世說新語/賢媛}}
+<div id="術解第二十" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''術解第二十'''</div>
+{{:世說新語/術解}}
+<div id="巧蓺第二十一" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''巧蓺第二十一'''</div>
+{{:世說新語/巧蓺}}
+<div id="寵禮第二十二" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''寵禮第二十二'''</div>
+{{:世說新語/寵禮}}
+<div id="任誕第二十三" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''任誕第二十三'''</div>
+{{:世說新語/任誕}}
+<div id="簡傲第二十四" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''簡傲第二十四'''</div>
+{{:世說新語/簡傲}}
+<div id="排調第二十五" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''排調第二十五'''</div>
+{{:世說新語/排調}}
+<div id="輕詆第二十六" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''輕詆第二十六'''</div>
+{{:世說新語/輕詆}}
+<div id="假譎第二十七" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''假譎第二十七'''</div>
+{{:世說新語/假譎}}
+<div id="黜免第二十八" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''黜免第二十八'''</div>
+{{:世說新語/黜免}}
+<div id="儉嗇第二十九" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''儉嗇第二十九'''</div>
+{{:世說新語/儉嗇}}
+<div id="汰侈第三十" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''汰侈第三十'''</div>
+{{:世說新語/汰侈}}
+<div id="忿狷第三十一" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''忿狷第三十一'''</div>
+{{:世說新語/忿狷}}
+<div id="讒險第三十二" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''讒險第三十二'''</div>
+{{:世說新語/讒險}}
+<div id="尤悔第三十三" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''尤悔第三十三'''</div>
+{{:世說新語/尤悔}}
+<div id="紕漏第三十四" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''紕漏第三十四'''</div>
+{{:世說新語/紕漏}}
+<div id="惑溺第三十五" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''惑溺第三十五'''</div>
+{{:世說新語/惑溺}}
+<div id="仇隟第三十六" style="background: #d9e3f1; font-size: 120%; padding: 3px;">'''仇隟第三十六'''</div>
+{{:世說新語/仇隟}}

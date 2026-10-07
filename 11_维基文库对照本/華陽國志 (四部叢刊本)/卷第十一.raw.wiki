@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=華陽國志|section=卷第十一|prev=卷第十下|next=卷第十二|type=史|notes=晉 常璩 撰 景烏程劉氏嘉業堂藏明錢叔寶寫本}}
+<pages from="116" to="165" index="Sibu Congkan0288-常璩-華陽國志-3-3.djvu" />

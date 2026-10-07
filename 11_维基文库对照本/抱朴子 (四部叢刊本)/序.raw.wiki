@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=抱朴子|section=序|prev=敘|next=內篇卷第一|type=子|notes=晉 葛洪 撰 景江南圖書館藏明嘉靖乙丑魯藩刊本}}
+<pages from="10" to="13" index="Sibu Congkan0539-葛洪-抱朴子-6-1.djvu" />

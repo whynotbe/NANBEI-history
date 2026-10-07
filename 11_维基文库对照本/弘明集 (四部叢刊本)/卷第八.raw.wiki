@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=弘明集|section=卷第八|prev=音釋七|next=音釋八|type=子|notes=梁 釋僧祐 編 景上海涵芬樓藏明刊本}}
+<pages from="102" to="143" index="Sibu Congkan0474-釋僧祐-弘明集-5-3.djvu" />

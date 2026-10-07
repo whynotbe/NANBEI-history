@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=廣弘明集|section=音釋二十七上|prev=卷第二十七上|next=卷第二十七下|type=子|notes=唐 釋道宣 編 景上海涵芬樓藏明刊本}}
+<pages from="134" to="135" index="Sibu Congkan0486-釋道宣-廣弘明集-12-10.djvu" />

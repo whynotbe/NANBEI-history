@@ -1,0 +1,31 @@
+{{SKQS read all header|title=隋書|section=全覽3|prev=全覽2|prev_link=全覽2|next=|next_link=|type=史}}<!--
+
+請根據四庫全書掃描版校對本頁，標準見[[Wikisource:四庫全書原文]]。加標點請另外建立頁面。
+
+
+-->{{SKQS readall starter}}﻿{{:隋書 (四庫全書本)/卷61}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:隋書 (四庫全書本)/卷62}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:隋書 (四庫全書本)/卷63}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:隋書 (四庫全書本)/卷64}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:隋書 (四庫全書本)/卷65}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:隋書 (四庫全書本)/卷66}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:隋書 (四庫全書本)/卷67}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:隋書 (四庫全書本)/卷68}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:隋書 (四庫全書本)/卷69}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:隋書 (四庫全書本)/卷70}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:隋書 (四庫全書本)/卷71}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:隋書 (四庫全書本)/卷72}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:隋書 (四庫全書本)/卷73}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:隋書 (四庫全書本)/卷74}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:隋書 (四庫全書本)/卷75}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:隋書 (四庫全書本)/卷76}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:隋書 (四庫全書本)/卷77}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:隋書 (四庫全書本)/卷78}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:隋書 (四庫全書本)/卷79}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:隋書 (四庫全書本)/卷80}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:隋書 (四庫全書本)/卷81}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:隋書 (四庫全書本)/卷82}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:隋書 (四庫全書本)/卷83}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:隋書 (四庫全書本)/卷84}}{{SKQS readall ender}}
+{{SKQS readall starter}}﻿{{:隋書 (四庫全書本)/卷85}}{{SKQS readall ender}}
+{{SKQS read all footer|title=隋書|section=全覽3|prev=全覽2|prev_link=全覽2|next=|next_link=|type=史}}{{PD-old}}

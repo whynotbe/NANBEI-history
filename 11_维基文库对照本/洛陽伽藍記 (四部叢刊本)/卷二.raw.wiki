@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=洛陽伽藍記|section=卷二|prev=卷一|next=卷三|type=史|notes=後魏 楊衒之 撰 張元濟 撰校勘記 明如隱堂本}}
+<pages from="56" to="101" index="Sibu Congkan Sanbian183-楊衒之-洛陽伽藍記-2-1.djvu" />
